@@ -11,4 +11,4 @@ TODO:
 5. Mirror each article on the wiki.
 6. Close this repository as it will be redundant once the wiki is stood up.
 
-If we can, we need to find a way to get the public stuff off of the [OSKR Support Knowledge Base](oskr.ddl.io) as well, but the route is down.
+If we can, we need to find a way to get the public stuff off of the [OSKR Support Knowledge Base](https://oskr.ddl.io) as well, but the route is down.
