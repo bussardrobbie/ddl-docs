@@ -1,0 +1,450 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Cozmo&#x27;s Cubes - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Learn below everything you need to know about Cozmo&#x27;s cubes. Sections: What battery does the cube use? How long does the battery last? How do I change the batte"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/222-cozmos-cubes"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Cozmo&#x27;s Cubes" />
+            <meta name="twitter:description" content="Learn below everything you need to know about Cozmo&#x27;s cubes. Sections: What battery does the cube use? How long does the battery last? How do I change the batte"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691955281603.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Cozmo","item":"https://support.digitaldreamlabs.com/collection/9-cozmo"},{"@type":"ListItem","position":3,"name":"Cozmo's Cubes","item":"https://support.digitaldreamlabs.com/article/222-cozmos-cubes"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Cozmo&#x27;s Cubes</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p><span style="font-weight: 400;">Learn below everything you need to know about Cozmo's cubes.</span></p>
+<hr> 
+<div class="sections"> 
+ <h2>Sections:</h2> 
+ <ul> 
+  <li><a href="#h_916401561331539002421350"><strong><span class="wysiwyg-color-black">What battery does the cube use?</span></strong></a></li> 
+  <li><a href="#h_904779067551539002425973"><strong><span class="wysiwyg-color-black">How long does the battery last?</span></strong></a></li> 
+  <li><a href="#h_704656899181539002339381"><strong><span class="wysiwyg-color-black">How do I change the battery?</span></strong></a></li> 
+  <li><a href="#h_12817367771536073392790"><strong><span class="wysiwyg-color-black">How does Cozmo interact with the cube?</span></strong></a></li> 
+  <li id="h_694601490141536073398950"><a href="#h_694601490141536073398950"><strong><span class="wysiwyg-color-black">Indicators of cubes not working correctly</span></strong></a></li> 
+  <li><a href="#h_773491416181536073403574"><strong><span class="wysiwyg-color-black">Troubleshooting</span></strong></a></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>What battery does the cube use?</h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Alkaline N / E90 / LR1 1.5 Volt batteries</span></li> 
+  <li><span style="font-weight: 400;">Do not use A23 batteries - these will damage the Cube</span></li> 
+  <li><span style="font-weight: 400;">Do not use rechargeable batteries - these will damage the Cube</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>How long does the battery last?</h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Batteries come pre-installed in Cozmo's Cube</span></li> 
+  <li><span style="font-weight: 400;">Once the pull-tab is removed, the battery will start to lose charge</span></li> 
+  <li><span style="font-weight: 400;">The battery will last 20-40 hours of gameplay depending on how much Cozmo interacts with the Cube</span></li> 
+  <li><span style="font-weight: 400;">To test if the battery is working, reset the cube:</span></li> 
+  <ul> 
+   <li><span style="font-weight: 400;">unscrew the lid from the cube</span></li> 
+   <li><span style="font-weight: 400;">wait for 10 seconds</span></li> 
+   <li><span style="font-weight: 400;">screw the lid back on</span></li> 
+   <li><span style="font-weight: 400;">the cube should flash red&gt;green&gt;blue if the battery is fine</span></li> 
+  </ul> 
+  <li><span style="font-weight: 400;">In Settings &gt; Cube Status, there will be a <span class="wysiwyg-color-red">red</span> Low Battery icon if the battery does not have enough power to sync / connect and needs to be replaced. Note: the low battery icon does not indicate battery voltage</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>How do I change the battery?</h2> 
+ <ol> 
+  <li><span style="font-weight: 400;">Remove the cube’s screw using a cross head screwdriver and open the cube’s cover</span></li> 
+  <li> <span style="font-weight: 400;">Remove and </span><a href="//support.digitaldreamlabs.com/article/129-product-disposal-information">safely dispose</a><span style="font-weight: 400;"> of the old battery</span> </li> 
+  <li><span style="font-weight: 400;">Insert a new battery, positive end up</span></li> 
+  <li><span style="font-weight: 400;">Replace the cover and screw the cover back down (not too tightly which can damage the cube)</span></li> 
+ </ol> 
+ <p><span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76e704286364bc975c21/img-25345-1585280584-1033400553.png" alt="Battery_Diagram.png"></span></p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>How does Cozmo interact with his cubes?</h2> 
+ <p>Cozmo interacts with his cubes on two levels:&nbsp;</p> 
+ <ul> 
+  <li> <strong>Visually: </strong>Cozmo can tell the difference between each cube by its markings.&nbsp;He can recognize the cube even without a battery</li> 
+ </ul> 
+ <p><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76e82c7d3a7e9ae9e339/img-2828-1585280656-1432163705.png" alt="" width="450" height="121"></p> 
+ <ul> 
+  <li> <strong>Wirelessly:</strong> Cozmo can connect wirelessly to each of his cubes if it is nearby. If a cube is too far away or the battery is low or dead, Cozmo may not be able to sync with it</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>Indicators of cubes not working correctly</h2> 
+ <ul> 
+  <li>One of all of the cubes LEDs do not light up but cube is detected in the “Settings &gt; Cube status” menu</li> 
+  <li>Cozmo is unable to detect a cube</li> 
+  <li>Cozmo loses connection to a cube</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>Troubleshooting</h2> 
+ <ul> 
+  <li>If only one cube seems to be problematic, you may switch the batteries of a working cube to check if this is due to a dead battery</li> 
+  <li>Reset the cube: 
+   <ul> 
+    <li>unscrew the lid from the cube</li> 
+    <li>wait for 10 seconds</li> 
+    <li>screw the lid back on</li> 
+    <li>the cube should flash red&gt;green&gt;blue if the battery is fine</li> 
+   </ul> </li> 
+  <li>Move the cubes nearer to Cozmo</li> 
+  <li>Check the cubes are synced in “settings &gt; cube status” 
+   <ul> 
+    <li>when connected, you should see a green check</li> 
+    <li>if Cozmo is unable to sync to a cube, it will say, "not connected"</li> 
+    <li>tap "auto connect to cubes" to re-sync the cubes, especially after resetting or changing the battery</li> 
+   </ul> </li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/222-cozmos-cubes">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2023-03-25 >Last updated on March 25, 2023</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759be52c7d3a7e9ae98b98"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/18-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/496-setting-cozmo-up">Setting Cozmo Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/492-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/499-cozmo-cubes-accessories">Cozmo Cubes &amp; Accessories  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/19-tips-tricks">Tips &amp; Tricks  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/494-reset-cozmo">Reset Cozmo  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/495-code-lab">Code Lab  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/498-education-mode">Education Mode  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/35-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/503-privacy-security">Privacy &amp; Security  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/502-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/501-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/497-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/493-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

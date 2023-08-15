@@ -1,0 +1,453 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Launching Your Escape Pod, Step 4: Onboarding Your Vector Robot - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Onboarding Your Vector Robot It&#x27;s time to connect Vector to the Escape Pod, then update his firmware for Escape Pod! Open a web browser window and navigate to h"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/360-launching-your-escape-pod-4"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Launching Your Escape Pod, Step 4: Onboarding Your Vector Robot" />
+            <meta name="twitter:description" content="Onboarding Your Vector Robot It&#x27;s time to connect Vector to the Escape Pod, then update his firmware for Escape Pod! Open a web browser window and navigate to h"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691863952832.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Escape Pod","item":"https://support.digitaldreamlabs.com/collection/364-escape-pod"},{"@type":"ListItem","position":3,"name":"Launching Your Escape Pod, Step 4: Onboarding Your Vector Robot","item":"https://support.digitaldreamlabs.com/article/360-launching-your-escape-pod-4"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper withRelated">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Launching Your Escape Pod, Step 4: Onboarding Your Vector Robot</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <h2 data-children-count="0">Onboarding Your Vector Robot</h2>
+<p data-children-count="0"></p>
+<section class="callout-blue" data-children-count="0">
+ <p> It's time to connect Vector to the Escape Pod, then update his firmware for Escape Pod!</p>
+</section>
+<iframe src="https://player.vimeo.com/video/512632548" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen data-children-count="0" data-dashlane-frameid="13518"> </iframe>
+<ol data-children-count="0"> 
+ <li>Open a web browser window and navigate to <a href="http://escapepod.local/">http://escapepod.local</a> 
+  <ol> 
+   <li><strong>NOTE:&nbsp;</strong>Some Windows computers may not be able to find the Escape Pod's address. If you are on a Windows PC and you cannot visit <a href="http://escapepod.local:">http://escapepod.local</a>: 
+    <ol> 
+     <li>Please open the Start Menu, then find the "Run" option. You may also press Win+R to bring up the "Run" dialog box.</li> 
+     <li>Insert the following into the dialog box: <em>reg add "HKLM\Software\Policies\Microsoft\Windows NT\DNSClient" /v EnableMulticast /t REG_DWORD /d 1 /f</em></li> 
+     <li>Click "OK". Reboot your computer and then continue.</li> 
+    </ol></li> 
+  </ol></li> 
+ <li>The Licensing screen will appear. 
+  <ol> 
+   <li>Click "Add A License To Start"</li> 
+   <li>Copy the License Key obtained from Digital Dream Labs via email and paste it into the text field.</li> 
+   <li>Click "Save". 
+    <ol> 
+     <li>Note: If you need to add multiple licenses, use the "Add License" button at the top of the page before continuing. You can add more licenses at any time.</li> 
+    </ol></li> 
+  </ol></li> 
+ <li>Boot Vector into Firmware Recovery (<strong>skip this if upgrading from Escape Pod 1.0</strong>): 
+  <ol> 
+   <li>Place Vector onto his charger.</li> 
+   <li>Press and hold Vector’s Back Button for around 15 seconds in total until the rectangle furthest away from the circle LED lights up blueish white</li> 
+   <li>He will reboot and show "anki.com/v" on his screen</li> 
+  </ol></li> 
+ <li>Click "Menu", then click "Onboarding." 
+  <ol> 
+   <li>Place Vector on his charger, then tap his back button twice to enter Pairing Mode.</li> 
+   <li>Click "Pair with Vector"</li> 
+   <li>Use the PIN number that appears on Vector's screen and type it into the PIN Number field, then click "Enter PIN". 
+    <ol> 
+     <li>Note: If the PIN does not appear within 5 seconds, refresh the page and go back to Step 4.</li> 
+    </ol></li> 
+   <li>If Vector is not yet connected to Wi-Fi, you will be prompted to connect to Wi-Fi now:<br> 
+    <ol> 
+     <li>Click on the Wi-Fi network you want to connect Vector to (network must be on the 2.4GHz frequency)</li> 
+     <li>Type in the password to the network. Passwords are case-sensitive.</li> 
+     <li>Click "Connect Vector to Wi-Fi"</li> 
+    </ol></li> 
+   <li>In the Firmware Selection screen, use the drop-down menu to select the firmware file that your robot needs: 
+    <ol> 
+     <li>Production (Normal) Vectors: 
+      <ol> 
+       <li>Select the firmware beginning with the word "PROD" and your preferred version number.</li> 
+      </ol></li> 
+     <li>OSKR (unlocked) Vectors:<br> 
+      <ol> 
+       <li>Select the firmware beginning with the word "OSKR" and your preferred version number.</li> 
+       <li><strong>NOTE:</strong>&nbsp;OSKR users <strong>MUST </strong>complete additional onboarding steps - follow Step 3 in this article: <a href="//support.digitaldreamlabs.com/article/349-escape-pod-robot-onboarding-oskr" target="_blank">OSKR - Onboarding Vector to Escape Pod</a></li> 
+      </ol></li> 
+    </ol></li> 
+   <li>Click the "Upload Firmware to Vector" button. 
+    <ol> 
+     <li>Vector will begin loading the new firmware. 
+      <ol> 
+       <li>Note:&nbsp;This process may take between 5 and 20 minutes, depending on your network speed. When firmware loading is complete, you will return to the "Pair with Vector" screen.</li> 
+      </ol></li> 
+    </ol></li> 
+   <li>Clear Vector's User Data (<strong>you may not have to do this if you are upgrading to Escape Pod 1.8.2</strong>): 
+    <ol> 
+     <li>Place Vector on his charger and plug the charger in</li> 
+     <li>[If Vector is booting up, wait for the “V” to finish]</li> 
+     <li>Double click Vector’s Back Button</li> 
+     <li>Gently raise and lower Vector’s lift</li> 
+     <li>Turn his treads to move through selections (backwards to go up, forwards to go down)</li> 
+     <li>Raise and lower the lift to select the “Clear User Data” menu</li> 
+     <li>Confirm the selection and wait for Vector to reboot</li> 
+     <li>Once Vector completes rebooting, data will have been wiped from the robot</li> 
+    </ol></li> 
+   <li>Connect Vector via Bluetooth again: 
+    <ol> 
+     <li>Place Vector on his charger, then tap his back button twice to enter Pairing Mode.</li> 
+     <li>Click "Pair with Vector"</li> 
+     <li>Use the PIN number that appears on Vector's screen and type it into the PIN Number field, then click "Enter PIN". 
+      <ol> 
+       <li>Note: If the PIN does not appear within 5 seconds, refresh the page and go back to Step 4h.</li> 
+      </ol></li> 
+    </ol></li> 
+   <li>You will be prompted to connect to Wi-Fi now:<br> 
+    <ol> 
+     <li>Click on the Wi-Fi network you want to connect Vector to (network must be on the 2.4GHz frequency)</li> 
+     <li>Type in the password to the network. Passwords are case-sensitive.</li> 
+     <li>Click "Connect Vector to Wi-Fi"</li> 
+    </ol></li> 
+   <li>In the Firmware Selection screen, click "Skip To Next Step"</li> 
+   <li>Click "Activate Your Robot", which will appear within a few seconds.</li> 
+   <li>Select the Preferences that you will use for Vector:<br> 
+    <ol> 
+     <li>Locale Options:<br> 
+      <ol> 
+       <li>en-US (United States)</li> 
+       <li>en-GB (Great Britain / UK)</li> 
+       <li>en-AU (Australia)</li> 
+      </ol></li> 
+     <li>Select from available Time Zones</li> 
+     <li>Select your preferred Temperature Units: 
+      <ol> 
+       <li>Fahrenheit</li> 
+       <li>Celsius</li> 
+      </ol></li> 
+     <li>Select your preferred Distance Units:<br> 
+      <ol> 
+       <li>Imperial</li> 
+       <li>Metric</li> 
+      </ol></li> 
+     <li>Enter your Default Location 
+      <ol> 
+       <li>Note:&nbsp;Default Location is used for weather or other functions when the Escape Pod Extension Engine is running.</li> 
+      </ol></li> 
+     <li>Select the Back Button Behavior</li> 
+     <li>Select the remainder of your preferences, then click "Save Settings"</li> 
+    </ol></li> 
+  </ol></li>
+</ol>
+<p data-children-count="0"></p>
+<h3 data-children-count="0"> You're all done! All voice commands will now be routed to the Escape Pod.</h3>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/360-launching-your-escape-pod-4">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-03-19 >Last updated on March 19, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                        <section class="related">
+                            <h3>Related Articles</h3>
+                            <ul>
+                                
+                                    <li><a href="/article/355-launching-your-escape-pod"><i class="icon-article-doc"></i><span>Launching Your Escape Pod, Step 1: Assemble Your Pi Kit</span></a></li>
+                                
+                                    <li><a href="/article/358-launching-your-escape-pod-2"><i class="icon-article-doc"></i><span>Launching Your Escape Pod, Step 2: Flash The SD Card</span></a></li>
+                                
+                                    <li><a href="/article/359-launching-your-escape-pod-3"><i class="icon-article-doc"></i><span>Launching Your Escape Pod, Step 3: Connecting The Escape Pod</span></a></li>
+                                
+                            </ul>
+                        </section>
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="604fc7cac44f5d025f444496"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/369-general-information">General Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/367-launching-your-escape-pod">Launching Your Escape Pod  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/375-troubleshooting">Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/368-developer-tools">Advanced Configuration  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

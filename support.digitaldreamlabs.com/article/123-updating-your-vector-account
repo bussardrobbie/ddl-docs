@@ -1,0 +1,466 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Updating your Vector account - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Learn below how to create a Vector account, how to update the email address or username, how to reset your password, how to delete your account and how to assoc"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/123-updating-your-vector-account"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Updating your Vector account" />
+            <meta name="twitter:description" content="Learn below how to create a Vector account, how to update the email address or username, how to reset your password, how to delete your account and how to assoc"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691330433752.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Updating your Vector account","item":"https://support.digitaldreamlabs.com/article/123-updating-your-vector-account"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Updating your Vector account</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> Learn below how to create a Vector account, how to update the email address or username, how to reset your password, how to delete your account and how to associate Vector with a different account.&nbsp;<span class="wysiwyg-color-red"><strong>Note:</strong> you must be 18+ to have a Vector&nbsp;account.</span></p>
+<hr>
+<h2>Sections:</h2>
+<p> <strong><a href="#h_957194025341545130817645">Creating an account</a> ||&nbsp; <a href="#h_319380833631545130823053">Logging into the Vector app</a> ||&nbsp; <a href="#h_456077077831545130830084">Updating account details</a> ||&nbsp; <a href="#h_2020737221091545130837124">Resetting your password</a> ||&nbsp; <a href="#h_4267662571261545130842852">Deleting your account</a> ||&nbsp; <a href="#h_1572436011421545130850620">Linking Vector to a different account</a></strong></p>
+<hr> 
+<div class="sections"> 
+ <h2 id="h_957194025341545130817645">Creating an account</h2> 
+ <ol> 
+  <li>Note: if you already have an account, you can skip this section</li> 
+  <li>Create an account in the Vector app</li> 
+  <li>Follow the "sign up" flow: 
+   <ol> 
+    <li>Enter your Date of Birth in month-date-year format and tap "continue"</li> 
+    <li>Enter your email address and tap "continue"</li> 
+    <li>Create a password</li> 
+    <li>Opt in our out of anonymized usage data collection and tap "continue"</li> 
+    <li>Opt in or out of Marketing emails and tap "sign up"</li> 
+    <li>Check your inbox for the activation email and click “Activate Account” 
+     <ol> 
+      <li>Check your Spam folder if you can’t see it or resend the email from the Vector app</li> 
+      <li>Note if you resend the activation email, you need to click the link from the newest<strong>&nbsp;</strong>email</li> 
+     </ol> </li> 
+   </ol> </li> 
+ </ol> 
+ <h3>Email address requirements</h3> 
+ <ul> 
+  <li>Min. 5 characters</li> 
+  <li>Max. 100 characters</li> 
+  <li>Must contain an @ symbol</li> 
+  <li>Must follow the format x@x.x where x is one or more <a href="https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html"><strong>ASCII characters</strong></a> (characters&nbsp;0-127)&nbsp;</li> 
+ </ul> 
+ <h3>Username requirements</h3> 
+ <ul> 
+  <li>Max. 100 characters</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_319380833631545130823053">Logging into the Vector app</h2> 
+ <ul> 
+  <li>If you created a new account via the Vector app, use your email address to log in</li> 
+  <li>If you are using an existing account, created for OVERDRIVE, log in with your existing Username, not your email address</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_456077077831545130830084">Updating account details</h2> 
+ <ol> 
+  <li>Account management via the app is currently not available&nbsp;</li> 
+  <li>To update your email address, please email us: support@digitaldreamlabs.com.<a href="https://www.digitaldreamlabs.com/pages/contact-us"></a></li> 
+  <li>To update your Username, please email us: support@digitaldreamlabs.com.</li> 
+ </ol> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_2020737221091545130837124">Resetting your password</h2> 
+ <ol> 
+  <li>In the Vector app, tap the "settings" cog</li> 
+  <li>Tap "Account Management"</li> 
+  <li>Tap "Change Password" to reset your password</li> 
+  <li>You will receive a recovery email</li> 
+  <li>Click the link to enter your new password</li> 
+ </ol> 
+ <h3>Password requirements</h3> 
+ <ul> 
+  <li>Min. 8 characters</li> 
+  <li>Max. 32 characters</li> 
+  <li>Must be composed of <a href="https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html"><strong>ASCII characters</strong></a> (characters&nbsp;0-127)</li> 
+  <li>Must have an upper case letter</li> 
+  <li>Must have a lower case letter</li> 
+  <li>Must have a number</li> 
+  <li> <a href="https://www.fileformat.info/info/charset/UTF-8/list.htm"><strong>UTF-8</strong></a> characters not accepted</li> 
+  <li>Emojis not accepted</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_4267662571261545130842852">Deleting your account</h2> 
+ <ul> 
+  <li>If you wish to delete your account, please email us: support@digitaldreamlabs.com.</li> 
+  <li>Self-deletion via the app is currently not available&nbsp;</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_1572436011421545130850620">Linking Vector to a different account</h2> 
+ <ul> 
+  <li>Vector can only have 1 owner</li> 
+  <li>You may log in to multiple devices using the same account but you can only connect to Vector if the app on 1 device is foregrounded. See&nbsp;<strong><a href="//support.digitaldreamlabs.com/article/118-can-i-use-multiple-vectors-or-devices">this FAQ</a> </strong>for more info</li> 
+  <li>If you want to create a new account for Vector, you will firstly need to <a href="//support.digitaldreamlabs.com/article/112-how-to-reset-erase-and-restore-vector">Erase User Data</a> on Vector</li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/123-updating-your-vector-account">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-02-08 >Last updated on February 8, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

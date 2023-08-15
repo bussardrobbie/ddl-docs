@@ -1,0 +1,468 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>How to build the best tracks - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="This article includes some must know details about building tracks and answers some Frequently Asked Questions (FAQ). Important:  When beginning your journey, w"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/272-how-to-build-the-best-tracks"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="How to build the best tracks" />
+            <meta name="twitter:description" content="This article includes some must know details about building tracks and answers some Frequently Asked Questions (FAQ). Important:  When beginning your journey, w"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691330433752.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"OverDrive","item":"https://support.digitaldreamlabs.com/collection/62-overdrive"},{"@type":"ListItem","position":3,"name":"How to build the best tracks","item":"https://support.digitaldreamlabs.com/article/272-how-to-build-the-best-tracks"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">How to build the best tracks</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> This article includes some must know details about building tracks and answers some Frequently Asked Questions (FAQ).</p>
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Important:&nbsp;</span></h2> 
+ <p> When beginning&nbsp;your journey, we recommend that you start playing with only the tracks pieces included in the OVERDRIVE or Fast &amp; Furious Edition box. </p> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775a2c7d3a7e9ae9e3ed/img-25345-1585280689-1580784477.png" alt="FF_Starter_Kit_Loop.png"> </p> 
+ <p> Consider waiting before you add any Bundles or additional Track Kits you've purchased to your track. We strongly suggest not using things like a Collision or Launch Kits before you have spent some times with the Starter Kit configuration. Since the Commanders in Chapters 1, 4, and 7 will guide you through game basics (Throttle, Steering, Weapons, Health, and Support Items), you'll have the best experience if you finish these 3 Chapters first and then create more complicated tracks. </p> 
+ <p> Also&nbsp;note that&nbsp;while the track pieces are branded with "OVERDRIVE" or "Fast &amp; Furious", individual track sets can be used together as long as you don't break some of the rules explained below. </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">General Overview</span></h2> 
+ <h3>Every&nbsp;track must be a single, completed loop.</h3> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775b2c7d3a7e9ae9e3ee/img-25345-1585280689-1796768265.png" alt="Full_loop.png"> </p> 
+ <ul> 
+  <li>A loop means that a vehicle can&nbsp;visit every piece on the track without needing to turn around at an intersection.</li> 
+ </ul> 
+ <hr> 
+ <h3>Every track can only have 1 Start/Finish track piece.&nbsp;</h3> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775b2c7d3a7e9ae9e3ef/img-25345-1585280689-1773532494.png" alt="1_Start_Piece.png"> </p> 
+ <ul> 
+  <li>Zero Start/Finish track pieces, 2, or even 3 will just not work.</li> 
+  <li>Start/Finish track pieces are only available in an OVERDRIVE or Fast &amp; Furious Edition starter kits. They are not available for individual purchase.</li> 
+ </ul> 
+ <hr> 
+ <h3>Choosing a car direction with the Start/Finish track piece</h3> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775b2c7d3a7e9ae9e3f0/img-25345-1585280690-1598878510.png" alt="Start_Piece.png"> </p> 
+ <ul> 
+  <li>The direction you point the Start/Finish track piece determines which way the the Supercars and Supertrucks go.</li> 
+  <li>Want to reverse the direction that the cars travel? 
+   <ul> 
+    <li>Flip the&nbsp;Start/Finish track piece 180°.</li> 
+    <li>Rescan your track before starting your next race.</li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Launch Kit</span></h2> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775b2c7d3a7e9ae9e3f1/img-25345-1585280690-1108589145.png" alt="Launch_Kit_logo.png"> </p> 
+ <p> A Launch Kit adds an extra level of chaos and excitement to any OVERDRIVE track. Here's some hints to give the cars a better chance of successfully jumping.&nbsp; </p> 
+ <hr> 
+ <h3>Setting up the Launch Kit properly</h3> 
+ <ul> 
+  <li>Each Launch Kit comes in a set that includes: 
+   <ul> 
+    <li>1 Jump track piece</li> 
+    <li>1 Landing track piece</li> 
+    <li>3 Risers</li> 
+   </ul> </li> 
+ </ul> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775c04286364bc975cb8/img-25345-1585280690-416965479.png" alt="Example_Jump_Layout.png"> </p> 
+ <ul> 
+  <li>A Launch Kit only works in one direction 
+   <ul> 
+    <li>Your Launch Kit track pieces must point in the same direction of travel as the Start/Finish track piece.</li> 
+   </ul> </li> 
+  <li>Attach a straight piece before the jump.&nbsp; 
+   <ul> 
+    <li>Supercars need speed to clear the gap. Put a straight piece before your jump to give you more time to accelerate.</li> 
+    <li>Adding more straight pieces before a Jump allows Supercars to fully accelerate and may allow for better results.</li> 
+   </ul> </li> 
+  <li>A Launch Kit&nbsp;track segment <strong>cannot be directly connected</strong> to the track's Start/Finish piece.&nbsp;Keep your Start/Finish piece as far away from the Jump piece as possible. See the Blue arrow below.</li> 
+  <li>Don't place the Fast &amp; Furious Power Zone track piece in front of a Jump piece. A disabled car might not have enough time to recover to make the Jump.&nbsp;See the Blue arrow below.</li> 
+  <li>Supertrucks don't jump - keep them in reserve for other race track configurations.&nbsp;</li> 
+ </ul> 
+ <hr> 
+ <h3>For best results</h3> 
+ <p> On each Launch Kit track piece, follow the White icons to attach the Riser pieces (circled in green below). </p> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775c2c7d3a7e9ae9e3f2/img-25345-1585280690-653095203.png" alt="Jump_Piece_and_Support.png"> </p> 
+ <ul> 
+  <li>Placing the Risers on these White icons should create the perfect jump.</li> 
+  <li>If the Risers are set properly, but your Supercars are landing and bouncing off the track, try adjusting the placement of the Risers.</li> 
+  <li>Often you can find a sweet spot that provides the right amount of cushioning where the Supercars land.</li> 
+ </ul> 
+ <hr> 
+ <h3>Aim for the middle of the track</h3> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775c04286364bc975cb9/img-25345-1585280690-1302077071.png" alt="Jump_Center.png"> </p> 
+ <ul> 
+  <li>When you approach the jump, steer your Supercar to the middle of the track before taking the jump. This will increase your chance of a successful landing, and put you in a better position to engage or speed past your opponent.</li> 
+ </ul> 
+ <hr> 
+ <h3>Choose the right car for the job</h3> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775c2c7d3a7e9ae9e3f3/img-25345-1585280691-1178936444.png" alt="Jump_Cars.png"> </p> 
+ <ul> 
+  <li>Every Supercar is different, and some jump more easily than others. Skull and Thermo are skilled jumpers, while other Supercars like Big Bang are more of a challenge.</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Collision Kit</span></h2> 
+ <p> <span class="wysiwyg-font-size-large"><strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775d2c7d3a7e9ae9e3f4/img-25345-1585280691-27012239.png" alt="Collision_Kit_logo.png"></strong></span> </p> 
+ <p> Collision Kit pieces may not be used as a straight piece. </p> 
+ <ul> 
+  <li>All 4 sides must be connected to another track piece.</li> 
+ </ul> 
+ <p> When using more than one&nbsp;Collision Kit, each&nbsp;Collision Kit track segment&nbsp;may not be directly connected to another. </p> 
+ <ul> 
+  <li>There must be at least one other track piece in between each Collision Kit track segment.</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Rails Kit</span></h2> 
+ <p> <span class="wysiwyg-font-size-large"><strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775d04286364bc975cba/img-25345-1585280691-167311276.png" alt="Rails_Kit_logo.png"></strong></span> </p> 
+ <p> If you like driving at the edge of performance, the Rails Kit allows you to add walls in key locations that can help to keep your cars on the track. </p> 
+ <p> Something to think about if you don't want to disable Pro Speed, your Track and Tiers are clean, but still have difficulties keeping your cars on the track. </p> 
+ <p> Please note that OVERDRIVE: Fast &amp; Furious Edition includes 12 Outside rails and that the Rails Kit includes 10 Rails (4 Outside, 2 Inside, and 4 Straight Guard Rails). </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Elevation Kit</span></h2> 
+ <p> <span class="wysiwyg-font-size-large"><strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775e2c7d3a7e9ae9e3f5/img-25345-1585280691-1144412154.png" alt="Elevation_Kit_logo.png"></strong></span> </p> 
+ <p> Allows you to build hills, bridges, overpasses - all to get a new perspective on the battlefield. </p> 
+ <p> Comes with 4 Riser Pieces. </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Corner Kit</span></h2> 
+ <p> <span class="wysiwyg-font-size-large"><strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775e04286364bc975cbb/img-25345-1585280691-1688762662.png" alt="Corner_Kit_logo.png"></strong></span> </p> 
+ <p> Allows you to update your Starter Kit from 8 possible track configurations to more than 20. </p> 
+ <p> Includes&nbsp;2 90° Curved Track Pieces </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Bank Turn Kit</span></h2> 
+ <p> <span class="wysiwyg-font-size-large"><strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775e2c7d3a7e9ae9e3f6/img-25345-1585280692-1837647105.png" alt="Bank_Turn_Kit_logo.png"></strong></span> </p> 
+ <p> Helps you add angled turns to your tracks, making turns even more challenging. </p> 
+ <p> Comes with&nbsp;4 Bank Turn Pieces. </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span class="wysiwyg-font-size-large">Speed Kit</span></h2> 
+ <p> <span class="wysiwyg-font-size-large"><strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d775e2c7d3a7e9ae9e3f7/img-25345-1585280692-1267963540.png" alt="Speed_Kit_logo.png"></strong></span> </p> 
+ <p> Allows you to update your Starter Kit from 8 possible track configurations to more than 18. </p> 
+ <p> Helps with setting up the best jumps for a Launch Kit or connecting multiple Collision Kits.&nbsp; </p> 
+ <p> Includes 2 Straight Track Pieces. </p> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/272-how-to-build-the-best-tracks">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-01-28 >Last updated on January 28, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e7d76232c7d3a7e9ae9e176"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/511-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/508-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/506-legacy-products">Legacy Products  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/505-overdrive-26-relaunched">OverDrive 2.6 Relaunched  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/507-track-car-maintenance">Track &amp; Car Maintenance  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/509-track-tips">Track Tips  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/328-technical-issues-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

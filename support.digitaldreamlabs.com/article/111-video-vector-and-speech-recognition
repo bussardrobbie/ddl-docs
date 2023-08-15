@@ -1,0 +1,445 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Vector and Speech Recognition - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Learn below how to give a Voice Command to Vector, how to ask him a question and how to communicate with him in other ways. Vector is currently monolingual and "/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/111-video-vector-and-speech-recognition"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Vector and Speech Recognition" />
+            <meta name="twitter:description" content="Learn below how to give a Voice Command to Vector, how to ask him a question and how to communicate with him in other ways. Vector is currently monolingual and "/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691955281603.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Vector and Speech Recognition","item":"https://support.digitaldreamlabs.com/article/111-video-vector-and-speech-recognition"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Vector and Speech Recognition</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> <span style="font-weight: 400;">Learn below how to give a Voice Command to Vector, how to ask him a question and how to communicate with him in other ways. Vector is currently monolingual and can only understand English.</span></p>
+<hr> 
+<div class="sections"> 
+ <p> <strong><a href="#h_111212124131538839874145">Vector detects</a> || <a href="#h_817152840231538839880732">Talking to Vector&nbsp;</a> ||&nbsp; <a href="#h_817152840231538839880732">Voice Commands</a> || <a href="#h_503377977321538839886944">Vector Q&amp;A: Ask Vector a question</a> || <a href="#h_630555305361538839895208">Turning off voice detection</a></strong> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_111212124131538839874145"><span style="font-weight: 400;">Vector detects</span></h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector’s 4 microphone array uses beamforming to detect directional sound and background sound, though he does filter out some background sound</span></li> 
+  <li><span style="font-weight: 400;">He may react differently depending on if he is awake or asleep, whether you use a “trigger word” to get his attention, or if he is startled</span></li> 
+  <li><span style="font-weight: 400;">For best results, always put Vector down on a hard, flat surface (and not in his Space) before speaking to him</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_817152840231538839880732"><span style="font-weight: 400;">Talking to Vector</span></h2> 
+ <p> <span style="font-weight: 400;"> <iframe src="//www.youtube-nocookie.com/embed/kgNLL0V5fUk" width="560" height="315" frameborder="0" allowfullscreen> </iframe> </span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2><span style="font-weight: 400;">Voice Commands</span></h2> 
+ <p> <span style="font-weight: 400;">Get Vector’s attention to give him a Voice Command - telling him to do something:</span> </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">Say “Hey Vector!” This is his “Wake Word”</span></li> 
+  <li><span style="font-weight: 400;">Wait for his Back lights to turn blue and he will “ding” his earcon. This confirms you have his attention and he is ready to accept a Voice Command</span></li> 
+  <li><span style="font-weight: 400;">Give Vector a command e.g. “Come here!”<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d764004286364bc975abe/img-25345-1585280575-1382936130.gif"></span></li> 
+ </ul> 
+ <p> <span style="font-weight: 400;"></span> </p> 
+ <p> <span style="font-weight: 400;">Give Vector a “Utilities” Voice Command e.g. asking what time it is, asking what the weather is, setting a timer:</span> </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">Utilities use local preferences from your device settings and information you input into the app during setup such as location and time zone</span></li> 
+  <li><span style="font-weight: 400;">You still need to get Vector’s attention with the Wake Word “Hey Vector” and wait for the ding and his Back Lights to turn blue</span></li> 
+  <li><span style="font-weight: 400;">Say, “Hey Vector, what’s the weather?” Vector’s answer is based on the location in your app settings</span></li> 
+  <li><span style="font-weight: 400;">Note: you can also ask Vector the weather in Vector Q&amp;A (see below) but you will need to specify a location for him to look up &nbsp;</span></li> 
+ </ul> 
+ <p> <span style="font-weight: 400;">To learn more about what Commands you can give, take a look at “Things to Try” in the Vector companion app</span> </p> 
+ <p> <span style="font-weight: 400;">If you encounter any issues using Voice Commands, see </span><a href="//support.digitaldreamlabs.com/article/99-vector-does-not-understand-me-troubleshooting-speech-recognition">this FAQ</a><span style="font-weight: 400;"> for tips and troubleshooting</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_503377977321538839886944"><span style="font-weight: 400;">Vector Q&amp;A: Ask Vector a question</span></h2> 
+ <p> <span style="font-weight: 400;">Asking Vector a question uses a specific provider, available in American English only.</span> </p> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76402c7d3a7e9ae9e1ba/img-25345-1585280575-936313858.gif"> </p> 
+ <p> <span style="font-weight: 400;"></span> </p> 
+ <ol> 
+  <li><span style="font-weight: 400;">Get Vector’s attention using one of the following two triggers:</span></li> 
+  <ol> 
+   <li><span style="font-weight: 400;">“Hey Vector, I have a question”</span></li> 
+   <li><span style="font-weight: 400;">“Hey Vector, look up a question for me”</span></li> 
+  </ol> 
+  <li><span style="font-weight: 400;">Vector will show he understood by displaying the above icon</span></li> 
+  <li><span style="font-weight: 400;">When he is ready to be asked, he will tell you, “Ready”</span></li> 
+  <li><span style="font-weight: 400;">Ask Vector a question – the more specific you are, the more likely he is to answer your question e.g. “What will the weather be like in London <span class="wysiwyg-color-blue"><strong>on Saturday</strong></span> <span class="wysiwyg-color-green120"><strong>in degrees celsius</strong></span>”</span></li> 
+  <li><span style="font-weight: 400;">If the question has multiple answers, he may give the answer that is first alphabetically</span></li> 
+  <li><span style="font-weight: 400;">If Vector didn’t detect or understand your question you will have to start again with “Hey Vector, I have &nbsp;a question” </span></li> 
+ </ol> 
+ <p> <span style="font-weight: 400;">Take a look at Vector Q&amp;A in “Things to Try” in the Vector companion app to learn more about it.</span> </p> 
+ <p> <span style="font-weight: 400;">If you encounter any issues using Vector Q&amp;A, see </span><a href="//support.digitaldreamlabs.com/article/99-vector-does-not-understand-me-troubleshooting-speech-recognition">this FAQ</a><span style="font-weight: 400;"> for tips and troubleshooting.</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_630555305361538839895208"> <span style="font-weight: 400;">Turning off voice detection</span>&nbsp;</h2> 
+ <ul> 
+  <li>You can mute or unmute Vector’s microphone array so that he can’t hear any voice commands by double-clicking his Back Button - he must be off his Charger.&nbsp;Vector will display a “Mic Mute” icon on his face <strong>for a brief moment.</strong></li> 
+  <li>While Vector’s mic is muted, his Back Lights are red. Vector will stay muted until you unmute him.</li> 
+  <li>To unmute Vector’s mic, just double tap his Back button again while he’s off his Charger You can tell he’s unmuted, you will see a “Mic Unmute” icon on his face.</li> 
+  <li>For more information on what Vector’s Back Lights mean, please see <a href="//support.digitaldreamlabs.com/article/44-what-do-vectors-back-lights-mean">this FAQ</a> </li> 
+  <li> <span style="font-weight: 400;">For further information on Vector and privacy, please refer to </span><a href="//support.digitaldreamlabs.com/article/105-vector-security-privacy-faqs">this FAQ</a> </li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/111-video-vector-and-speech-recognition">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2020-10-08 >Last updated on October 8, 2020</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

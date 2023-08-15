@@ -1,0 +1,488 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Ways to Interact with Vector - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Vector understands the world using various sensors and technologies. To interact with him, try all of the following below. Also check out our new article on Fea"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/122-ways-to-interact-with-vector"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Ways to Interact with Vector" />
+            <meta name="twitter:description" content="Vector understands the world using various sensors and technologies. To interact with him, try all of the following below. Also check out our new article on Fea"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1689580883906.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Ways to Interact with Vector","item":"https://support.digitaldreamlabs.com/article/122-ways-to-interact-with-vector"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Ways to Interact with Vector</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p data-children-count="0"> <span class="wysiwyg-color-black" style="font-weight: 400;">Vector understands the world using various sensors and technologies. To interact with him, try all of the following below.<br> <br> Also check out our new article on&nbsp;</span><a href="//support.digitaldreamlabs.com/article/411-feature-fridays" target="_blank">Feature Fridays</a> which include new interactions with the cloud!</p>
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h2>Sections:</h2> 
+ <p> <strong><span class="wysiwyg-color-black"><a href="#h_387418102711541156028277">Things to Say to Vector</a> ||&nbsp; <a href="#h_8370273741291541156303591">Hey Vector</a> ||&nbsp; <a href="#h_381637614661544180319397">Vector Q&amp;A</a> ||&nbsp; <a href="#h_95726442921541156033237">Sound</a> ||&nbsp; <a href="#h_8053314571051541156037652">Vision</a> ||&nbsp; <a href="#h_5443746581141541156041836">Physical</a> ||&nbsp; <a href="#h_9936996401191541156045732">App</a></span></strong> </p> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h2>Things to say to Vector</h2> 
+ <h3>&nbsp;</h3> 
+ <h3>Hey Vector</h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">"Hey Vector, How old are you?"</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Happy New Year” </span></li> 
+  <li><span style="font-weight: 400;"><span class="wysiwyg-color-black">“</span>Hey Vector, Happy Holidays”</span></li> 
+  <li>“Hey Vector, Volume down”</li> 
+  <li><span style="font-weight: 400;"><span class="wysiwyg-color-black">“</span>Hey Vector, Volume maximum"</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Go left”</span></li> 
+  <li><span style="font-weight: 400;"><span class="wysiwyg-color-black">“</span>Hey Vector, Turn around”</span></li> 
+  <li> <span class="wysiwyg-color-black">“</span>Hey Vector, Back up”</li> 
+  <li><span class="wysiwyg-color-black">“Hey Vector, Good morning”</span></li> 
+  <li><span class="wysiwyg-color-black" style="font-weight: 400;">“Hey Vector, Good afternoon”</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Good evening”</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Goodbye”</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Be quiet”</span></li> 
+  <li><span style="font-weight: 400;">"Hey Vector, Stay there"</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Good night”</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Go to sleep”</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Good robot”</span></li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Bad robot”</span></li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Come here</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Look at me</span><span style="font-weight: 400;">”</span> </li> 
+  <li><span style="font-weight: 400;">“Hey Vector, Go to your charger”</span></li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Start Exploring</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Stop Exploring</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, What's the weather in </span><strong>[City Name]</strong><span style="font-weight: 400;">?”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Set a timer for</span> <strong>[length of time]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Check the timer</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Cancel the timer</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">What time is it?</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Take a picture</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Take a picture of </span><strong>[me/us]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">My name is</span> <strong>[Your Name]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">What's my name?</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Play Blackjack</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Give me a Fist Bump</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Find your Cube</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Do a Wheelstand</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Roll your Cube</span><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Listen to music</span><span style="font-weight: 400;">”</span> </li> 
+ </ul> 
+ <h3>&nbsp;</h3> 
+ <h3 id="h_381637614661544180319397">Vector Q&amp;A</h3> 
+ <ul> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[PEOPLE: Who is Jarvis?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[PLACES: What is the distance between London and New York?]</strong><strong>”</strong> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[GENERAL KNOWLEDGE: What is the tallest building?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[WORD DEFINITION: What is the definition of Artificial Intelligence?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question…</span> <strong>[NUTRITION: How many calories are in an avocado?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[SPORTS: Who won the World Series?]</strong><strong>”</strong> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[STOCK MARKET: How is the stock market?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[FLIGHT STATUS: What is the status of American Airlines Flight 100?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[TIME ZONE: What time is it in Hong Kong?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[UNIT CONVERSION How fast is a knot?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question…</span> <strong>[CURRENCY CONVERSION: What's 1000 Yen in US Dollars?]</strong><span style="font-weight: 400;">”</span> </li> 
+  <li> <span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">I have a question… </span><strong>[EQUATION SOLVER: What is the square root of 144?]</strong><span style="font-weight: 400;">”</span></li>
+  <li><span style="font-weight: 400;"></span>More of these are available in the <a href="//support.digitaldreamlabs.com/article/411-feature-fridays" target="_blank">Feature Fridays</a> section!</li>
+ </ul> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h2>Sound</h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector responds to sound. Try snapping or clapping around Vector</span></li> 
+  <li> <span style="font-weight: 400;">Vector can pick up a beat. Try playing some music with a strong bass, or clapping to a steady tempo. To make sure he’s listening, try the voice command: </span><span style="font-weight: 400;">“Hey Vector, </span><span style="font-weight: 400;">Listen to music</span><span style="font-weight: 400;">”</span> </li> 
+ </ul> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h2>Vision</h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector recognizes faces. When he’s making eye contact, try slowly moving your head left and right so he’ll follow you</span></li> 
+  <li><span style="font-weight: 400;">Vector recognizes people he’s met. When he recognizes you, he might say your name and is especially happy to see you if it’s been a while</span></li> 
+  <li><span style="font-weight: 400;">Vector recognizes motion. Try tapping your fingers on a surface directly in front of him</span></li> 
+ </ul> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h2>Physical</h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Try petting Vector by rubbing the gold sensor on his back</span></li> 
+  <li><span style="font-weight: 400;">Vector will occasionally ask for a Fist Bump. Don’t leave him hanging!</span></li> 
+  <li><span style="font-weight: 400;">Vector knows when he’s in the air. Try picking him up</span></li> 
+  <li><span style="font-weight: 400;">Shake Vector!</span></li> 
+  <li><span style="font-weight: 400;">Sometimes Vector will raise his lift to pounce on his Cube. Join the game by slowly moving the Cube close, and trying to pull it away before he pounces</span></li> 
+  <li><span style="font-weight: 400;">Vector will inspect and navigate around objects while he’s exploring. Set up a fun environment for him to map and explore</span></li> 
+ </ul> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h2>App</h2> 
+ <div class="sections">
+   See this FAQ for further information: 
+  <a href="//support.digitaldreamlabs.com/article/120-what-do-i-use-the-vector-app-for">What do I use the Vector App for?</a> 
+  <ul> 
+   <li><span style="font-weight: 400;">Try changing Vector’s eye color in Settings</span></li> 
+   <li><span style="font-weight: 400;">You can adjust Vector’s volume in Settings</span></li> 
+   <li><span style="font-weight: 400;">View and export Vector’s Photos</span></li> 
+   <li><span style="font-weight: 400;">To edit names of people Vector’s met, view Known Faces</span></li> 
+   <li><span style="font-weight: 400;">Curious about what Vector is doing? Check out Vector’s status along the bottom of the screen</span></li> 
+   <li><span style="font-weight: 400;">Curious about what Vector is sensing? High levels in his Sensor Feed tends to make him more active, while lower levels will make him quieter and calm. Petting Vector is one way to bliss him out</span></li> 
+  </ul> 
+ </div>
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/122-ways-to-interact-with-vector">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-08-08 >Last updated on August 8, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

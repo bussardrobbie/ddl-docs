@@ -1,0 +1,409 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Learn about Code Lab - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="In Cozmo&#x27;s Code Lab, you can program Cozmo to perform any action you want, using all of his sensors, motors, and speech abilities!  Specific questions about Coz"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/234-learn-about-code-lab"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Learn about Code Lab" />
+            <meta name="twitter:description" content="In Cozmo&#x27;s Code Lab, you can program Cozmo to perform any action you want, using all of his sensors, motors, and speech abilities!  Specific questions about Coz"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691955281603.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Cozmo","item":"https://support.digitaldreamlabs.com/collection/9-cozmo"},{"@type":"ListItem","position":3,"name":"Learn about Code Lab","item":"https://support.digitaldreamlabs.com/article/234-learn-about-code-lab"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Learn about Code Lab</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> In Cozmo's Code Lab, you can program Cozmo to perform any action you want, using all of his sensors, motors, and speech abilities!&nbsp;</p>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d77432c7d3a7e9ae9e3c9/img-3326-1585280661-1088952329.png" alt="Cozmo_s_Code_Lab.png"></p> 
+<div class="sections"> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>Specific questions about Cozmo's Code Lab?</h2> 
+ <p> For any questions about how to use Code Lab, build your own Projects, or report issues, please take a look at the <strong><a href="https://forums.anki.com/c/cozmo-code-lab" target="_blank" rel="noopener noreferrer"><u>Code Lab Community</u></a></strong> forum located within the Cozmo SDK Forums. </p> 
+ <p> Please note that this site requires you to Sign Up and create a site-specific account. Your existing Anki Account will not work and you’ll need to be 13 years of age or older to access the community. If you are not at least 13 years old, please get help from your parents to sign up. </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>Code Lab is based on Scratch Blocks</h2> 
+ <p> Cozmo’s Code Lab is based on Scratch Blocks, a&nbsp;collaboration between Google and the MIT Scratch Team. </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>Requirements</h2> 
+ <ul> 
+  <li>iOS 9 or above</li> 
+  <li>Android 5 (Lollipop) or above</li> 
+  <li>Fire OS 5 or above</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2>Some Additional Notes&nbsp;</h2> 
+ <h3>&nbsp;</h3> 
+ <h3><strong>Sandbox Mode</strong></h3> 
+ <p> <span style="font-weight: 400;">After updating to Cozmo 2.1.0, Code Lab projects that you previously created are now Sandbox projects.</span> </p> 
+ <p> <span style="font-weight: 400;">You can continue to use your Sandbox projects, create new ones from scratch, or rename <strong><a href="https://www.anki.com/cozmo/code-lab/sample-projects" target="_blank" rel="noopener">Sample Projects</a></strong> as Remixes to jump start your projects.</span> </p> 
+ <p> <span style="font-weight: 400;">As of Cozmo 2.2.0, you can now make copies of Sandbox Projects just like Constructor Projects.&nbsp;Please take a look at our <strong><a href="https://www.anki.com/cozmo/code-lab-faq" target="_blank" rel="noopener">Code Lab FAQ</a></strong>&nbsp;if you have questions about how this process works.</span> </p> 
+ <p> <span style="font-weight: 400;">For more information about Sandbox Mode, please click <strong><a href="https://www.anki.com/cozmo/code-lab/how-it-works" target="_blank" rel="noopener">here</a></strong>.</span> </p> 
+ <h3><strong>Constructor Mode</strong></h3> 
+ <p> <span style="font-weight: 400;">Constructor Mode is an all new way to take your coding skills to the next level. For more details on what Constructor Mode has to offer and how it compares to Sandbox Mode, please visit&nbsp;<strong><a href="https://www.anki.com/cozmo/code-lab/constructor-mode" target="_blank" rel="noopener">the new Constructor Mode page</a></strong>.</span> </p> 
+ <p> <span style="font-weight: 400;">Just like Sandbox Mode, Constructor Mode comes with some amazing&nbsp;<strong><a href="https://www.anki.com/cozmo/code-lab/sample-projects" target="_blank" rel="noopener">Sample Projects</a></strong> from which you can create Remixes to jump start your projects. Constructor Mode adds the ability to save your projects to Google Drive and <strong><a href="https://www.anki.com/cozmo/code-lab-faq" target="_blank" rel="noopener">submit them to Anki</a></strong> for a chance to be featured on Anki's site.</span> </p> 
+ <p> <span style="font-weight: 400;">To start using Google Drive with your Constructor projects, download the Google Drive app from the Apple App Store or the Google Play store. For more details about using Google Drive with Constructor Mode, please take a look at our <strong><a href="https://www.anki.com/cozmo/code-lab-faq" target="_blank" rel="noopener">Code Lab FAQ</a></strong>. </span> </p> 
+ <p> <span style="font-weight: 400;">For Kindles (which do not support Google Drive), you can use email to backup your Constructor projects. Please take a look at our <strong><a href="https://www.anki.com/cozmo/code-lab-faq" target="_blank" rel="noopener">Code Lab FAQ</a></strong>.</span> </p> 
+ <p> <span style="font-weight: 400;">Google Drive and email are each great ways to make copies of your Constructor projects just in case you have to reinstall the Cozmo app or if you want to move them to another device. Making copies just in case or to save your progress with a particular Constructor project is always a good idea.</span> </p> 
+ <p> <span style="font-weight: 400;">If you’d like Anki to consider featuring your Constructor projects, please visit <strong><a href="https://go.anki.com/submission" target="_blank" rel="noopener">go.anki.com/submission</a></strong>. You’ll need to create or login with your existing Anki Account (you might have created one when you purchased Cozmo from Anki). For details about an Anki Account, please visit <strong><a href="https://www.anki.com/account" target="_blank" rel="noopener">here</a></strong>.&nbsp;</span><span style="font-weight: 400;">Please note that Canadian and Japanese customers cannot currently create an Anki Account.</span> </p> 
+ <p> For a more advanced programming experience with Cozmo, please take a look at the <a href="https://support.anki.com/hc/articles/222151647" target="_blank" rel="noopener noreferrer"><strong>Cozmo SDK</strong></a>. </p> 
+ <h3><strong>Help with Google Drive</strong></h3> 
+ <p> <span style="font-weight: 400;">For Android Google Drive support, please visit the <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs" target="_blank" rel="noopener"><strong>Google Play Store</strong></a> [play.google.com].</span> </p> 
+ <p> <span style="font-weight: 400;">For iOS Google Drive support, please visit the <strong><a href="https://itunes.apple.com/us/app/google-drive/id507874739?mt=8" target="_blank" rel="noopener">Apple App Store</a></strong> [ itunes.apple.com].</span> </p> 
+ <p> <span style="font-weight: 400;">Please note that by design, Amazon Kindle devices do not have access to the Google Drive app like other Android devices.</span> </p> 
+ <h3><strong>Help with Email Apps</strong></h3> 
+ <p> <span style="font-weight: 400;">Amazon Kindle Email app, please visit the <strong><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201829530" target="_blank" rel="noopener">Amazon.com Help</a></strong> [amazon.com]</span> </p> 
+ <p> <span style="font-weight: 400;">Android Gmail app, please visit the <strong><a href="https://play.google.com/store/apps/details?id=com.google.android.gm" target="_blank" rel="noopener">Google Player Store</a></strong>&nbsp;[play.google.com]</span> </p> 
+ <p> <span style="font-weight: 400;">iOS Apple Mail, please visit <strong><a href="https://support.apple.com/en-us/HT201320" target="_blank" rel="noopener">Apple's product support site</a></strong> [support.apple.com]</span> </p> 
+ <p> <span style="font-weight: 400;">iOS Gmail app, please visit the <strong><a href="https://itunes.apple.com/us/app/gmail-email-by-google/id422689480?mt=8" target="_blank" rel="noopener">Apple App Store</a></strong> [itunes.apple.com]</span> </p> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/234-learn-about-code-lab">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-01-07 >Last updated on January 7, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759be52c7d3a7e9ae98b98"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/18-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/496-setting-cozmo-up">Setting Cozmo Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/492-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/499-cozmo-cubes-accessories">Cozmo Cubes &amp; Accessories  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/19-tips-tricks">Tips &amp; Tricks  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/494-reset-cozmo">Reset Cozmo  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/495-code-lab">Code Lab  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/498-education-mode">Education Mode  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/35-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/503-privacy-security">Privacy &amp; Security  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/502-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/501-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/497-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/493-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

@@ -1,0 +1,401 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Launching Your Escape Pod, Step 1: Assemble Your Pi Kit - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Assemble Your Pi Kit Welcome! In this four-step article series, we will set up a small PC known as a Raspberry Pi as an Escape Pod. we will put files on the Esc"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/355-launching-your-escape-pod"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Launching Your Escape Pod, Step 1: Assemble Your Pi Kit" />
+            <meta name="twitter:description" content="Assemble Your Pi Kit Welcome! In this four-step article series, we will set up a small PC known as a Raspberry Pi as an Escape Pod. we will put files on the Esc"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691955281603.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Escape Pod","item":"https://support.digitaldreamlabs.com/collection/364-escape-pod"},{"@type":"ListItem","position":3,"name":"Launching Your Escape Pod, Step 1: Assemble Your Pi Kit","item":"https://support.digitaldreamlabs.com/article/355-launching-your-escape-pod"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper withRelated">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Launching Your Escape Pod, Step 1: Assemble Your Pi Kit</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <h2>Assemble Your Pi Kit</h2>
+<p data-children-count="0"></p>
+<p data-children-count="0"></p>
+<section class="callout-blue" data-children-count="0">
+ <p> Welcome! In this four-step article series,&nbsp;we will set up a small PC known as a Raspberry Pi as an Escape Pod. we will put files on the Escape Pod, configure it, and allow our robots to join the Pod. Step 1 covers the assembly of your Pi kit and collection of necessary materials.</p>
+ <p> <em><strong>Note</strong>: The Pi you use for Escape Pod is designed to run "headless"; that is, with no monitor, keyboard, mouse, or other accessories attached- you can simply connect the Pi to your router via Wi-Fi or Ethernet cable and access it from any other computer on the same network by opening an internet browser and navigating to&nbsp;</em><a href="http://escapepod.local/"><em>http://escapepod.local</em></a></p>
+</section>
+<p data-children-count="0"> <em>Before deploying your Escape Pod, please be familiar with the current Known Issues and Limitations. See </em><a href="//support.digitaldreamlabs.com/article/351-known-issues" target="_blank"><em>Known Issues and Limitations</em></a></p>
+<p data-children-count="0"> Basic Requirements:</p>
+<ul data-children-count="0"> 
+ <li> <a href="https://assets.digitaldreamlabs.com/PEavApG5dgnZA5ei/ep-beta-0.4.6/escape-pod-beta-046.img.xz" target="_blank"></a>Pi 4 (strongly&nbsp;recommended for performance reasons) 
+  <ul> 
+   <li>Pi 3B / 3B+ can be used as a minimum.</li> 
+  </ul></li> 
+ <li>Case compatible with Raspberry Pi (<em>Usually included with a Pi kit)</em></li> 
+ <li>Approved Pi power source (5V/2.5A for Pi 3B / 5V/3A for Pi 4)</li> 
+ <li>Ethernet Cable and 1 free LAN port on router (Recommended for best performance) 
+  <ul> 
+   <li>Cable: CAT5 (minimum) / CAT5e / CAT6 / CAT7</li> 
+   <li>(If Ethernet cable not available): Wi-Fi network, 2.4GHz (Pi 3B / Pi 4) or 5GHz (Pi 4 only)</li> 
+  </ul></li> 
+ <li>MicroSD Card, 8GB or larger</li> 
+ <li>MicroSD Card Reader / SD Card Adapter &amp; Reader</li> 
+ <li>1 Vector Robot</li>
+</ul>
+<hr id="horizontalrule" data-children-count="0">
+<h3 data-children-count="0">Section 1: Unbox and Assemble Your Raspberry Pi Kit</h3>
+<p data-children-count="0"> <a href="#Section1"></a></p>
+<p data-children-count="0"> Your new Raspberry Pi is here and you're ready to go! Carefully open your kit and lay out your components on a clean surface. For the best experience, make sure you have all of the following to continue:</p>
+<p data-children-count="0"></p> 
+<table data-children-count="0"> 
+ <thead> 
+  <tr> 
+   <td> </td> 
+   <td> </td> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td> Raspberry Pi 3B+ / 4 (Pi 4 model is recommended for performance reasons) <br> </td> 
+   <td> <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/602b20d024d2d21e45ed6a68/file-dG7DS0cUl8.jpg" style="width:153px;float:left;margin:0 10px 10px 0" alt=""> </p> </td> 
+  </tr> 
+  <tr> 
+   <td> Raspberry Pi Case <br> <em>Appearance and assembly instructions may vary.</em> </td> 
+   <td> <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/602b3477b3ebfb109b5829ea/file-Zv63dhNA7C.jpg" style="width:333px"> </p> </td> 
+  </tr> 
+  <tr> 
+   <td> Raspberry Pi Power Supply <br> </td> 
+   <td> <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/602b349f24d2d21e45ed6aa6/file-ZNgMLINLyZ.jpg" style="width:248px"> </p> </td> 
+  </tr> 
+  <tr> 
+   <td> MicroSD Card (minimum 8GB) </td> 
+   <td> <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/602b34cb0a2dae5b58faffca/file-0HJ3u94x1u.jpg" style="width:234px"> </p> </td> 
+  </tr> 
+  <tr> 
+   <td> USB MicroSD Card Reader/Writer </td> 
+   <td> <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/602b34ddb3ebfb109b5829eb/file-h6yRNSGx7e.jpg" style="width:267px"> </p> </td> 
+  </tr> 
+  <tr> 
+   <td> (Optional) Ethernet Cable (for best performance) </td> 
+   <td> <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/602b34430a2dae5b58faffc7/file-O25VBFs5HM.jpg" style="width:165px"> </p> </td> 
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<p data-children-count="0"> Instructions for case assembly should be included with your kit or with any Pi case that you order. Assemble the Pi in its case according to the instructions. Once you've verified you have everything listed above, move to <a href="//support.digitaldreamlabs.com/article/358-launching-your-escape-pod-2">Section 2: Flash Your SD card</a>.</p>
+<p data-children-count="0"></p>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/355-launching-your-escape-pod">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-03-19 >Last updated on March 19, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                        <section class="related">
+                            <h3>Related Articles</h3>
+                            <ul>
+                                
+                                    <li><a href="/article/360-launching-your-escape-pod-4"><i class="icon-article-doc"></i><span>Launching Your Escape Pod, Step 4: Onboarding Your Vector Robot</span></a></li>
+                                
+                                    <li><a href="/article/358-launching-your-escape-pod-2"><i class="icon-article-doc"></i><span>Launching Your Escape Pod, Step 2: Flash The SD Card</span></a></li>
+                                
+                                    <li><a href="/article/359-launching-your-escape-pod-3"><i class="icon-article-doc"></i><span>Launching Your Escape Pod, Step 3: Connecting The Escape Pod</span></a></li>
+                                
+                            </ul>
+                        </section>
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="604fc7cac44f5d025f444496"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/369-general-information">General Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/367-launching-your-escape-pod">Launching Your Escape Pod  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/375-troubleshooting">Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/368-developer-tools">Advanced Configuration  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

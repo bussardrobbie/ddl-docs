@@ -1,0 +1,479 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Escape Pod: Changelog, Limitations &amp; Known Issues - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Here is a list of known issues for the Escape Pod for Vector as well as an understanding of how the Escape Pod differs from the DDL server currently. Current Li"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/351-known-issues"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Escape Pod: Changelog, Limitations &amp; Known Issues" />
+            <meta name="twitter:description" content="Here is a list of known issues for the Escape Pod for Vector as well as an understanding of how the Escape Pod differs from the DDL server currently. Current Li"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1689580883906.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Escape Pod","item":"https://support.digitaldreamlabs.com/collection/364-escape-pod"},{"@type":"ListItem","position":3,"name":"Escape Pod: Changelog, Limitations & Known Issues","item":"https://support.digitaldreamlabs.com/article/351-known-issues"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Escape Pod: Changelog, Limitations &amp; Known Issues</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p data-children-count="0"> Here is a list of known issues for the Escape Pod for Vector as well as an understanding of how the Escape Pod differs from the DDL server currently.</p>
+<hr data-children-count="0">
+<h2><strong>Current Limitations</strong></h2>
+<p data-children-count="0"> Current limitations are based upon the need for external servers to find information. Currently, the Escape Pod is designed to be completely and entirely independent of all external servers. However, we are examining options for implementing these features from publicly available servers (or from the Escape Pod itself, in the case of the SDK) in future releases.</p>
+<ul data-children-count="0"> 
+ <li>Weather (Can now be used if you enable the extension engine for weather and provide API credentials.)</li> 
+ <li>Knowledge Graph (Hey Vector, I have a question)</li> 
+ <li>Mobile App is not yet able to connect to Vector when he is running on Escape Pod (development for this is in progress). 
+  <ul> 
+   <li>Use the "Onboarding" screen in the Escape Pod for Preference changes and setup.</li> 
+  </ul></li> 
+ <li>Python SDK, which authorizes through the Vector Server, will not be usable while Vector is pointed at the Escape Pod. 
+  <ul> 
+   <li>New Go SDK does not authenticate through the Vector Server and is usable while Vector is pointed at the Escape Pod.</li> 
+  </ul></li>
+</ul>
+<hr>
+<h2></h2>
+<h2></h2>
+<h2>Change Log</h2>
+<hr>
+<p> <strong>Escape Pod 1.8.2:<br> </strong>Released 3/18/2022</p>
+<ul> 
+ <li>New Features: 
+  <ul> 
+   <li>Added compatibility for Vector software version 1.8.1.</li> 
+   <li>New "About" screen and tooltips which will speed troubleshooting and provide valuable version and system info</li> 
+   <li>New "Hide Vector Status" option to declutter the UI in the Onboarding screen.</li> 
+   <li>Historical logs are now stored on the Pod for analysis later rather than being immediately discarded after download</li> 
+   <li>New ways to engage and control the terminal for those more comfortable with working with a terminal/command line environment: 
+    <ul> 
+     <li>New command for the terminal emulator: termctl ( full | half | closed ) that determines the visibility and size of the Onboarding terminal. This is significantly more intuitive and easier to use than only the "Alt+1", "Alt+2", or "Alt+3" key combinations.</li> 
+     <li>New drop-down box on the Onboarding screen can also control the terminal size and visibility.</li> 
+    </ul></li> 
+  </ul></li> 
+ <li>Performance Fixes: 
+  <ul> 
+   <li>Changed from Deepspeech to Coqui STT voice model for improved speech-to-text accuracy</li> 
+   <li>Escape Pod now uses 2 ports to communicate with Vector instead of 4-5.</li> 
+   <li>The Escape Pod Interface is now able to be accessed via the Raspberry Pi's IP Address as an alternative to the need for special networking protocols (mDNS is not always supported by every router, or some routers may remap the ".local" hostname)</li> 
+   <li>Eliminated a memory leak that would cause memory usage to max out, slowing response times.</li> 
+   <li>Large eliminations of technical debt and dependencies on databases and other software packages will allow easier deployment with Docker onto separate hardware from the Pi platform for advanced users (hardware must be Bluetooth-compatible)</li> 
+   <li>Security and performance fixes to the underlying Ubuntu operating system.</li> 
+  </ul></li> 
+ <li>Bug fixes for the terminal</li> 
+ <li>Under-the-hood changes to prepare for compatibility with the Vector Robot app (<em>Vector Robot app is currently undergoing development to enable this compatibility.</em>)</li>
+</ul>
+<p> <strong>Known Issues:</strong></p>
+<ul> 
+ <li>In a very small number of cases, when adding a License for the first time on the Pod, the Licensing screen may freeze and the circle will rotate endlessly. 
+  <ul> 
+   <li>Please reboot the Pi to fix this issue; you may do this by disconnecting the Power cord for 10 seconds, then inserting the Power cord again.</li> 
+  </ul></li>
+</ul>
+<hr data-children-count="0"> 
+<b data-children-count="0">Escape Pod 1.0.0:<br> </b>Released 3/8/2021 
+<br>
+<ul data-children-count="0"> 
+ <li>In some cases, the command line interface inside of the Onboarding screen may show a "Command not available while status is AUTHORIZED" error.</li> 
+ <li>In rare cases, if firmware flashing fails, the error code may not be displayed and the user may be kicked back to Onboarding screen without a failure message.</li>
+</ul>
+<p data-children-count="0"> <strong>Fixed:</strong></p>
+<ul data-children-count="0"> 
+ <li><b style="font-weight: bold;"></b>In some cases, log downloads may be incomplete or truncated early on the "dmesg.txt" file.<strong></strong></li>
+</ul>
+<p data-children-count="0"> <strong data-children-count="0"> </strong></p>
+<hr data-children-count="0"> 
+<strong data-children-count="0">Escape Pod Beta Release 0.5.4:<br> </strong>
+<p> Released 3/3/2021</p>
+<p style="" data-children-count="0"> <strong> Note: Beginning in this release, new Escape Pod URL is&nbsp; </strong><a href="http://escapepod.local" target="_blank">http://escapepod.local</a></p>
+<ul data-children-count="0"> 
+ <li>In some cases, log downloads may be incomplete or truncated early on the "dmesg.txt" file.</li> 
+ <li>Firmware installation occasionally is exited early with an error 219.</li> 
+ <li>Due to recent Bluetooth changes, the command line interface inside of the Onboarding screen is currently not implemented but will be implemented on release.</li>
+</ul>
+<p style="" data-children-count="0"> <strong>Fixed:</strong></p>
+<ul data-children-count="0"> 
+ <li><strong></strong>The Escape Pod now includes firmware files for you to load onto a robot. OSKR and "prod" (production, for standard robots) builds are included.</li> 
+ <li>Final intents and variables are now respected.</li> 
+ <li>The Escape Pod will now allow you to skip the Firmware Loading step in the Onboarding process when you have no firmware loaded onto the Pod.</li> 
+ <li>The Escape Pod is now able to load firmware onto Vectors after a firmware recovery that are on v0.9.0.</li> 
+ <li>Licenses now reflect all lower case letters for proper authentication to match the serial number.</li>
+</ul>
+<hr data-children-count="0">
+<p data-children-count="0"> <strong>Escape Pod Technical Release v0.4.5 beta:<br> </strong>Released 1-20-2021</p>
+<ul data-children-count="0"> 
+ <li>In some cases, the final_intent for a behavior may not be invoked and the original intent will be used. (This may affect the ability to turn Vector's eyes a certain color, or use other command variables, in some cases)</li> 
+ <li>Escape Pod firmware files for Vector are still under development and are not included in the Firmware Management tab.</li> 
+ <li>The Escape Pod will not allow you to continue in Onboarding if you do not have any firmware files loaded onto the Pod.</li> 
+ <li>The Pod is not able to load firmware onto Vectors that are running firmware version v0.9.0 after a Recovery.</li> 
+ <li>The Escape Pod will not authenticate licensed Vectors that are using capital letters in their license information.</li>
+</ul>
+<p data-children-count="0"> <strong>Fixed:</strong></p>
+<ul data-children-count="0"> 
+ <li>During Onboarding, users can now set their locale for wake word voice recognition</li>
+</ul>
+<hr data-children-count="0">
+<p data-children-count="0"> <strong>Escape Pod Technical Release v0.4.3&nbsp;beta:<br> </strong>Released 1-18-2021<strong><br> </strong></p>
+<ul data-children-count="0"> 
+ <li>Mobile App is not yet able to connect to Vector when he is running on Escape Pod. 
+  <ul> 
+   <li>Use the "Onboarding" screen in the Escape Pod for Preference changes and setup.</li> 
+  </ul></li> 
+ <li>The Escape Pod cannot load firmware onto Vectors that are running 0.9.0 (base recovery firmware)</li> 
+ <li>In some cases, the final_intent for a behavior may not be invoked and the original intent will be used.</li> 
+ <li>Escape Pod firmware files for Vector are still under development and are not included in the Firmware Management tab.</li>
+</ul>
+<p data-children-count="0"> <strong>Fixed:</strong></p>
+<ul data-children-count="0"> 
+ <li>If a page is refreshed, you will now see the refreshed copy of the page as intended, instead of a 404 error.</li> 
+ <li>The Licenses screen now correctly informs you if you attempt to use a license that is invalid or that is already in use (duplicate license) rather than displaying a generic error.</li>
+</ul>
+<p data-children-count="0"> <strong>New Features:</strong></p>
+<ul data-children-count="0"> 
+ <li>Firmware / OTA Management and Automated Flashing: 
+  <ul> 
+   <li>Updates / OTAs may now be uploaded to the Escape Pod for storage</li> 
+   <li>Firmware files may be flashed to the Vector robot directly from the Escape Pod during the Onboarding process.</li> 
+  </ul></li> 
+ <li>View Behavior Log Stream: Displays a log of phrases and commands heard by the Escape Pod when speaking to Vector, and also lists the action Vector took as a result! 
+  <ul> 
+   <li>Please Note: This log will reset when you reload or navigate away from the page.</li> 
+  </ul></li> 
+ <li>Extension engine: New open-source extension engine accepts transcribed text input from speech and from robot variables and extensions can be written in multiple programming languages.</li> 
+ <li>Timers are now fully supported.</li> 
+ <li>During Onboarding, users can now set almost all configuration variables (except locale, for now) for the robot.</li>
+</ul>
+<hr data-children-count="0">
+<p data-children-count="0"> <strong>Escape Pod Technical Release v0.3.2 beta:<br> </strong>Released 12-29-2020</p>
+<ul data-children-count="0"> 
+ <li>If a page is refreshed or you try to refresh any page except “Licenses”, a 404 error will appear. To work around this, go back to <a href="https://escapepod.local:8443/" target="_blank">https://escapepod.local:8443/</a></li> 
+ <li>Timers are not yet implemented, but are expected to be implemented later in the Beta process or upon full release.</li> 
+ <li>Mobile App is not yet able to connect to Vector when he is running on Escape Pod.</li>
+</ul>
+<p data-children-count="0"> <strong>Fixed:</strong></p>
+<ul data-children-count="0"> 
+ <li>Fixed a regression from v0.3.1 that caused an issue where, if multiple bots were licensed, licensing would fail.</li>
+</ul>
+<hr data-children-count="0">
+<p data-children-count="0"> <strong>Escape Pod Technical Release v0.3.1 beta:<br> </strong>Released 12-28-2020</p>
+<ul data-children-count="0"> 
+ <li>If a page is refreshed or you try to refresh any page except “Licenses”, a 404 error will appear. To work around this, go back to <a href="https://escapepod.local:8443/">https://escapepod.local:8443/</a></li> 
+ <li>Timers are not yet implemented, but are expected to be implemented later in the Beta process or upon full release.</li> 
+ <li>Mobile App is not yet able to connect to Vector when he is running on Escape Pod.</li>
+</ul>
+<p data-children-count="0"> <strong>Fixed</strong><strong>:</strong></p>
+<ul data-children-count="0"> 
+ <li>Duplicate licenses are no longer allowed.</li> 
+ <li>When telling you the time of day, Vector should return the time in the correct time zone.</li> 
+ <li>The Escape Pod now correctly logs the&nbsp;incoming text of the voice-to-speech transcription rather than the engaged intent.</li>
+</ul>
+<hr data-children-count="0">
+<p data-children-count="0"> <strong style="background-color: initial;">Escape Pod Technical Release v0.3.0 beta</strong><strong>:</strong><br> <strong></strong>Released 12-23-2020</p>
+<ul data-children-count="0"> 
+ <li>If a page is refreshed or you try to refresh any page except “Licenses”, a 404 error will appear. To work around this, go back to <a href="https://escapepod.local:8443/" target="_blank">https://escapepod.local:8443/</a></li> 
+ <li>The Escape Pod logged the engaged intent as the incoming text rather than the actual voice-to-speech transcription.</li> 
+ <li>When telling you the time of day, Vector always provides the time in the Pacific Time Zone.</li> 
+ <li>Timers are not yet implemented, but are expected to be implemented later in the Beta process or upon full release.</li> 
+ <li>Duplicate licenses are allowed.</li> 
+ <li>Mobile App is not yet able to connect to Vector when he is running on Escape Pod.</li>
+</ul>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/351-known-issues">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-03-19 >Last updated on March 19, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="604fc7cac44f5d025f444496"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li  class="active" ><a href="/category/369-general-information">General Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/367-launching-your-escape-pod">Launching Your Escape Pod  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/375-troubleshooting">Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/368-developer-tools">Advanced Configuration  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

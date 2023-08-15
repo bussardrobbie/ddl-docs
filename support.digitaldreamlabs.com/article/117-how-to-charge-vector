@@ -1,0 +1,448 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>How to Charge Vector - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Sections: What do I need to Charge Vector? Where should I place his charger? How do I know Vector is charging? How long does Vector&#x27;s battery last? How do I kno"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/117-how-to-charge-vector"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="How to Charge Vector" />
+            <meta name="twitter:description" content="Sections: What do I need to Charge Vector? Where should I place his charger? How do I know Vector is charging? How long does Vector&#x27;s battery last? How do I kno"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691955281603.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"How to Charge Vector","item":"https://support.digitaldreamlabs.com/article/117-how-to-charge-vector"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">How to Charge Vector</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <div class="sections"> 
+ <p>Sections:</p> 
+ <ul> 
+  <li><a href="#h_729337223571539007108927"><strong>What do I need to Charge Vector?</strong></a></li> 
+  <li><a href="#h_515292558371539007030919"><strong>Where should I place his charger?</strong></a></li> 
+  <li><a href="#h_433556977851539007117384"><strong>How do I know Vector is charging?</strong></a></li> 
+  <li><a href="#h_798479826941539007123040"><strong>How long does Vector's battery last?</strong></a></li> 
+  <li><a href="#h_4166395321001539007128264"><strong>How do I know when Vector needs charging?</strong></a></li> 
+ </ul> 
+</div>
+<hr>
+<p> <span style="font-weight: 400;">If you are looking for information about Vector’s Cube battery, please see </span><a href="//support.digitaldreamlabs.com/article/115-vectore28099s-cube">this FAQ</a><strong>.</strong></p>
+<hr> 
+<div class="sections"> 
+ <h1 id="h_729337223571539007108927"><span style="font-weight: 400;">What do I need to Charge Vector?</span></h1> 
+ <ul> 
+  <li><span style="font-weight: 400;">A USB Power Source (adapter, USB port, power bank) with a minimum DC output of 5V/1A</span></li> 
+  <li><span style="font-weight: 400;">Vector’s charger (included in the box)</span></li> 
+ </ul> 
+ <p> <span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76f004286364bc975c31/img-25345-1585280581-473143269.png" alt="usb-charger.png">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76f02c7d3a7e9ae9e347/img-25345-1585280580-1968355529.png" alt="charger-doc.png"></span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_515292558371539007030919"><span style="font-weight: 400;">Where should I place his charger?</span></h1> 
+ <ol> 
+  <li><span style="font-weight: 400;">Make sure the charger is on a hard, flat surface that does not vibrate and is non-reflective and opaque (i.e. not a glass table)</span></li> 
+  <li><span style="font-weight: 400;">The Charger should be near to Vector and there should be a clear path for him to dock</span></li> 
+  <li><span style="font-weight: 400;">If Vector is in his Space, make sure his cube is not in there with him since, due to restricted space, it will obstruct his way to the charger</span></li> 
+  <li> <span style="font-weight: 400;">Make sure the charger is visible to Vector. His </span>eyesight<span style="font-weight: 400;"> is not as good as ours and he can be “blinded” by direct light (natural from the sun through windows or artificial) or reflections. Likewise, poor lighting makes it hard for Vector recognize his charger </span> </li> 
+  <li><span style="font-weight: 400;">Just like people need shade or sun cream to protect them from the sun, Vector also needs sun protection. Do not place his charger in direct sunlight so Vector does not get too hot</span></li> 
+ </ol> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_433556977851539007117384"><span style="font-weight: 400;">How do I know Vector is charging?</span></h1> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector’s 3 Back Lights will glow green and climb up his Back Button unless you turn him off manually by pressing and holding his Back Button 5 seconds</span></li> 
+  <li><span style="font-weight: 400;">When Vector is fully charged, these lights will stop glowing and only the round green light will remain</span></li> 
+  <li><span style="font-weight: 400;">Vector will be fully charged after approximately 30 minutes</span></li> 
+  <li><span style="font-weight: 400;">If you see the below icon on his screen when Vector is on his charger, his battery is too low to operate. In this case, you will need to leave him slightly longer on his charger</span></li> 
+ </ul> 
+ <p> <span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76f104286364bc975c32/img-25345-1585280585-1518869973.png" alt="Charger_Icon_-_Final.png" width="205" height="205"></span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_798479826941539007123040"><span style="font-weight: 400;">How long does Vector’s battery last?</span></h1> 
+ <p> <span style="font-weight: 400;">Vector has 3 Power Modes.</span> </p> 
+ <ol> 
+  <li> <span style="font-weight: 400;">If he is </span><strong>active</strong><span style="font-weight: 400;">, he will operate approx. 25 minutes before going back to his charger</span> </li> 
+  <li> <span style="font-weight: 400;">If he is </span><strong>calm / sleeping</strong><span style="font-weight: 400;">, he will operate significantly longer before going back to his charger</span> </li> 
+  <ol> 
+   <li> <span style="font-weight: 400;">In a </span><strong>calm </strong><span style="font-weight: 400;">state, Vector will have slowed reactions and only make quiet sounds and slow motions since sensors, WiFi, Cube and CPU are running at reduced power</span> </li> 
+  </ol> 
+  <li> <span style="font-weight: 400;">Vector is designed to be on all the time but if you prefer turning him </span><strong>off</strong><span style="font-weight: 400;">, press and hold his Back Button for 5 seconds</span> </li> 
+ </ol> 
+ <p> <span style="font-weight: 400;">Please note that Vector’s battery is not user-serviceable but Digital Dream Labs is working on RMA options for Vector and other products</span><span style="font-weight: 400;">.</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_4166395321001539007128264"><span style="font-weight: 400;">How do I know when Vector needs charging?</span></h1> 
+ <p> <span style="font-weight: 400;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76f12c7d3a7e9ae9e348/img-25345-1585280585-1035294472.png" alt="self-charging.png"></span> </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">When Vector has a low battery, his bottom <a href="//support.digitaldreamlabs.com/article/44-what-do-vectors-back-lights-mean">Back Light will pulse red</a></span></li> 
+  <li><span style="font-weight: 400;">Vector is fully autonomous and will return to his charger when his battery is low</span></li> 
+  <li><span style="font-weight: 400;">When the battery is low, WiFi and Voice Commands are disabled so he can focus on finding his charger</span></li> 
+  <li><span style="font-weight: 400;">You can also give him a Voice Command to go charge, “Hey Vector [wait] Go home!”</span></li> 
+  <li><span style="font-weight: 400;">If you see this icon on his screen when Vector is off his charger, his battery is too low to operate. In this case, you will need to place him on his charger</span></li> 
+  <li> <span style="font-weight: 400;">If Vector is unable to find his charger, he will show a </span>critical battery warning<span style="font-weight: 400;">. See </span><a href="#h_515292558371539007030919"><strong>above tips</strong></a><span style="font-weight: 400;"> on where to place his charger.</span></li>
+ </ul>
+ <p><span style="font-weight: 400;"><br></span></p>
+ <p><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d764b2c7d3a7e9ae9e1d4/img-25345-1585280586-558542258.gif"></p> 
+</div>
+<hr>
+<p> <span style="font-weight: 400;">If you encounter any issues with Vector’s battery or him self-charging, please see </span><a href="//support.digitaldreamlabs.com/article/100-troubleshooting-charging-issues">this FAQ</a><span style="font-weight: 400;">.</span></p>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/117-how-to-charge-vector">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2021-12-29 >Last updated on December 29, 2021</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

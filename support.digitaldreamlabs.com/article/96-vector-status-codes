@@ -1,0 +1,871 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Vector Error &amp; Status Codes - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Vector will occasionally display an error code (also known as a Status Code) on his screen. These Status Codes are usually nothing to worry about unless they ha"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/96-vector-status-codes"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Vector Error &amp; Status Codes" />
+            <meta name="twitter:description" content="Vector will occasionally display an error code (also known as a Status Code) on his screen. These Status Codes are usually nothing to worry about unless they ha"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691863952832.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Vector Error & Status Codes","item":"https://support.digitaldreamlabs.com/article/96-vector-status-codes"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Vector Error &amp; Status Codes</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p data-children-count="0"> Vector will occasionally display an error code (also known as a Status Code) on his screen. These Status Codes are usually nothing to worry about unless they happen often. For troubleshooting, please see this article: <a href="//support.digitaldreamlabs.com/article/101-why-does-vector-show-an-error" target="_blank" style="font-size: 14px;">Why Does Vector Show An Error?</a></p>
+<p data-children-count="0"></p>
+<section class="callout-blue" data-children-count="0">
+ <p> <em>This article was made possible by a combination of internal documentation but also by the work of Randall Maas and his&nbsp;</em><a href="https://github.com/GooeyChickenman/victor/blob/master/documentation/Vector-TRM.pdf" target="_blank">Vector Technical Reference Manual</a><em>. Digital Dream Labs wishes to thank Randall for his dedication to the Vector Technical Reference Manual, which is a fantastic resource.</em></p>
+</section>
+<p data-children-count="0"></p>
+<ul data-children-count="0"> 
+ <li>800 - 999 
+  <ul> 
+   <li>If any of these Status Codes consistently appear, there could possibly be a hardware issue with Vector. Startup into Recovery Mode, Clear User Data, and use the Vector app to Reinstall Vector’s OS.</li> 
+  </ul></li> 
+ <li>700 - 705 
+  <ul> 
+   <li>These are issues triggered by the reading of an internal sensor. A good example would be Vector operating in a room that was too hot.</li> 
+  </ul></li> 
+ <li>200 - 219 
+  <ul> 
+   <li>If any of these Status Codes appear, they involve Software Updates or the Recovery process. Typically, retrying the Update will fix the issue unless there is a fundamentally more complex issue involved.</li> 
+  </ul></li> 
+ <li>1 - 10 
+  <ul> 
+   <li>These codes belong to a core Vector service that runs all of Vector’s other services. Most of these codes will never appear on Vector’s display.</li> 
+  </ul></li>
+</ul>
+<hr data-children-count="0">
+<h3 data-children-count="0">Error Code Table</h3> 
+<table style="height: 2651px;" border="2" width="684" cellspacing="5" cellpadding="5" data-children-count="0"> 
+ <tbody> 
+  <tr style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>Error Code</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> <span style="font-weight: bolder; font-family: 'Helvetica Neue'; font-size: normal;">Code Description</span> </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <strong>Explanation</strong> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>1</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Switchboard: unknown status </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Should never happen. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>2</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Switchboard: OTA in progress </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> An Over-The-Air update is currently in progress. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>3</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Switchboard: OTA completed </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> An Over-The-Air Update has completed successfully. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>4</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Switchboard: rebooting </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The robot is rebooting. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>5</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Switchboard: Other OTA error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> An unknown error occurred with an Over-The-Update. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>10</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> OS: Unknown system error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>200</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Unexpected .tar contents </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Tar file was corrupt</li> 
+     <li>Tar contents did not follow the expected order.</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>201</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Unhandled manifest version or feature </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Unhandled section format for expansion</li> 
+     <li>The manifest version is not supported</li> 
+     <li>The OTA has the wrong number of images for the type</li> 
+     <li>The OTA is missing a BOOT or SYSTEM image</li> 
+     <li>The manifest configuration is not understood</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>202</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Boot Control HAL failure </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Could not mark target slot</li> 
+     <li>a or b partition unbootable</li> 
+     <li>Could not set target slot as active </li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>203</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Could not open URL </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <p> The URL for the link was invalid (check the link and make sure you can download the OTA on your local machine from the same link) </p> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>204</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> URL not a TAR file </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The URL used to initiate an update pointed to an incorrect filetype. Check the link. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>205</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Decompressor error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The .tar/.ota file could not be unpacked- could happen if the .ota file is corrupted. Reboot the robot and try again. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>206</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Block error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>207</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Imgdiff error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Delta payload error </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>208</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> I/O error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Couldn't sync OS images to disk</li> 
+     <li>Disk error while transferring OTA file</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>209</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Signature validation error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Manifest failed signature validation</li> 
+     <li>The aboot, boot image, system image, or delta.bin hash doesn't match the signed manifest (files may have been modified)</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>210</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Decryption error </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Encryption scheme is not supported. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>211</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Wrong base version </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vector's current version doesn't match what is expected for this delta update </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>212</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Subprocess exception </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The decompression engine had an unexpected, undefined error. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>213</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Wrong serial number </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The processor serial number (QSN) is not correct for the robot that the image is being applied to. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>214</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Dev / Prod mismatch </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Development Vectors can’t install production OTA software, and production Vectors can’t install development OTA software (make sure that you are applying the correct image to Vector). <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>215</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Socket Timeout (network stall) </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> OTA transfer failed, due to timeout. (There may be poor network connectivity) <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>216</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Downgrade not allowed </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>The robot is not allowed to upgrade or downgrade from the current version to the new version</li> 
+     <li>OS version name in the update file doesn’t follow an acceptable pattern (the version suffixes – for production, release candidate, userdev, and development – must match the already installed software)</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>217</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>218</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>219</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Other Exception </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Other unexpected, undefined error while transferring OTA file. <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Hardware Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>990</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> DISPLAY_FAILURE </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The screen could not be detected / initialized (The LCD display is not communicating properly with the processor.) </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>981</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CAMERA_STOPPED </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>The camera stopped responding to instructions.</li> 
+     <li>mm-anki-camera process hung when the camera stream was exited via vic-engine stop.</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>980</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CAMERA_FAILURE </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>The camera could not be detected / initialized. </li> 
+     <li>The camera stopped responding to instructions.</li> 
+     <li>mm-anki-camera process hung when the camera stream was exited via vic-engine stop.</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>970</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> WIFI_HW_FAILURE </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The Wi-Fi radio antenna could not be detected / initialized. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>960</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> IMU_FAILUR </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The IMU ( <a href="https://en.wikipedia.org/wiki/Inertial_measurement_unit" target="_blank">Inertial Measurement Unit</a>) could not be detected / initialized. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Vector OS Process Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>923</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_CLOUD_PROCESS </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-cloud failed to start or&nbsp;stopped unexpectedly. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>921</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_GATEWAY </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-gateway was unable to start or crashed <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>920</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> VIC_GATEWAY_CERT </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-gateway-cert was unable to generate a x509 certificate for vic-gateway </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>919</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> SYSTEMD </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Systemd is not working properly <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>917</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_ROBOT_COMMS </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Vic-anim crashed or failed to start.</li> 
+     <li>Vic-robot stopped responding.</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>916</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_ROBOT_PROCESS </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>Vic-robot was unable to start or crashed</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>915</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_ENGINE_COMMS </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-engine stopped responding <br> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>914</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_ENGINE_PROCESS </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-engine stopped unexpectedly. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>913</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_SWITCHBOARD </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-switchboard stopped unexpectedly. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>911</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> AUDIO_FAILURE </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The audio engine stopped unexpectedly or failed to start on boot. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>909</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> STOP_BOOT_ANIM_FAILED </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The boot animation process failed or was unable to start. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Hardware Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>899</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_BODY </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>The main board is unable to communicate with the body-board (The cable between boards may be disconnected)</li> 
+     <li>May appear due to a software bug in version 1.6</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>898</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> SPINE_SELECT_TIMEOUT </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> 
+    <ul> 
+     <li>&nbsp;The main board is unable to communicate with the body-board (the cable between boards may be disconnected).</li> 
+     <li>This also appears as a software bug in&nbsp;version 1.6.</li> 
+    </ul> </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> External Sensor Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>895</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> TOUCH_SENSOR </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The back touch sensor failed during power-on self test or during runtime. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>894</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> TOF </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> TOF (Time-Of-Flight) sensor failed to initialize or stopped working. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>893</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLIFF_BL </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The back left cliff sensor failed to initialize or stopped working. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>892</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLIFF_BR </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The back right cliff sensor failed to initialize or stopped working. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>891</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLIFF_FL </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The front left cliff sensor failed to initialize or stopped working. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>890</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLIFF_FR </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The front right cliff sensor failed to initialize or stopped working. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Microphone Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>873</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> MIC_BL </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Back left microphone failed to initialize / send data. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>872</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> MIC_BR </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Back right microphone failed to initialize / send data. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>871</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> MIC_FL </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Front left microphone failed to initialize / send data. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>870</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> MIC_FR </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Front right microphone failed to initialize / send data. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Cloud Errors </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>852</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLOUD_READ_ESN </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp;There is a problem reading the cloud electronic serial number. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>851</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLOUD_TOKEN_STORE </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp;There is a problem with the cloud token store. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>850</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> CLOUD_CERT </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp;There is a problem with the cloud certificate. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Manufacturing Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>840</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_CAMERA_CALIB </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The camera is not calibrated. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Vector OS Process Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>801</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> DFU_FAILED </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The process to update the cube firmware failed. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>800</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> NO_ANIM_PROCESS </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Vic-anim was unable to start or crashed. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> &nbsp; </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> &nbsp;// </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> Internal Sensor Derived Issues </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> &nbsp; </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>705</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> SHUTDOWN_BATTERY_CRITICAL_TEMP </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The robot shut down because the battery was too hot to operate safely. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>702</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> SHUTDOWN_BATTERY_CRITICAL_VOLT </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The robot was shut down because the battery voltage was too low. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>701</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> SHUTDOWN_GYRO_NOT_CALIBRATING </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> The gyroscope sensor values were out of normal range or the gyroscope failed (it wasn’t able to calibrate), so the robot shut down. </td> 
+  </tr> 
+  <tr class="wysiwyg-indent1" style="height: 25px; text-align: left;"> 
+   <td class="wysiwyg-indent1" style="width: 41px;" valign="top"> <strong>700</strong> </td> 
+   <td class="wysiwyg-indent1" style="width: 295px;" valign="top"> SHUTDOWN_BUTTON </td> 
+   <td class="wysiwyg-indent1" style="width: 297px;" valign="top"> Normal shutdown due to the button being pressed. </td> 
+  </tr> 
+ </tbody> 
+</table>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/96-vector-status-codes">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2021-12-29 >Last updated on December 29, 2021</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

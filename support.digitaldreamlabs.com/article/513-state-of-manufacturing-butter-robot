@@ -1,0 +1,391 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>State of Manufacturing: Butter Robot - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hard"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/513-state-of-manufacturing-butter-robot"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="State of Manufacturing: Butter Robot" />
+            <meta name="twitter:description" content="Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hard"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691819252643.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"General Information","item":"https://support.digitaldreamlabs.com/collection/1-general-information"},{"@type":"ListItem","position":3,"name":"State of Manufacturing: Butter Robot","item":"https://support.digitaldreamlabs.com/article/513-state-of-manufacturing-butter-robot"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  class="active"  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">State of Manufacturing: Butter Robot</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hardware manufacturing projects. Here, we'll cover the current state of&nbsp;the <strong>Butter Robot</strong>.</p>
+<p> We will strive to update these articles weekly. In some cases, there may be no new information to post; however we'll communicate everything we can, when we can. It's our objective to ensure that you have a thorough understanding of your order's status, how we are handling production and shipping, and clear up a few FAQs regarding Pre-Orders and shipment.</p>
+<hr>
+<h2>Status as of 8/29/2022:</h2>
+<p> <strong>Prototype Evaluation:</strong><br> <strong></strong>Prototypes were sent to the licensing partners for evaluation and feedback; we are making a few mechanical changes to optimize the Butter Robot after taking feedback from these partners.</p>
+<p> <strong>Software Development:</strong></p>
+<ul> 
+ <li><strong></strong>We are making additional small modifications to the voice of the Butter Robot to make him more clear and understandable.</li> 
+ <li>In the last few updates, we mentioned that the team had been working on an OTA system. This OTA system is now complete and will be used to issue software updates to the robot post-launch.</li>
+</ul>
+<p> <strong>App Development:</strong><br> <strong></strong>The app is continuing development; we have much of the core functionality of the app built and we are continuing to refine the app and add additional UI elements that will make for a more pleasant experience.</p>
+<hr>
+<h2>Status as of 5/20/2022:</h2>
+<p> <strong>Testing Prototypes:</strong></p>
+<p> Multiple prototypes have been built and are currently being tested for weight balancing and polish! Currently, weight and balancing are our primary test focuses. Since that has been an ongoing effort (adjusting motor software for robot stability and measuring/determining what kind of counterweights need to go into the robot to ensure best performance), other news is scarce. We will continue to provide more information as we can. Until then, here's a short video of our efforts; we've managed to resolve many cases of the Butter Robot falling down due to his high center of gravity, but there are a few edge cases that we are working to resolve (for example, if the robot is leaning forward and then makes an abrupt stop).</p> 
+<div style="padding:75% 0 0 0;position:relative;"> 
+ <iframe src="https://player.vimeo.com/video/712206877?h=33c9fa0340&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Image from iOS" data-dashlane-frameid="880"> </iframe> 
+</div>
+<hr>
+<h3>Status as of 4/19/2022:</h3>
+<p> <strong>Parts have arrived and prototype units have been assembled for testing:</strong></p>
+<p> Our team in Pittsburgh received a shipment of parts from the factory tooling! These parts will be used to assemble several prototype robots for various testing purposes (as we'll see below). Here is a bit of what arrived at the office this week:</p>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/625f06cb35f8b26458265d29/file-awvuUkJwm5.jpg" alt="" style="display: block; width: 399px; float: left; margin: 0px 10px 10px 0px;"></p>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/625f074135f8b26458265d2e/file-iamyUC2FRv.png" style="width: 777px;"></p>
+<p> Once we assemble all of the above with the internal electronics, we get... a <strong>prototype Butter Robot</strong>!</p>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/625f08475d4a56595bbfadcb/file-KW5ChmSpQD.jpg" style="width: 825px;"></p>
+<p> <strong>Robot Testing:</strong></p>
+<p> Our new prototypes are going to be put to the test! We're performing tests in all different areas to understand ways to improve the Butter Robot and make sure that he is ready to fulfill his purpose. Here are some testing types we'll be putting the prototypes through in the coming days:</p>
+<ol> 
+ <li>Drops / shell durability</li> 
+ <li>Motor/gear durability</li> 
+ <li>Range of Motion</li> 
+ <li>Camera</li> 
+ <li>Battery life / consumption</li>
+</ol>
+<p> <strong>Battery Changes:</strong></p>
+<p> Originally we expected to utilize AA batteries in the Butter Robot; however, we believe this early decision is much improved with a new solution. We will be switching to a new lithium-ion battery pack with overcharge protection that will provide the ability to recharge the robot while improving runtimes, reducing electronic waste, and allowing more seamless usage and operation!</p>
+<p> <strong>Software Adjustments:</strong></p>
+<ul> 
+ <li>Motor 
+  <ul> 
+   <li>We are fine tuning the software for the individual motors to provide good range of motion, while preventing damage in the event that the robot is restrained somehow or if it is at full extension of any joints. These adjustments will prolong the life of the robot significantly.</li> 
+  </ul></li> 
+ <li>Voice 
+  <ul> 
+   <li>The Butter Robot has been somewhat difficult to understand- he talks a little bit too quickly and with very short pauses between words- we're adjusting his voice to be more clear and understandable without affecting his tone or personality!</li> 
+  </ul></li>
+</ul>
+<hr>
+<h2> Status as of 3/18/2022:</h2>
+<p> <strong>Main focus is now to get finalized components into a full prototype robot:</strong><br> The PCB designs are now finished, and speakers have been selected for use. The team is working to assemble a full prototype with the finalized PCBs and other internal components using 3D-printed and injection-molded parts for testing. Once completed, counterweights will be added; we are designing and choosing materials for these counterweights. We are also working to get a full injection-molded robot body off of the new factory tooling; we expect this in early to mid-April.</p>
+<p> <strong>Choosing batteries:</strong><br> Our team is working to select and source lithium-based rechargeable batteries to optimize the runtime of the robot. Once we have selected the battery type, we will work to source enough components to cover the first manufacturing run.</p>
+<p> <strong>Software:</strong><br> Work continues on the UI and features of the mobile app; we are also researching the best options for the firmware and OTAs to be distributed and held on the robot- the update system will likely be very similar to Vector, but the specific logistics are still under investigation for this hardware.</p>
+<hr>
+<h2>Status as of 3/5/2022:</h2>
+<h4>Hardware:</h4>
+<p> We received a new shipment of prototype boards for the internal electronics. The new speakers that were tested are still not up to par with what we need from an audio standpoint; we are working to find ways to boost amplification and/or look at further speaker alternatives that will give us the desired feel for the robot.</p>
+<h4>Software:</h4>
+<p> Work continues on the mobile app's UI and feel. Also, last week we focused on integrating the edge detection software and hardware together. This is completed; next we will be testing these software &amp; hardware components together with some of the main boards of the robot to test cliff detection and ensure that the Butter Robot, no matter how pointless he believes his butter-passing mission is, will never willingly fall off of your furniture.</p>
+<hr>
+<h2>Status as of 2/21/2022:</h2>
+<h4>Tooling:</h4>
+<p> Tooling was one of the largest phases of manufacturing for the robot that went on for several months. In our last email update we were still working on the tooling phase. We're glad to say that the Butter Robot's tooling is now completed and fully locked in! Tooling is also completed for the butter tray, which will accompany the Butter Robot to your home.</p>
+<h4>Hardware:</h4>
+<p> We are currently revising the internal electronics boards to better fit parts that are available and in stock with vendors to look forward for more manufacturing runs. One particular challenge of note was that our previous speaker was not powerful enough- so even though it was available and we were able to procure it, it was not loud enough when it was placed into the robot. We are working to source and choose new speaker components that will be:</p>
+<ol> 
+ <li>Loud enough for the user to easily hear through the body.</li> 
+ <li>Clear enough that speech is not garbled</li> 
+ <li>Small enough to fit inside the head without moving the motors and/or gears inside the head</li>
+</ol>
+<p> We have a shipment of new speakers to test that should arrive on Friday. We will test these and update this with our findings.</p>
+<h3>Software:</h3>
+<p> The software for the Butter Robot is something we can really capitalize on with the time that the hardware is taking. The "Garbage Brain" application that will be the highlight of the Butter Robot's intelligence is coming along well. We're also continuing work on the mobile app that will drive the robot. The bones of the interface are developed, and we're continuing to improve the user interface and refine function.</p>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/513-state-of-manufacturing-butter-robot">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-08-29 >Last updated on August 29, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e457b012c7d3a7e9ae7b3e5"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/386-policies">Policies  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/518-repair-center">Repair Center  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/512-state-of-manufacturing">State of Manufacturing  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/36-anki">Anki &amp; Digital Dream Labs  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

@@ -1,0 +1,691 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Cozmo App Changelog - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Here&#x27;s a brief summary of what&#x27;s changed, new, and improved in our Cozmo App updates. 2021-09-03 What&#x27;s new in Version 3.4.3? Fixed an issue with typing in Code"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/226-cozmo-changelog"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Cozmo App Changelog" />
+            <meta name="twitter:description" content="Here&#x27;s a brief summary of what&#x27;s changed, new, and improved in our Cozmo App updates. 2021-09-03 What&#x27;s new in Version 3.4.3? Fixed an issue with typing in Code"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691381724929.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Cozmo","item":"https://support.digitaldreamlabs.com/collection/9-cozmo"},{"@type":"ListItem","position":3,"name":"Cozmo App Changelog","item":"https://support.digitaldreamlabs.com/article/226-cozmo-changelog"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Cozmo App Changelog</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> Here's a brief summary of what's changed, new, and improved in our Cozmo App updates.</p>
+<hr>
+<h3>2021-09-03 What's new in Version 3.4.3?</h3>
+<ul> 
+ <li>Fixed an issue with typing in Code Lab where the keyboard would hide itself immediately after being called. 
+  <hr> </li>
+</ul>
+<h3>2021-08-20 What's new in Version 3.4.2?</h3>
+<ul> 
+ <li>Fixed an issue where Unity's additional assets caused the app to crash during the loading process on some devices.</li> 
+ <li>Fixed an issue where the icon for removing a number in the Code Lab number mini-keyboard was missing.</li> 
+ <li>Update Privacy Policy</li> 
+ <li>Update Terms of Service</li> 
+ <li>Fix broken links from deprecated Anki website to Digital Dream Labs website and support resources. 
+  <hr id="horizontalrule"> </li>
+</ul>
+<h3>2021-07-30 What's new in Version 3.4.1?</h3>
+<ul> 
+ <li>Added 64-bit support.</li> 
+ <li>Rebrand from Anki to Digital Dream Labs</li>
+</ul>
+<hr> 
+<div class="sections"> 
+ <h3><span class="s1">2019-03-13&nbsp;<strong>What's new in Version 3.4.0?</strong></span></h3> 
+ <ul> 
+  <li><span class="s1">*<strong>NEW</strong>*: <a href="//support.digitaldreamlabs.com/article/242-learn-more-about-education-edu-mode">Education (EDU) Mode</a></span></li> 
+  <li><span class="s1">12 Education Sample Projects in Code Lab</span></li> 
+  <li> <span class="s1">CODE LAB Featured Content: </span> 
+   <ul> 
+    <li><span class="s1">*<strong>NEW</strong>* - Robo Game Show</span></li> 
+    <li><span class="s1">*<strong>NEW</strong>* - Roll to the Goal</span></li> 
+    <li><span class="s1">Re-Release - Pot O' Gold </span></li> 
+    <li><span class="s1">Re-Release - Twist Tap Roll&nbsp;</span></li> 
+   </ul> </li> 
+  <li><span class="s1">Bug fixes &amp; polish</span></li> 
+  <li><span class="s1">We are aware of some text and icon overlap issues on connection screens</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h3><span class="s1">2019-02-07&nbsp;<strong>What's new in Version 3.3.0?</strong></span></h3> 
+ <ul> 
+  <li>CODE LAB Featured Content / Mini Games: 
+   <ul> 
+    <li><span class="s1">*<strong>New</strong>* Haywire </span></li> 
+    <li><span class="s1">*<strong>New</strong>* Laser Blitz </span></li> 
+    <li><span class="s1">Re-Release - Valentines Day Cozmo-gram </span></li> 
+    <li><span class="s1">Re-release - Hot Potato</span></li> 
+   </ul> </li> 
+  <li>Bug fixes and polish</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h3><span class="s1">2019-01-08&nbsp;<strong>What's new in Version 3.2.0?</strong></span></h3> 
+ <ul> 
+  <li>Fire Truck Alarm as a Sparkable Trick</li> 
+  <li>New Animal Animations for Cozmo Performs</li> 
+  <li>CODE LAB Featured Content / Mini Games: 
+   <ul> 
+    <li>*<strong>New</strong>* Tick Tock Bot</li> 
+    <li>*<strong>New</strong>* Puzzle Palace</li> 
+    <li>Re-release - Laser Smile</li> 
+    <li>Re-Release - Remote Control Racer</li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h3><span class="s1">2018-12-04&nbsp;<strong>What's new in Version 3.1.0?</strong></span></h3> 
+ <ul> 
+  <li><span class="s1">New Holiday Feature: Cozmo Performs </span></li> 
+  <li><span class="s1">New Holiday Feature: Freetime mode </span></li> 
+  <li><span class="s1">Update to Terms of Service and Privacy Policy in Cozmo app </span></li> 
+  <li> <span class="s1">Code Lab Featured Content / Mini Games: </span> 
+   <ul> 
+    <li><span class="s1">*<strong>New</strong>* - Rebounce </span></li> 
+    <li><span class="s1">*<strong>New</strong>* - Tappy Cozmo</span></li> 
+    <li><span class="s1">Re-release - Tread Trekker </span></li> 
+    <li><span class="s1">Re-release - Light Show </span></li> 
+    <li><span class="s1">Re-release - Cube Mix Up </span></li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h3><span class="s1">2018-10-30&nbsp;<strong>What's new in Version 3.0.0?</strong></span></h3> 
+ <ul> 
+  <li><span class="s1">New UI/UX refresh, includes home screen, games, tricks, feed, tune-up</span></li> 
+  <li><span class="s1">New on-boarding</span></li> 
+  <li><span class="s1">Cozmo Sings = Sparkable Trick</span></li> 
+  <li> <span class="s1">Code Lab Featured Content:</span> 
+   <ul> 
+    <li><span class="s1">New - Tread Trekker </span></li> 
+    <li><span class="s1">New - Scaring Contest </span></li> 
+    <li><span class="s1">Re-release - Hot Potato</span></li> 
+    <li><span class="s1">Re-release - Shake It</span></li> 
+    <li><span class="s1">Re-release - Magic Fortune Teller</span></li> 
+    <li><span class="s1">Re-release - Cube Whack</span></li> 
+   </ul> </li> 
+  <li><span class="s1">Fixed some connection issues where Cozmo disconnects after a few minutes of gameplay</span></li> 
+  <li><span class="s1">Fixed an issue where Cozmo's firmware updated, then updates again after consequent connections</span></li> 
+  <li><span class="s1">Heavily reduced Android app size!</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <p> <span class="s1">2018-09-13&nbsp;<strong>What's new in Version 2.10.0?</strong></span> </p> 
+ <ul> 
+  <li>New Code Lab Featured Projects 
+   <ul> 
+    <li>Code Cracker, Stack Attack , Poppin Locks and re-promoting Guess the Number, Light Show and Cube Whack</li> 
+   </ul> </li> 
+  <li>Change in order of tricks</li> 
+  <li>Bug fixes and polish</li> 
+ </ul> 
+ <p> 2018-08-15&nbsp; <strong>What's new in Version 2.9.0?</strong> </p> 
+ <ul> 
+  <li>New Code Lab Featured Projects 
+   <ul> 
+    <li>Cube Tennis, Robo-Sham-Bo, Robo Showdown, and re-promoting Paddle Ball</li> 
+   </ul> </li> 
+  <li>Unlock a Bonus Box containing Sparks, Tricks and songs every time you fill the Play meter!</li> 
+  <li>Cozmo's Needs won't suffer when you are not connected to him</li> 
+  <li>Bug fixes and polish</li> 
+ </ul> 
+ <p> <span class="s1">2018-07-17&nbsp;<strong>What's new in Version 2.8.0?</strong></span> </p> 
+ <ul> 
+  <li>New Code Lab Featured Projects 
+   <ul> 
+    <li>Twist, Tap, Roll!, Cube Mix-up, Treasure Twist</li> 
+   </ul> </li> 
+  <li>An updated Play menu that now includes Featured Projects from Code Lab</li> 
+  <li>Updated tuning for Cozmo's Needs<br> 
+   <ul> 
+    <li>Using Code Lab projects now contributes to Cozmo's Play need</li> 
+   </ul> </li> 
+  <li>End-of-support for Android 4.4.x messaging</li> 
+  <li>Bug fixes and polish</li> 
+ </ul> 
+ <p> <span class="s1">2018-06-19&nbsp;<strong>What's new in Version 2.7.0?</strong></span> </p> 
+ <ul> 
+  <li>Don’t blink! Cozmo challenges you to a stare off in this week’s featured Code Lab project.</li> 
+  <li>We’re also adding “Tidal Tap”, our Code Lab Summer Fun Contest winner, to this release.</li> 
+  <li>Updated our Terms of Service for GDPR.</li> 
+  <li>Bug fixes and polish.</li> 
+  <li>Beginning with this update, if you are running the Cozmo app on a device that is using Android 4.4.x or older, that device will display a dialog: 
+   <ul> 
+    <li>This device is running an unsupported version of Android.</li> 
+    <li>To continue receiving updates, please upgrade or replace this device before&nbsp;September 2018.</li> 
+    <li>After this date, these devices will continue to run a version of the Cozmo app, but will no longer receive the latest and greatest Cozmo has to offer.</li> 
+   </ul> </li> 
+ </ul> 
+ <p> <span class="s1">2018-05-22&nbsp;<strong>What's new in Version 2.6.0?</strong></span> </p> 
+ <ul> 
+  <li><span class="s1">Try your hand at Cozmo’s sensational slots in our newest user-submitted Code Lab game, “Jackpot Bot”, and don’t forget to check the app regularly for even more ways to play.</span></li> 
+  <li><span class="s1">GDPR-related settings update.</span></li> 
+  <li><span class="s1">Bug fixes and polish.</span></li> 
+ </ul> 
+ <p> <span class="s1">2018-04-25&nbsp;<strong>What's new in Version 2.5.0?</strong></span> </p> 
+ <ul> 
+  <li>Code Lab Featured Projects 
+   <ul> 
+    <li>Four new projects: For You, Mom!; Compose with Cozmo; Poetry Jam; and an ETC submission: Color Shuffle</li> 
+   </ul> </li> 
+  <li>Bug fixes and polish</li> 
+  <li>With Google Devices running Android 8, the Cozmo app should no longer fail to connect to Cozmo when a user has Cellular Data enabled and switches from an Internet-connect WiFi network to Cozmo's WiFi Network. So, it should no longer be necessary on these devices to disable Cellular Data to connect to Cozmo.</li> 
+  <li>Eliminates a crash that could occur when a Motorola device attempts to re-connect to Cozmo and the player turned off WiFi before launching the app.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2018-03-29&nbsp;<strong>What's new in Version 2.4.0?</strong></span> </p> 
+ <ul> 
+  <li class="p1"> <span class="s1">Updates to Code Lab workspace: </span> 
+   <ul> 
+    <li class="p1"><span class="s1">New list blocks, improvements to variables, the ability to name/rename message blocks, updated scrolling for block category UI.</span></li> 
+   </ul> </li> 
+  <li class="p1"> <span class="s1">Code Lab Featured Projects - Four new projects:</span> 
+   <ul> 
+    <li class="p1">Constellations, Wake Up, Cozmo!, Cozmo's Garden, and our first user-submitted project, Guess the Number.</li> 
+   </ul> </li> 
+  <li class="p1">Bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2018-03-21&nbsp;<strong>What's new in Version 2.3.1 (Android Only)?</strong></span> </p> 
+ <ul> 
+  <li>Limits the number of crashes that may happen on Motorola devices. 
+   <ul> 
+    <li>Try to load the app 3 times, the first 2 attempts may fail, then the 3rd attempt may take a little longer to load, but should load.&nbsp; Once you get through the 3rd attempt and it is successful, you should be good to go.</li> 
+    <li>If you still experience issues after trying the above, please contact Customer Care for additional trouble-shooting.</li> 
+   </ul> </li> 
+  <li>Bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2018-02-28&nbsp;<strong>What's new in Version 2.3.0?</strong></span> </p> 
+ <ul> 
+  <li>Want to hear something nice? Well, Cozmo’s quite the sweet talker in the latest Code Lab Featured Project, “Compliment Generator”. 
+   <ul> 
+    <li>Look out for new Featured Projects!</li> 
+   </ul> </li> 
+  <li>Bug fixes and polish.</li> 
+  <li>We believe that most, if not all, iPhone X UI issues are now resolved.</li> 
+  <li>Should prevent an issue where the Cozmo app running on some Android 8.1 devices would not find Cozmo over WiFi while the device had a live data connection.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2018-01-29&nbsp;<strong>What's new in Version 2.2.0?</strong></span> </p> 
+ <ul> 
+  <li>We’ve added new ways to play with Cozmo! Check back weekly for new Code Lab releases.</li> 
+  <li>Bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-12-05&nbsp;<strong>What's new in Version 2.1.0?</strong></span> </p> 
+ <ul> 
+  <li class="p1">This release introduces Constructor Mode to Code Lab, which allows players to program Cozmo with more complex code blocks and save remixes of Featured, sample, and original projects. 
+   <ul> 
+    <li class="p1">Check out the 6 Featured projects in Code Lab Constructor for fun and inspiration.</li> 
+   </ul> </li> 
+  <li class="p1">Got a laser pointer handy? Give Cozmo Sparks, and he'll chase a laser like a cat.</li> 
+  <li class="p1">See which songs you've unlocked for Cozmo to sing and enjoy 10 new tunes.</li> 
+  <li class="p1">Bug fixes and polish.</li> 
+  <li class="p1">Now runs more consistently on iPad mini and iPod touch (5th Generation)</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-11-14&nbsp;<strong>What's new in Version 2.0.4?</strong></span> </p> 
+ <ul> 
+  <li class="p1">Bug Fixes and Polish</li> 
+  <li class="p1">There are no player-facing changes in this update.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-10-24&nbsp;<strong>What's new in Version 2.0.3?</strong></span> </p> 
+ <ul> 
+  <li class="p1">Changes our WiFi WPA2 implementation to account for the vulnerabilities described in the <strong><a href="https://www.krackattacks.com">Key Reinstallation Attacks</a></strong>&nbsp;</li> 
+  <li class="p1">There are no other fixes or player-facing changes in this update.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-10-03&nbsp;<strong>What's new in Version 2.0.2?</strong></span> </p> 
+ <ul> 
+  <li class="p1">Bug Fixes and Polish</li> 
+  <li class="p1">There are no player-facing changes in this update.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-09-20&nbsp;<strong>What's new in Version 2.0.1?</strong></span> </p> 
+ <ul> 
+  <li class="p1">Bug Fixes and Polish</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-09-12 <strong>What's new in Version 2.0.0?</strong></span> </p> 
+ <ul> 
+  <li class="p1">Adds international support&nbsp;with&nbsp;French, German, and Japanese languages.</li> 
+  <li class="p1">The Cozmo experience is now&nbsp;focused around <strong>Nurturing Cozmo</strong>.</li> 
+  <li class="p1">A complete refresh of the&nbsp;user experience, with a&nbsp;completely new look</li> 
+  <li class="p1">Adds new Cozmo abilities, like Singing, with more to come…</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <p class="p1"> <span class="s1">2017-07-17<strong>&nbsp;What's new in Version 1.7.1?</strong></span> </p> 
+ <ul> 
+  <li>Adds Guard Dog 
+   <ul> 
+    <li>In this new Free Play behavior, Cozmo pretends to be asleep while guarding his stack of cubes. Players can try to move Cozmo’s cubes without waking him up.</li> 
+    <li>Cozmo can be protective of his Cubes, and at times may doze off while guarding them. While he snoozes, carefully flip each Cube. But be careful, if he senses movement, you'll disrupt his slumber. Never wake a sleeping robot.</li> 
+   </ul> </li> 
+  <li>Includes some crashes fixes, and some addition bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-06-26<strong>&nbsp;What's new in Version 1.6.0?</strong></span> </p> 
+ <ul> 
+  <li>Adds <a href="//support.digitaldreamlabs.com/article/234-learn-about-code-lab" target="_blank" rel="noopener noreferrer">Cozmo's Code Lab</a></li> 
+  <li>Bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-05-30<strong>&nbsp;What's new in Version 1.5.0?</strong></span> </p> 
+ <ul> 
+  <li>Cozmo&nbsp;now can get hiccups, so please be ready to help him out.</li> 
+  <li>Cozmo may play Peekaboo! any time he sees your face.</li> 
+  <li>Bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-04-27<strong>&nbsp;What's new in Version 1.4.0?</strong></span> </p> 
+ <ul> 
+  <li>Cozmo now gets dizzy when you move him too quickly.</li> 
+  <ul> 
+   <li>If you&nbsp;pick up Cozmo and shake him in Freeplay, he becomes dizzy for a short period of time.</li> 
+   <li>How much you shake him produces a different set of reactions.</li> 
+   <li>This update was not his favorite, so please play nicely with him</li> 
+  </ul> 
+  <li>Cozmo gains the ability to build a pyramid out of three upright cubes.</li> 
+  <li>Bug fixes and polish.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-03-29<strong>&nbsp;What's new in Version 1.3.0?</strong></span> </p> 
+ <ul> 
+  <li>Now you can play Quick Tap with Cozmo and a friend.</li> 
+  <ul> 
+   <li>Hey, a little healthy competition among pals is good for you. The app makes it super easy to toggle between multiplayer and head-to-head modes.</li> 
+  </ul> 
+  <li>Bug fixes and polish</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2017-03-01<strong>&nbsp;What's new in Version 1.2.0?</strong></span> </p> 
+ <ul> 
+  <li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New interaction and enhancements for Cozmo including general polish and bug fixes. With this upgrade, Cozmo can now fist bump! When he holds his lift in the air, bump it, and show Cozmo you\u2019re proud of him.&quot;}" data-sheets-userformat="{&quot;2&quot;:1013,&quot;3&quot;:{&quot;1&quot;:0},&quot;5&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;7&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0}">New interaction and enhancements for Cozmo including general polish and bug fixes. </span></li> 
+  <li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;New interaction and enhancements for Cozmo including general polish and bug fixes. With this upgrade, Cozmo can now fist bump! When he holds his lift in the air, bump it, and show Cozmo you\u2019re proud of him.&quot;}" data-sheets-userformat="{&quot;2&quot;:1013,&quot;3&quot;:{&quot;1&quot;:0},&quot;5&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;7&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0}">With this upgrade, Cozmo can now fist bump! When he holds his lift in the air, bump it, and show Cozmo you’re proud of him.</span></li> 
+  <li>Instead of using the WiFi&nbsp;settings Android, users can now connect&nbsp;to their Cozmo by&nbsp;entering his password&nbsp;from within the Cozmo app.</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2016-12-08<strong> What's new in Version 1.1.1? (Android-only)</strong></span> </p> 
+ <ul> 
+  <li>This is an Android-only release. &nbsp;It does not contain any new content or features. &nbsp;It fixes an issue that impacts a very specific group of Android users.&nbsp;&nbsp;</li> 
+ </ul> 
+ <p class="p1"> <span class="s1">2016-12-05<strong> What’s new in Version 1.1.0? (Latest)</strong></span> </p> 
+ <ul class="ul1"> 
+  <li class="li2"> <span class="s1">Now there’s more Cozmo to love, including:</span> 
+   <ul class="ul3"> 
+    <li class="li2"><span class="s1">In this new game follow the pattern on Cozmo’s Power Cubes.</span></li> 
+   </ul> 
+   <ul class="ul3"> 
+    <li class="li2"><span class="s1">Feed Cozmo up to thirty characters at a time, and try not to laugh as he works through the pronunciations.</span></li> 
+   </ul> 
+   <ul class="ul3"> 
+    <li class="li2"><span class="s1">Greet people and pets, use his lift, instruct Cozmo to interact with Power Cubes and access Night Vision.</span></li> 
+   </ul> 
+   <ul class="ul3"> 
+    <li class="li2"><span class="s1">Cozmo can now detect dog and cat faces, and react appropriately to both.</span></li> 
+   </ul> </li> 
+  <ul class="ul2"> 
+   <li class="li2"><span class="s1">Memory Match</span></li> 
+   <li class="li2"><span class="s1">Cozmo Says</span></li> 
+   <li class="li2"><span class="s1">Explorer Mode Enhancements</span></li> 
+   <li class="li2"><span class="s1">Cat and Dog Face Detection</span></li> 
+   <li class="li2"><span class="s1">General polish and bug fixes.</span></li> 
+  </ul> 
+ </ul> 
+ <p class="p1"> <span class="s1">2016-11-08<strong> What’s new in Version 1.0.3?</strong></span> </p> 
+ <ul class="ul1"> 
+  <li class="li1"><span class="s1">Addresses issues that caused some users to experience WiFi disconnects</span></li> 
+  <li class="li1"><span class="s1">Addresses a focus issue that affected some Cozmo cameras</span></li> 
+ </ul> 
+ <p class="p2"> 2016-10-27 <strong>&nbsp;What's new in Version 1.0.2?</strong> </p> 
+ <ul class="ul1"> 
+  <li class="li1"><span class="s1">Addresses an issue impacting Cozmo's ability to remember faces after meeting multiple people.</span></li> 
+  <li class="li1"><span class="s1">Improvements to Cozmo's motion detection, addressing an issue that triggered a "Cozmo has moved" message during gameplay.</span></li> 
+  <li class="li1"><span class="s1">Additional bug fixes and polish.</span></li> 
+ </ul> 
+ <p class="p2"> 2016-10-12 <strong> What's new in Version 1.0.1?</strong> </p> 
+ <ul class="ul1"> 
+  <li class="li1"><span class="s1">Initial release</span></li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/226-cozmo-changelog">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-01-07 >Last updated on January 7, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759be52c7d3a7e9ae98b98"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li  class="active" ><a href="/category/18-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/496-setting-cozmo-up">Setting Cozmo Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/492-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/499-cozmo-cubes-accessories">Cozmo Cubes &amp; Accessories  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/19-tips-tricks">Tips &amp; Tricks  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/494-reset-cozmo">Reset Cozmo  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/495-code-lab">Code Lab  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/498-education-mode">Education Mode  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/35-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/503-privacy-security">Privacy &amp; Security  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/502-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/501-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/497-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/493-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

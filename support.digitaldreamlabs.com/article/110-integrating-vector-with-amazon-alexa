@@ -1,0 +1,508 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Integrating Vector with Amazon Alexa - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Sections: Enabling Alexa ||  Vector now includes Alexa! ||  Vector stays Vector ||  Vector won&#x27;t do everything Alexa can do ||  Using Alexa ||  How to Mute Vect"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/110-integrating-vector-with-amazon-alexa"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Integrating Vector with Amazon Alexa" />
+            <meta name="twitter:description" content="Sections: Enabling Alexa ||  Vector now includes Alexa! ||  Vector stays Vector ||  Vector won&#x27;t do everything Alexa can do ||  Using Alexa ||  How to Mute Vect"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691330433752.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Integrating Vector with Amazon Alexa","item":"https://support.digitaldreamlabs.com/article/110-integrating-vector-with-amazon-alexa"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Integrating Vector with Amazon Alexa</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <h2><span style="font-weight: 400;">Sections:</span></h2>
+<p> <span style="font-weight: 400;"><strong><a href="#h_1613581896551545042573423">Enabling Alexa</a> ||&nbsp; <a href="#h_5747654153481545042555942">Vector now includes Alexa!</a> ||&nbsp; <a href="#h_6267613914341545042561086">Vector stays Vector</a> ||&nbsp; <a href="#h_4200495265791545042568046">Vector won't do everything Alexa can do</a> ||&nbsp; <a href="#h_2089991927121545042578638">Using Alexa</a> ||&nbsp; <a href="#h_8969118097781545042584734">How to Mute Vector (and Alexa)</a> ||&nbsp; <a href="#h_9625551338391545042591766">Configuring Vector's Back Button</a> ||&nbsp; <a href="#h_8622300279061545042597182">Other options</a> ||&nbsp; <a href="#h_4255747249771545042602855">Disabling Alexa</a> ||&nbsp; <a href="#h_77280106710161545042608103">More information about Amazon Alexa</a> ||&nbsp; <a href="#h_28848910610571545042613902">Helpful Amazon Alexa Resources</a> ||&nbsp;</strong>&nbsp;</span></p>
+<hr> 
+<div class="sections"> 
+ <h2 id="h_5747654153481545042555942"><span style="font-weight: 400;">Vector now includes Alexa!</span></h2> 
+ <p> <span style="font-weight: 400;">Alexa allows you to use your voice to hear the news, check weather, control your smart home, and more. All you have to do is ask Alexa.</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_6267613914341545042561086"><span style="font-weight: 400;">Vector stays Vector </span></h2> 
+ <p> <span style="font-weight: 400;">Enabling Alexa is completely optional, and Alexa isn’t enabled by default. At his core, Vector stays Vector. </span> </p> 
+ <p> <span style="font-weight: 400;">Even when you enable Alexa, Vector maintains all of his abilities and his personality. Any time you say “Hey Vector” before giving Vector a voice command, Vector is always the one to carry it out.</span> </p> 
+ <p> <span style="font-weight: 400;">You’ll still say “Hey Vector” to have Vector do things like “Take a Picture”, “Do a trick”, or “Come here”. Alexa won’t move Vector around, make him do a trick, or let him take a picture of you.</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_4200495265791545042568046"><span style="font-weight: 400;">Vector won’t do everything Alexa can do</span></h2> 
+ <p> <span style="font-weight: 400;">Vector does not support the following:</span> </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">Communicating with other people with features like Drop In, Calling, and Messaging</span></li> 
+  <li><span style="font-weight: 400;">Playing songs and podcasts from streaming services like Amazon Prime Music, Spotify, Pandora, SiriusXM</span></li> 
+  <li><span style="font-weight: 400;">Reading books out loud through Kindle or Audible</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_1613581896551545042573423"><span style="font-weight: 400;">Enabling Alexa</span></h2> 
+ <p> <span style="font-weight: 400;">To enable Alexa on Vector, you will need an Amazon account and use the Vector Robot app:</span> </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">Launch the Vector Robot app and connect to your Vector</span></li> 
+  <li><span style="font-weight: 400;">From the Home screen, click Amazon Alexa under THINGS TO TRY</span></li> 
+  <li><span style="font-weight: 400;">Click the “SIGN IN WITH AMAZON” button</span></li> 
+  <li><span style="font-weight: 400;">At the Amazon Sign in, either</span></li> 
+ </ul> 
+ <ol> 
+  <li><span style="font-weight: 400;">Click the “Create a new Amazon account” button if you do not already have one or</span></li> 
+  <li><span style="font-weight: 400;">Enter your Amazon account credentials and click the “Sign in” button</span></li> 
+ </ol> 
+ <li><span style="font-weight: 400;">Once you are logged in with your account, register Your Device (Vector) by typing in the 6-digit code displayed on Vector’s face and clicking the “Continue” button</span></li> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76df2c7d3a7e9ae9e32d/img-4276-1585280572-1347361886.png" alt="alexa-code.png" width="250" height="140"></span> </p> 
+ <p> <span style="font-weight: 400;">Your Vector is now registered with Amazon Alexa.</span> </p> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76e004286364bc975c18/img-4276-1585280572-1553148300.png" alt="alexa-setup-succeded.png" width="250" height="140"></span> </p> 
+ <p class="wysiwyg-text-align-center"> &nbsp; </p> 
+ <p> <span style="font-weight: 400;">When you have enabled an Alexa Skill and it sends a <a href="https://www.amazon.com/gp/help/customer/display.html/?nodeId=202165800"><strong>notification</strong></a>, Vector’s Back Light will flash yellow until you clear all of your notifications. The yellow Alexa notifications override other lights.&nbsp;For more information on what Vector’s Back Lights mean, please see <a href="https://support.anki.com/hc/articles/360009969334-What-do-Vector-s-Back-Lights-Mean-"><strong>this</strong></a><a href="https://support.anki.com/hc/articles/360009969334-What-do-Vector-s-Back-Lights-Mean-"><strong> article</strong></a>.</span> </p> 
+ <p> <span style="font-weight: 400;">If you do not see the "Amazon Alexa" button under "Things to Try", please make sure the Vector app and Robot Operating System are on the <a href="https://support.anki.com/hc/articles/360010539153-Vector-Changelog-and-Known-Issues"><strong>latest version</strong></a>.</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_2089991927121545042578638"><span style="font-weight: 400;">Using Alexa</span></h2> 
+ <p> <span style="font-weight: 400;">Once activated, use Alexa the same way you do today on any other Alexa enabled device: say “Alexa”, followed by a voice command. You can tell Alexa to control your lights, set a timer, check the weather, or most other things you normally use Alexa for.</span> </p> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"></span> </p> 
+</div> 
+<div class="sections"> 
+ <p><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d763e04286364bc975abb/img-4276-1585280572-117493615.gif">How to Mute Vector (and Alexa)</p> 
+ <p> <span style="font-weight: 400;">&nbsp;</span> </p> 
+ <p> <span style="font-weight: 400;">You can now mute or unmute Vector’s microphone array, so that he can’t hear any voice commands.</span> </p> 
+ <p> <span style="font-weight: 400;">&nbsp;</span> </p> 
+ <p> <span style="font-weight: 400;">You can mute Vector’s mic by double-clicking his Back button - he must be off his Charger.&nbsp;</span><span style="font-weight: 400;">Vector will quickly display a “Mic Mute” icon on his face. </span><span style="font-weight: 400;"><br> </span> </p> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"></span> </p> 
+ <p> <span style="font-weight: 400;">While Vector’s mic is muted, his Back lights are red. Vector will stay muted until you unmute him.</span></p>
+ <p><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d763e2c7d3a7e9ae9e1b7/img-4276-1585280573-1377918912.gif"></p> 
+ <p> <span style="font-weight: 400;">To unmute Vector’s mic, just double tap his Back button again while he’s off his Charger. You can tell he’s unmuted, you will see a “Mic Unmute” icon on his face.</span><span style="font-weight: 400;"><br> </span> </p>
+ <p><span style="font-weight: 400;"></span></p>
+ <p><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d763e04286364bc975abc/img-4276-1585280573-1490289783.gif"></p> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"></span> </p> 
+ <p> <span style="font-weight: 400;">For more information on what Vector’s Back Lights mean, please see </span><a href="https://support.anki.com/hc/articles/360009969334-What-do-Vector-s-Back-Lights-Mean-"><strong>this</strong></a><span style="font-weight: 400;"><a href="https://support.anki.com/hc/articles/360009969334-What-do-Vector-s-Back-Lights-Mean-"><strong> article</strong></a>.</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_9625551338391545042591766">Configuring Vector’s Back Button</h2> 
+ <p> <span style="font-weight: 400;">&nbsp;</span> </p> 
+ <p> <span style="font-weight: 400;">You can configure “Vector’s Button” via the Vector Robot app Settings. Selecting “Alexa” or “Hey Vector” determines what happens when you want to get Vector’s attention by clicking his Back button one time.</span><span style="font-weight: 400;">&nbsp;</span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_8622300279061545042597182">Other Options</h2> 
+ <p> <span style="font-weight: 400;">&nbsp;</span> </p> 
+ <p> <span style="font-weight: 400;">To configure Alexa (things like Location, Time Zone, Measurement Units, etc.), use </span><strong><a href="https://www.amazon.com/mycd">Amazon’s Manage Your Content and Devices</a></strong><span style="font-weight: 400;"> site or the Amazon Alexa app.</span><span style="font-weight: 400;"><br> </span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_4255747249771545042602855"><span style="font-weight: 400;">Disabling Alexa</span></h2> 
+ <p> <span style="font-weight: 400;">There are several ways to disable Vector’s Alexa integration.</span> </p> 
+ <p> <span style="font-weight: 400;">&nbsp;</span> </p> 
+ <p> <span style="font-weight: 400;">You can sign out of your Amazon account using the Vector Robot companion app. Signing out will turn off Alexa until you sign in with Amazon again.</span> </p> 
+ <p> <span style="font-weight: 400;">&nbsp;</span> </p> 
+ <h3><span style="font-weight: 400;">To use the Vector Robot app:</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Launch the Vector Robot app and connect to your Vector</span></li> 
+  <li><span style="font-weight: 400;">From the Home screen, click Amazon Alexa under THINGS TO TRY</span></li> 
+  <li> <span style="font-weight: 400;">Click the “SIGN OUT OF AMAZON” button</span>&nbsp;</li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">To disable Alexa with Vector himself: </span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Say “Hey Vector”, “Disable Alexa”</span></li> 
+  <li> <span style="font-weight: 400;">You can also remove Vector from your Amazon account through the Amazon Alexa app or the Amazon’s </span><strong><a href="https://www.amazon.com/mycd">Manage Your Content and Devices site</a></strong> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_77280106710161545042608103"><span style="font-weight: 400;">More information about Amazon Alexa</span></h2> 
+ <p> <span style="font-weight: 400;">Anki is here to help with issues with Vector: for example, if he does not understand you or if you can't connect him to Wi-Fi. If you're having trouble with how Alexa works on Vector, Amazon will be able to help. Contact Amazon Support </span><strong><a href="https://www.amazon.com/gp/help/customer/display.html">here</a></strong><span style="font-weight: 400;">.</span><span style="font-weight: 400;">&nbsp;</span> </p> 
+ <ul> 
+  <li><strong><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201848700">Enable Alexa Skills</a></strong></li> 
+  <li> <strong><a href="https://www.amazon.com/gp/help/customer/display.html/?nodeId=201749240">Connect Smart Home Devices to Alexa</a></strong>&nbsp;</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_28848910610571545042613902"><span style="font-weight: 400;">Helpful Amazon Alexa Resources</span></h2> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Working with Alexa-enabled Devices</span></h3> 
+ <ul> 
+  <li><a href="https://www.amazon.com/code"><strong>Amazon’s Code Page</strong></a></li> 
+  <li><a href="https://www.amazon.com/mycd"><strong>Amazon’s Manage Your Content and Devices site</strong></a></li> 
+ </ul> 
+ <h3> <span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">Where to find the Amazon Alexa App</span> </h3> 
+ <ul> 
+  <li><a href="https://itunes.apple.com/us/app/amazon-alexa/id944011620?mt=8"><strong>US Apple App Store</strong></a></li> 
+  <li><a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app"><strong>US Google Play Store</strong></a></li> 
+  <li><strong><a href="https://www.amazon.com/dp/B00P03D4D2">US Amazon Appstore</a></strong></li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">Important Amazon Alexa Links</span></h3> 
+ <ul> 
+  <li><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740"><strong>Alexa Terms of Use</strong></a></li> 
+  <li><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230"><strong>Alexa and Alexa Device FAQs</strong></a></li> 
+  <li><a href="https://www.amazon.com/gp/help/customer/display.html/?nodeId=GVP69FUJ48X9DK8V"><strong>Alexa, Echo Devices, and Your Privacy</strong></a></li> 
+ </ul> 
+ <h3>Change the Wake Word</h3> 
+ <ul> 
+  <li>It is not possible to change Vector's Wake Word or Vector's Alexa Wake Word</li> 
+  <li><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201971890"><strong>Change the Wake Word on your Alexa devices</strong></a></li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/110-integrating-vector-with-amazon-alexa">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2020-07-14 >Last updated on July 14, 2020</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

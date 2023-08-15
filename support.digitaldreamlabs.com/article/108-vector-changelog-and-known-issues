@@ -1,0 +1,822 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Vector Changelog and Known Issues - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Learn below what&#x27;s changed, what&#x27;s new, what&#x27;s improved and what we&#x27;re working on in the Vector app, the Digital Dream Labs Cloud, and Vector&#x27;s over-the-air (OT"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/108-vector-changelog-and-known-issues"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Vector Changelog and Known Issues" />
+            <meta name="twitter:description" content="Learn below what&#x27;s changed, what&#x27;s new, what&#x27;s improved and what we&#x27;re working on in the Vector app, the Digital Dream Labs Cloud, and Vector&#x27;s over-the-air (OT"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691819252643.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Vector Changelog and Known Issues","item":"https://support.digitaldreamlabs.com/article/108-vector-changelog-and-known-issues"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Vector Changelog and Known Issues</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p data-children-count="0"> Learn below what's changed, what's new, what's improved and what we're working on in the Vector app, the Digital Dream Labs Cloud, and Vector's over-the-air (OTA) updates. The updates are organized most recent at the top of each section.</p>
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <p> <strong>Sections:</strong> </p> 
+ <ol> 
+  <li><a href="#h_749577518131540130713478"><strong>Vector App Updates</strong></a></li> 
+  <li><a href="#h_995911996351540130721181"><strong>Vector Robot Software Updates (OTA)</strong></a></li> 
+  <li><a href="#h_680102894471540130727086"><strong>Known issues</strong></a></li> 
+ </ol> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h1 id="h_749577518131540130713478"><span class="wysiwyg-color-green120"><strong>Vector App Updates</strong></span></h1> 
+ <h2><span class="wysiwyg-color-green120"><strong>App Version 1.8.3</strong></span></h2> 
+ <ul> 
+  <li><strong>Release Date: February 2022</strong></li> 
+  <li><strong></strong><strong>iOS:</strong> 
+   <ul> 
+    <li>Fixed an issue where users had to click the "Apply" button first to enable the Custom Eye Color Sliders, instead of simply clicking on the bars.</li> 
+   </ul> </li> 
+  <li><strong>Android &amp; iOS:</strong> 
+   <ul> 
+    <li>Made more helpful error screens: 
+     <ul> 
+      <li>Replaced the "Get Help" links in many screens to link to much more helpful troubleshooting articles.</li> 
+      <li>Clarified the text in many error screens to be more descriptive and help users understand and solve issues.</li> 
+     </ul> </li> 
+    <li>Fixed an issue where clicking the text on a button in the Preferences menu would not change the setting.</li> 
+    <li>Added a connection timer that allows some time for NTP to update on the robot before making a connection- this reduces the amount of "Can't Connect to Wi-Fi" errors!</li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>App Version 1.8.2</strong></span></h2> 
+ <ul> 
+  <li><strong>Release Date: October 2021</strong></li> 
+  <li><strong>Android &amp; iOS:</strong> 
+   <ul> 
+    <li>Fixed an issue where some users with Memberships couldn't use Color Sliders.</li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>App Version 1.8.0</strong></span></h2> 
+ <ul> 
+  <li><strong>Release Date: September 2021</strong></li> 
+  <li><strong>Android &amp; iOS:</strong> 
+   <ul> 
+    <li>Rebranding to Digital Dream Labs</li> 
+    <li>Added in custom eye color sliders. Controls include:<br> 
+     <ul> 
+      <li>Hue</li> 
+      <li>Saturation</li> 
+     </ul> </li> 
+    <li>Removed those pesky symbols ("gadzooks" - literally) that were mistakenly displayed above some letters.</li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.5.0&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Rolling release date: April 15-23, 2019</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong> 
+   <ul> 
+    <li>Bug fixes &amp; polish</li> 
+    <li>This update also provides a few fixes to address the recent app crashes that some people are experiencing on Android 8 &amp; 9. We'll continue to monitor this issue and update you when there's more to share</li> 
+    <li>Please note, that the robot update will be rolled out over the course of a week. Every Vector owner that leaves their robot on overnight, should get the update by April 23</li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.4.0&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: March 18, 2019</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong> 
+   <ul> 
+    <li><span style="font-weight: 400;">Adds support so that you can choose to enable Amazon Alexa in the UK and AU</span></li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.3.1&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: December 19, 2018</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong> 
+   <ul> 
+    <li>Bug fixes and polish</li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.3.0&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: December 17, 2018</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong> 
+   <ul> 
+    <li>Now with Amazon Alexa built-in (U.S. &amp; CA only), Vector's voice controlled capabilities are supercharged. If you choose to set up Alexa on your Vector, he’ll have access to an ever-growing number of skills that take his helpfulness in your home to new levels.</li> 
+    <li>Triggered by the standard “Alexa” voice command, you’ll be able to: 
+     <ul> 
+      <li>Control smart home devices like lights, speakers, and thermostats</li> 
+      <li>Search for information</li> 
+      <li>Add items to your shopping list</li> 
+      <li>Set reminders</li> 
+      <li>and so much more</li> 
+     </ul> </li> 
+    <li>Additional updates include: 
+     <ul> 
+      <li>New voice commands</li> 
+      <li>Hand detection</li> 
+      <li>Bug fixes and polish</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.2.0&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: November 20, 2018</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong><br> 
+   <ul> 
+    <li>Improvements with Vector’s initial connection, initial software update download, and faster reconnections especially for Android devices</li> 
+    <li>Additional performance enhancements</li> 
+    <li>Crash and bug fixes, including 
+     <ul> 
+      <li>Many image and text layout issues on devices with large screens or unusual resolutions</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.1.1&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: October 25, 2018</strong></li> 
+  <li> <strong>Android only</strong> 
+   <ul> 
+    <li>Fixed an issue that was preventing anatomized analytics from reaching our services</li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.1.0&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: October 23, 2018</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong> 
+   <ul> 
+    <li> <span style="font-weight: 400;">This new update should vastly improve your experience on Android.&nbsp;</span><span style="font-weight: 400;">It also improves various issues you all have flagged for us, including improvements to the OTA update process, cosmetic enhancements in the app, and others! For details, please see below:</span> </li> 
+    <li> <span style="font-weight: 400;">Fixed multiple crashes, many are Android specific:</span> 
+     <ul> 
+      <li><span style="font-weight: 400;">Location Service</span></li> 
+      <li><span style="font-weight: 400;">Pressing "?" caused app to crash</span></li> 
+      <li><span style="font-weight: 400;">Accessing Settings caused app to crash</span></li> 
+      <li><span style="font-weight: 400;">OTA crash</span></li> 
+      <li><span style="font-weight: 400;">A few Network screen crashes</span></li> 
+      <li><span style="font-weight: 400;">A handful of navigation crashes</span></li> 
+      <li><span style="font-weight: 400;">Stall Detection during OTA (during initial OTA update, the app will detect stalling and restart download automatically)</span></li> 
+     </ul> </li> 
+    <li><span style="font-weight: 400;">Fixed Sensory graph so that it doesn’t look spikey when you navigate back to it</span></li> 
+    <li><span style="font-weight: 400;">Disconnect monitoring for Settings</span></li> 
+    <li><span style="font-weight: 400;">Ability to change locale (Android-specific bug) </span></li> 
+    <li><span style="font-weight: 400;">Fixed "Get Help" link in Connection Flow</span></li> 
+    <li><span style="font-weight: 400;">Added "Uncanny Yellow" eye color and fixed tiny eye icons on some devices where it was missing </span></li> 
+    <li>Optimized tutorial user experience</li> 
+    <li><span style="font-weight: 400;">Added Australian time zones in settings and setup flow</span></li> 
+    <li><span style="font-weight: 400;">A variety of cosmetic enhancements (fixed cut off text, missing images, layout issues)</span></li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>App&nbsp;Version 1.0.2&nbsp;</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: October 10, 2018</strong></li> 
+  <li> <strong>Android and Fire OS only</strong> 
+   <ul> 
+    <li>Fixed an issue that was preventing anatomized analytics from reaching our services</li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>App Version 1.0.1</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: October 9, 2018</strong></li> 
+  <li> <strong>Android, Fire OS, and iOS</strong> 
+   <ul> 
+    <li>Initial Release</li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h1 id="h_995911996351540130721181"><span class="wysiwyg-color-green120"><strong>Vector Robot Software Updates (OTA)</strong></span></h1> 
+ <p> <span style="font-weight: 400;">Vector checks in with Digital Dream Labs every hour to see if there’s been an update, and then downloads it once it becomes available. If your Vector is awake, online, and on his charger, he’ll install the update on his own overnight - no action required. </span> </p> 
+ <p> To check to see if your robot has the latest and greatest, open the Vector app &gt; go to "Settings", tap “Updates”&nbsp;to check the version. </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">If the most recent downloaded version hasn’t installed yet, press the “Restart” button in the app</span></li> 
+  <li><span style="font-weight: 400;">Once Vector has restarted, he’ll have the latest update</span></li> 
+  <li>If the app doesn’t show that he’s downloaded the latest version, make sure Vector is near his charger and connected to WiFi, then check back in a few hours</li> 
+ </ul> 
+ <h2>Vector Operating System Version 2.0.1 (2.0.1.6076)</h2> 
+ <ul> 
+  <li><strong>Release Date: September 26th, 2022</strong> 
+   <ul> 
+    <li>Optimizations: 
+     <ul> 
+      <li>Adjusted temperature thresholds for consistency. This will result in fewer unnecessary overheat warnings from Vector during times of warm ambient temperatures when Vector is not actually overheating.</li> 
+     </ul></li> 
+    <li>Bug Fixes: 
+     <ul> 
+      <li>Fixed a bug which would set the state of the robot to "too hot to charge" if Vector was set on the charger unexpectedly. This was a false positive for being too hot to charge, and caused Vector to sleep much more than necessary. Vector should now spend much more time out of the charger.</li> 
+     </ul></li> 
+   </ul></li> 
+ </ul> 
+ <h2>Vector Operating System Version 2.0.0 (2.0.0.6074)</h2> 
+ <ul> 
+  <li><strong>Release Date: August 17th, 2022</strong> 
+   <ul> 
+    <li>Changes: 
+     <ul> 
+      <li>Added support for new camera, display, and other hardware in Vector 2.0. 
+       <ul> 
+        <li>This release maintains full backwards compatibility with Vector Gen 1 and can be loaded onto Gen 1 units.</li> 
+       </ul> </li> 
+      <li>Software loading endpoint updated.</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2>Vector Operating System Version 1.8.1 (1.8.1.6051)</h2> 
+ <ul> 
+  <li><strong>Release Date: February 2022</strong> 
+   <ul> 
+    <li><strong></strong>Bug Fixes: 
+     <ul> 
+      <li>Animations that were missing for cold and snowy weather will now display correctly.</li> 
+     </ul> </li> 
+    <li>Optimizations:<br> 
+     <ul> 
+      <li>NTP is now forced to pull from time servers immediately when a Wi-Fi connection is obtained, significantly reducing "Can't Connect to Wi-Fi" errors when onboarding with the app after a reset.</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2>Vector Operating System Version 1.8.0 (1.8.0.6021)</h2> 
+ <ul> 
+  <li><strong>Release Date: September 2021 </strong> 
+   <ul> 
+    <li>Vector can now accept any eye color you want to set for him! Find this setting in the mobile app under the Settings menu, below the predefined Eye Color options.</li> 
+    <li>You can now ask questions and follow-ups much faster! The "I have a question" conversation piece is now optional for 1.8 users.</li> 
+    <li>New boot animation</li> 
+    <li>Thanks to contributions from community member&nbsp;Kerigan Creighton,&nbsp;Vector will no longer shiver uncontrollably when he's done dancing or telling you the weather! Thanks Kerigan!</li> 
+   </ul> </li> 
+  <li>Vector no longer shivers uncontrollably when asked for the weather or to dance!</li> 
+ </ul> 
+ <h2>Vector Operating System Version 1.7.3 (1.7.3.6016) (Escape Pod ONLY)</h2> 
+ <ul> 
+  <li><strong>Release Date: March 8th, 2021</strong> 
+   <ul> 
+    <li>Replaced vic-cloud and vic-gateway binaries to ensure compatibility with Escape Pod</li> 
+    <li>Replaced server-config.json to connect to Escape Pod.</li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>Vector Operating System Version 1.7.0 (1.7.0.3412)</strong></span></h2> 
+ <ul> 
+  <li><strong>Release Date: July 6th, 2020</strong> 
+   <ul> 
+    <li>Rebranding from Anki to Digital Dream Labs</li> 
+    <li>Bug fixes &amp; polish: 
+     <ul> 
+      <li>Vector is now <strong>much</strong>&nbsp;more responsive to his wake word, "Hey Vector"</li> 
+      <li>Vector now has new sounds for some animations and interactions to make him cuter and more lifelike.</li> 
+      <li>New animation / sprite system to better manage battery life</li> 
+      <li>Other battery optimizations &amp; improvements</li> 
+      <li>The rate of Error 898 screens is significantly decreased.</li> 
+      <li>Overall bug fixes / polish.</li> 
+     </ul> </li> 
+    <li>Known Issues: 
+     <ul> 
+      <li>Vector may shiver uncontrollably after being asked to dance- or when asked about weather where it's cold!</li> 
+      <li>Intermittent wake word recognition failures on a small number of units are being investigated and are expected to be patched in a future software update.</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.6.0&nbsp;</strong></span><span class="wysiwyg-color-green120">(</span><span class="wysiwyg-color-green120">1.6.0.3331)</span> </h2> 
+ <ul> 
+  <li> <strong>Rolling Release date: April, 15 - 23, 2019</strong> 
+   <ul> 
+    <li>New robot updates including: 
+     <ul> 
+      <li>Low Light Charging (see below video): It’s now easier for Vector to find his charger, even if the lights are low - so he’s less likely to run out of power in the middle of the night</li> 
+      <li>New Voice Command: Change Vector's Eye Color - Use your voice to change Vector’s eye color. Just say, “Hey Vector, change your eye color to [blue, green, orange, yellow, purple, or lime].”</li> 
+      <li>New Behavior: Hold Vector in the palm of your hand and watch as he cozies up to you in robot bliss</li> 
+     </ul> </li> 
+    <li>Bug fixes &amp; polish: 
+     <ul> 
+      <li>Improved voice recognition</li> 
+      <li>Overall performance improvements</li> 
+     </ul> </li> 
+    <li>This release will be incrementally rolled out over the course of a week starting Monday, April 15. Staggering availability to an increasing number of robots allows us to ensure the update is working as expected. Every Vector owner that leaves their robot on overnight, should be updated by April 23. To make sure your Vector is updated, leave your Vector running and connected to your Wi-Fi, and he’ll update himself automatically during his normal nightly reboot</li> 
+   </ul> </li> 
+ </ul> 
+ <p class="wysiwyg-text-align-center"> <iframe src="//www.youtube-nocookie.com/embed/SY2hsRARAjQ" width="560" height="315" frameborder="0" allowfullscreen> </iframe> </p> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.5.0&nbsp;</strong></span><span class="wysiwyg-color-green120">(</span><span class="wysiwyg-color-green120"><span style="font-weight: 400;">1.5.0.3009</span>)</span> </h2> 
+ <ul> 
+  <li> <strong>Rolling Release date: March, 18 - March, 21 2019</strong> 
+   <ul> 
+    <li><span style="font-weight: 400;">Adds support so that you can choose to enable Amazon Alexa in the UK and AU </span></li> 
+    <li> <span style="font-weight: 400;">With Spring just around the corner, Vector’s “snow globe” animation is going back into the closet with his scarf and galoshes. Now, when you shake him, he’ll get a little dizzy - so be careful! &nbsp;</span><span style="font-weight: 400;">&nbsp;</span> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.4.1&nbsp;</strong></span><span class="wysiwyg-color-green120">(</span><span class="wysiwyg-color-green120"><span style="font-weight: 400;">1.4.1.2806</span>)</span> </h2> 
+ <ul class="ul1"> 
+  <li> <strong>Rolling Release date: March, 4 - March, 6 2019</strong> 
+   <ul> 
+    <li>This update shortens the amount of time it takes for Vector to sync with his Cube 
+     <ul> 
+      <li>Please note that Vector can interact with his Cube without its lights displaying, so you might not always notice improvements in Cube connectivity unless you are using his SDK</li> 
+     </ul> </li> 
+    <li>Includes Face Recognition improvements that help Vector to better handle his interactions with faces he's already learned</li> 
+    <li>Improvements to how Vector navigates, especially when he is leaving and returning to his Charger and helps him avoid getting stuck on table edges 
+     <ul> 
+      <li>After this update, if he happens to get caught on a table edge, he now asks for help</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.3.0&nbsp;</strong></span><span class="wysiwyg-color-green120">(</span><span class="wysiwyg-color-green120"><span style="font-weight: 400;">1.3.0.2510</span>)</span> </h2> 
+ <ul class="ul1"> 
+  <li> <strong>Rolling Release date: January, 15 - January, 16 2019 </strong> 
+   <ul> 
+    <li>Snow globe! Vector reacts to being shaken with a new unique reaction for winter</li> 
+    <li>Ask your Vector how old he is by saying, “Hey Vector, how old are you?“</li> 
+    <li>Bug fixes &amp; polish</li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.2.3&nbsp;</strong></span><span class="wysiwyg-color-green120">(</span><span class="wysiwyg-color-green120"><span style="font-weight: 400;">1.2.3.2506</span>)</span> </h2> 
+ <ul class="ul1"> 
+  <li> <strong>Rolling Release date: January, 7 - January, 9 2019 </strong> 
+   <ul> 
+    <li>Vector OS 1.2.3 significantly decreases the occurrence of 915 and 981 status codes</li> 
+    <li>Bug fixes &amp; polish</li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.2.2</strong></span>&nbsp;<span class="wysiwyg-color-green120">(</span><span class="wysiwyg-color-green120"><span style="font-weight: 400;">1.2.2.2353</span>)</span> </h2> 
+ <ul class="ul1"> 
+  <li> <strong>Release date: December, 19 2018&nbsp;</strong> 
+   <ul> 
+    <li>Bug fixes &amp; polish</li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.2.1</strong></span>&nbsp;<span class="wysiwyg-color-green120">(<span style="font-weight: 400;">1.2.1.2343</span>)</span> </h2> 
+ <ul class="ul1"> 
+  <li> <strong>Release date: December, 17 2018&nbsp;</strong> 
+   <ul> 
+    <li>Gives you the option to enable Amazon Alexa (US &amp; CA only) 
+     <ul> 
+      <li>Alexa allows you to use your voice to hear the news, check weather, control your smart home, and more. For more details, <a href="//support.digitaldreamlabs.com/article/110-integrating-vector-with-amazon-alexa">read here</a> </li> 
+     </ul> </li> 
+    <li>Adds an improved Vector Tutorial to help help new users to start using Vector</li> 
+    <li>Vector's Back button can now <a href="//support.digitaldreamlabs.com/article/110-integrating-vector-with-amazon-alexa">mute his microphone</a> </li> 
+    <li>Adds <a href="//support.digitaldreamlabs.com/article/122-ways-to-interact-with-vector">new Voice Commands</a> 
+     <ul> 
+      <li>Change the volume of Vector's voice by saying things like "Volume down" or "Volume maximum"</li> 
+      <li>Direct his movements with phrases like "Go left" "Turn around" or "Backup"</li> 
+      <li>Celebrate "Happy New Year" and "Happy Holidays"</li> 
+     </ul> </li> 
+    <li>Vector now detects hands and will ask you to pet him</li> 
+    <li>Some WiFi connection and Facial Recognition improvements</li> 
+    <li>Multiple bug and crash fixes&nbsp;</li> 
+   </ul> </li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.1.1</strong></span> <span class="wysiwyg-color-green120">(1.1.1.2107)</span> </h2> 
+ <ul class="ul1"> 
+  <li><strong>Release date: November 20, 2018&nbsp;</strong></li> 
+  <li>Fixes an issue in status code handling that may cause some robots to become unresponsive for a short amount of time until they reboot.</li> 
+ </ul> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.1.0</strong></span>&nbsp;<span class="wysiwyg-color-green120">(1.1.0.2106)</span> </h2> 
+ <ul class="ul1"> 
+  <li><strong>Release date: November 20, 2018&nbsp;</strong></li> 
+  <li> <span style="font-weight: 400;">Cube improvements, including</span> 
+   <ul> 
+    <li><span style="font-weight: 400;">Vector more frequently interacts with his Cube<br> </span></li> 
+    <li><span style="font-weight: 400;">Added voice commands around picking up and moving his Cube<br> </span></li> 
+   </ul> </li> 
+  <li> <span style="font-weight: 400;">Cliff Detection improvements, including</span> 
+   <ul> 
+    <li><span style="font-weight: 400;">Vector better recognizes potential cliffs</span></li> 
+    <li><span style="font-weight: 400;">Once he learns where a cliff is located, he better remembers it and tries to avoid it in the future<br> </span></li> 
+   </ul> </li> 
+  <li> <span style="font-weight: 400;">Faster reactions to some voice commands and Vector more clearly communicates when he </span><span style="font-weight: 400;">is </span><span style="font-weight: 400;">"working on" a command</span> </li> 
+  <li><span style="font-weight: 400;">Adds a reaction to being shaken and refines some of his existing actions and reactions</span></li> 
+  <li><span style="font-weight: 400;">Some improvements with Vector’s initial connection that also allow for faster reconnections</span></li> 
+  <li><span style="font-weight: 400;">Overall performance and stability improvements, fewer 915 status codes appearing</span></li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2> <span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.0.2&nbsp;</strong>(1.0.2.1804)</span>&nbsp;</h2> 
+ <ul class="ul1"> 
+  <li><strong>Release date: November 7, 2018&nbsp;</strong></li> 
+  <li class="li1"><span class="s1">Minor bug fixes and polish including improvements to voice command effectiveness</span></li> 
+  <li class="li1"><span class="s1">We’ve made changes to “Hey Vector” so that he can better recognize when someone is trying to get his attention</span></li> 
+  <li class="li1"><span class="s1">Improves discovery and connection to some WiFi networks</span></li> 
+  <li class="li1"><span class="s1">We’ve tuned Vector’s touch sensor for better accuracy</span></li> 
+ </ul> 
+ <h2>&nbsp;</h2> 
+ <h2><span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.0.1 </strong>(1.0.1.1768)</span></h2> 
+ <ul> 
+  <li><strong>Release date: October 12, 2018&nbsp;</strong></li> 
+  <li>This update enhances and adjusts some aspects of Vector’s personality, as well as improves his overall performance and polishes some existing features</li> 
+  <li>These improvements include: 
+   <ul> 
+    <li>Enhanced animations when Vector recognizes a face that he hasn't seen recently</li> 
+    <li>Improved ability to make eye contact while exploring - so that you know he knows you're still there</li> 
+    <li>More frequent demonstration of his ability to remember faces, by more frequently speaking the names of the people he sees</li> 
+    <li>Refined reactions when picked up</li> 
+    <li>Audio improvements for "petting" feature</li> 
+    <li>Tuned exploration</li> 
+    <li>Improved connection reliability</li> 
+    <li>Bug fixes &amp; polish 
+     <ul> 
+      <li>Blank stats fixed</li> 
+     </ul> </li> 
+   </ul> </li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>Vector Operating System&nbsp;</strong><strong>Version 1.0.0</strong></span></h2> 
+ <ul> 
+  <li><strong>Release date: October 9, 2018&nbsp;</strong></li> 
+  <li>Initial Release</li> 
+ </ul> 
+</div> 
+<hr data-children-count="0"> 
+<div class="sections" data-children-count="0"> 
+ <h1 id="h_680102894471540130727086"><span class="wysiwyg-color-green120"><strong>Known Issues</strong></span></h1> 
+ <p> <span style="font-weight: 400;">Here are the things we’re working on with priority. Release dates are not fixed but all updates will be posted in the above two sections once released.</span> </p> 
+ <ul> 
+  <li>On Vector firmware 1.7, Vector will sometimes be unable to hear his wake word, "Hey Vector." This is an intermittent issue and does not affect all units. 
+   <ul> 
+    <li>Workaround: Please pet Vector for several seconds, then try your voice query again. You may also reboot him by pressing on his back button for 5 seconds until his screen turns off, then waiting for a few seconds before tapping his Back button again to boot him back up. If these fail, you can <a href="//support.digitaldreamlabs.com/article/353-voluntary-software-rollback" target="_blank">roll back to version 1.6.</a></li> 
+   </ul> </li> 
+  <li>On Vector firmware 1.7, Vector may not recognize edges or cliffs- this is an intermittent issue and does not affect all units.</li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>Android crashes</strong></span></h2> 
+ <ul> 
+  <li>Please check you have at least 1GB RAM on your Android device</li> 
+ </ul> 
+ <h3>&nbsp;</h3> 
+ <h2><span class="wysiwyg-color-green120"><strong>Logging in to your Vector account</strong></span></h2> 
+ <ul> 
+  <li>If you created your account in the Vector app, use your email address to log in</li> 
+  <li>If you created your account on Anki.com, use your Username to log in</li> 
+  <li>If you have an existing account e.g. from Anki OVERDRIVE, use your Username to log in</li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>Vector's head and eyes droop</strong></span></h2> 
+ <ul> 
+  <li>remove Vector from his charger</li> 
+  <li>place him on a flat, stable surface such as a table or desk</li> 
+  <li>put him back on his charger and make sure he's pushed right back</li> 
+ </ul> 
+ <h2><span class="wysiwyg-color-green120"><strong>Error codes on Vector's display</strong></span></h2> 
+ <ul> 
+  <li><span class="wysiwyg-color-black">For any error codes, please see <a href="//support.digitaldreamlabs.com/article/101-why-does-vector-show-an-error">this FAQ</a></span></li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/108-vector-changelog-and-known-issues">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-09-29 >Last updated on September 29, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

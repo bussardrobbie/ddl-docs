@@ -1,0 +1,626 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Troubleshooting Vector&#x27;s Connection - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Connections can be complex, especially those involving Vector, a WiFi Access Point, internet and Cloud connection and a smart device. It is possible any of thes"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/104-troubleshooting-vectore28099s-connection"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Troubleshooting Vector&#x27;s Connection" />
+            <meta name="twitter:description" content="Connections can be complex, especially those involving Vector, a WiFi Access Point, internet and Cloud connection and a smart device. It is possible any of thes"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691819252643.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Troubleshooting Vector's Connection","item":"https://support.digitaldreamlabs.com/article/104-troubleshooting-vectore28099s-connection"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Troubleshooting Vector&#x27;s Connection</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> <span style="font-weight: 400;">Connections can be complex, especially those involving Vector, a WiFi Access Point, internet and Cloud connection and a smart device. It is possible any of these connections may fail. Please also keep in mind that Vector is a home robot and not suitable for complex network and firewall settings.</span></p>
+<p> <span style="font-weight: 400;">Learn in <strong><a href="//support.digitaldreamlabs.com/article/114-video-vector-and-connection-how-to-set-vector-up">this FAQ</a> </strong>how to set Vector up.</span></p>
+<p> <span style="font-weight: 400;">Learn below some scenarios where Vector may have issues connecting and how to troubleshoot them.</span></p>
+<hr> 
+<div class="sections"> 
+ <h2><span style="font-weight: 400;">Sections:</span></h2> 
+ <ol> 
+  <li><a href="#h_6e7ee807-76ad-479d-aa46-7f55e6ab8e80" target="_self"><strong>Basic requirements</strong></a></li> 
+  <li><a href="#h_6e7ee807-76ad-479d-aa46-7f55e6ab8e80" target="_self"><strong>I am having trouble pairing Vector via my smart device’s Bluetooth</strong></a></li> 
+  <li><a href="#h_f3872cd6-ee9b-4ee7-b771-016977648f03" target="_self"><strong>I have paired Vector via my smart device’s Bluetooth but cannot connect to WiFi</strong></a></li> 
+  <li><a href="#h_69a9f6d3-1510-4679-956b-e1f0100bdb23" target="_self"><strong>Checking Cloud Availability</strong></a></li> 
+  <li><a href="#h_adddf9ea-40b4-45ff-9ab4-834b6a5555f6" target="_self"><strong>Vector shows 3 teal lights when booting</strong></a></li> 
+  <li><a href="#h_307c1a0f-115a-495f-8c5d-656968304328" target="_self"><strong>Vector shows 3 blue lights when booting</strong></a></li> 
+  <li><a href="#h_65109f4d-ceb5-42e9-9244-7906107f45fb" target="_self"><strong>Vector's Operating System takes more than 15 minutes to download</strong></a></li> 
+  <li><a href="#h_787f9e1e-e950-472e-aea9-e8a38c56fd44" target="_self"><strong>Finding Vector’s MAC address</strong></a></li> 
+ </ol> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_6e7ee807-76ad-479d-aa46-7f55e6ab8e80"><span style="font-weight: 400;">1. Basic requirements</span></h1> 
+ <ul> 
+  <li><span style="font-weight: 400;">Ensure your smart device is on the latest OS version</span></li> 
+  <li><span style="font-weight: 400;">Ensure you have downloaded the latest <a href="//support.digitaldreamlabs.com/article/108-vector-changelog-and-known-issues">Vector app</a></span></li> 
+  <li><span style="font-weight: 400;">Ensure your smart device's Bluetooth and WiFi are enabled</span></li> 
+  <li><span style="font-weight: 400;">Enable location services on your smart device</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1><span style="font-weight: 400;">2. I am having trouble pairing Vector via my smart device’s Bluetooth</span></h1> 
+ <h2>&nbsp;</h2> 
+ <h2><span style="font-weight: 400;">Subsections:</span></h2> 
+ <ul> 
+  <li><a href="#h_55c6d17d-32e0-4828-9cd1-6700b6ae1155" target="_self"><strong>I get a "The Vector app could not find your Vector via Bluetooth" message</strong></a></li> 
+  <li><a href="#h_55c6d17d-32e0-4828-9cd1-6700b6ae1155" target="_self"><strong>I get a persistent "Searching for Vector" message</strong></a></li> 
+  <li><a href="#h_b03b2430-5668-4637-9508-7f7e92d96bc9" target="_self"><strong>I can’t get past the “Quickly press the button on his back TWICE” message</strong></a></li> 
+ </ul> 
+ <hr> 
+ <h2 id="h_55c6d17d-32e0-4828-9cd1-6700b6ae1155"><span style="font-weight: 400;">I am searching for Vector; my phone cannot find him</span></h2> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Issues</span></h3> 
+ <ul> 
+  <li id="h_113aaf4f-8d9c-4e00-b250-55cdeb34d734"><span style="font-weight: 400;">I get a "The Vector app could not find your Vector via Bluetooth" message</span></li> 
+  <li id="h_113aaf4f-8d9c-4e00-b250-55cdeb34d734"><span style="font-weight: 400;">I get a persistent "Searching for Vector" message</span></li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Verify that Vector is fully back in his charger</span></li> 
+  <li><span style="font-weight: 400;">Verify that Vector has fully booted</span></li> 
+  <li> <span style="font-weight: 400;">Vector should show one of these if fully booted: </span> 
+   <ul> 
+    <li><span style="font-weight: 400;">Anki.com/v</span></li> 
+    <li><span style="font-weight: 400;">Mobile phone icon</span></li> 
+    <li><span style="font-weight: 400;">Face</span></li> 
+   </ul> </li> 
+  <li><strong><a href="//support.digitaldreamlabs.com/article/383-performing-a-firmware-recovery-reset" target="_blank">Reboot Vector via Recovery Mode</a><br></strong></li>
+  <li><a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank"><strong>Clear User Data</strong></a></li> 
+  <li><span style="font-weight: 400;">Reboot your smart device</span></li> 
+  <li><span style="font-weight: 400;">Check for interference, or move Vector away, from other devices using Bluetooth or WiFi such as microwaves, baby monitors, digital cordless telephones. If possible, attempt setup in a different location</span></li> 
+  <li>Test with a <a href="//support.digitaldreamlabs.com/article/83-compatible-devices">Verified Device</a> </li> 
+  <li><span style="font-weight: 400;">If this does not solve the issue, please&nbsp;</span>Contact Us using the Contact link at the top of the page or by emailing support@digitaldreamlabs.com.</li> 
+ </ul> 
+ <hr> 
+ <h2 id="h_b03b2430-5668-4637-9508-7f7e92d96bc9"><span style="font-weight: 400;">My phone “found” Vector but pressing the button twice does not do anything</span></h2> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Issue</span></h3> 
+ <ul> 
+  <li> <p id="h_66789d25-bdee-49ee-84d6-1e2f87af9f7e"> <span style="font-weight: 400;">I can’t get past the “Quickly press the button on his back TWICE” message.</span> </p> </li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Make sure you press the green circle on the LED strip back button hard - you should hear it click</span></li> 
+  <li><strong><a href="//support.digitaldreamlabs.com/article/383-performing-a-firmware-recovery-reset" target="_blank">Reboot Vector via Recovery Mode</a></strong></li>
+  <li><a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank"><strong>Clear User Data</strong></a></li> 
+  <li><span style="font-weight: 400;">Reboot your smart device</span></li> 
+  <li><span style="font-weight: 400;">If this does not solve the issue, please contact Customer Care</span></li> 
+ </ul> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"></span> </p> 
+ <p class="wysiwyg-text-align-center"> &nbsp; </p> 
+ <p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e857ec804286364bc97add7/file-m5DeA2k73T.gif"> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_f3872cd6-ee9b-4ee7-b771-016977648f03"><span style="font-weight: 400;">3. I have paired Vector with Bluetooth but cannot connect to WiFi</span></h1> 
+ <br> 
+ <h2><span style="font-weight: 400;">Subsections:</span></h2> 
+ <ul> 
+  <li><a href="#h_4e560962-f3f2-42df-8942-dfbfebbe6af9" target="_self"><strong>I can’t select the WiFi network (SSID)</strong></a></li> 
+  <li><a href="#h_823bc43e-5016-4741-8a7e-eaa493caf86a" target="_self"><strong>I get a “Can’t connect to WiFi” message</strong></a></li> 
+  <li><a href="#h_ea2de543-3c31-452a-9d2f-25870fdf7454" target="_self"><strong>I get a “Can’t reach Anki” message</strong></a></li> 
+  <li><a href="#h_1c99c1b9-0d50-4f44-966f-fda39c75f0ab" target="_self"><strong>I get a "Vector and device need to be on same WiFI" message</strong></a></li> 
+  <li><a href="#h_10f213f2-bb34-4f20-b1cf-e49f3436be1e" target="_self"><strong>Vector disconnects and I see one of these icons:</strong></a></li> 
+ </ul> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76dc2c7d3a7e9ae9e323/img-3359-1585280565-2072840055.png" alt="Picture2.png" width="160" height="87">&nbsp; &nbsp;<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76dc2c7d3a7e9ae9e324/img-3359-1585280565-539858544.png" alt="Picture1.png" width="161" height="88"></span> </p> 
+ <p class="wysiwyg-text-align-center"> &nbsp; </p> 
+ <hr> 
+ <h2 id="h_4e560962-f3f2-42df-8942-dfbfebbe6af9"><span style="font-weight: 400;">I can’t connect when selecting the SSID from the list of available networks that Vector can see</span></h2> 
+ <h3><span style="font-weight: 400;">Issue </span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">The list of networks Vector sees does not list the network you are trying to connect to.</span></li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li> <span style="font-weight: 400;">Verify that your WiFi network supports and has activated 802.11n 2.4GHz. Learn how in </span><strong><a href="//support.digitaldreamlabs.com/article/103-why-does-vector-need-a-24-ghz-network">this FAQ</a></strong> </li> 
+  <li><strong><a href="//support.digitaldreamlabs.com/article/383-performing-a-firmware-recovery-reset" target="_blank">Reboot Vector via Recovery Mode</a></strong></li>
+  <li><a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank"><strong>Erase User Data</strong></a></li> 
+  <li><span style="font-weight: 400;">Reboot your smart device</span></li> 
+  <li><span style="font-weight: 400;">If the issue persists or if Vector does not see any networks at all, please contact Customer Care</span></li> 
+ </ul> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Issue</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector sees the desired SSID but when selecting it, the network list always goes blank or the app crashes.</span></li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><strong><a href="//support.digitaldreamlabs.com/article/383-performing-a-firmware-recovery-reset" target="_blank">Reboot Vector via Recovery Mode</a></strong></li> 
+  <li><span style="font-weight: 400;">Reboot your router</span></li> 
+  <li><span style="font-weight: 400;">If this does not solve the issue, please contact Customer Care</span></li> 
+ </ul> 
+ <hr> 
+ <h2 id="h_823bc43e-5016-4741-8a7e-eaa493caf86a"><span style="font-weight: 400;">I get a “Can’t connect to WiFi” message when tapping “Join network”</span></h2> 
+ <h3><span style="font-weight: 400;">Issue</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">“Can’t connect to WiFi” message.</span></li> 
+ </ul> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76dc04286364bc975c12/img-3359-1585280565-2052742477.png" alt="IMG_5141.PNG" width="200" height="356"></span> </p> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Verify you are inputting the correct network password</span></li> 
+  <li><span style="font-weight: 400;">Move Vector closer and further away from the router and try again to “join network”</span></li> 
+  <li> <span style="font-weight: 400;">Verify that your WiFi network supports and has activated 802.11n 2.4GHz. Learn how in </span><strong><a href="//support.digitaldreamlabs.com/article/103-why-does-vector-need-a-24-ghz-network">this FAQ</a></strong> 
+   <ul> 
+    <li><span style="font-weight: 400;">Networks requiring additional login (“Captive Portals”) are not supported (e.g. Academic, Corporate, Hotels, Airport WiFi, Shopping Centers, etc.)</span></li> 
+    <li> <span style="font-weight: 400;"><span style="font-weight: 400;">Running the Vector app on a device that is acting as Vector’s WiFi network (Hotspot, tethering, etc.) is not&nbsp;</span></span>recommended. We strongly recommend you connect Vector to an infrastructure network</li> 
+    <li><span style="font-weight: 400;">Whitelist Vector’s MAC address in your router’s Access Controls. Find the MAC address in the CCIS - <strong><a href="#h_de9f3258-0e6f-4b5a-90d7-2b05724810c7" target="_self">see below steps</a></strong></span></li> 
+   </ul> </li> 
+  <li><strong><a href="//support.digitaldreamlabs.com/article/383-performing-a-firmware-recovery-reset" target="_blank">Reboot Vector via Recovery Mode</a></strong></li>
+  <li><strong><a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank">Clear User Data</a><br></strong></li> 
+  <li><span style="font-weight: 400;">Reboot your smart device</span></li> 
+  <li><span style="font-weight: 400;">If this does not solve the issue, please contact Customer Care</span></li> 
+ </ul> 
+ <hr id="horizontalrule"> 
+ <h2 id="h_1c99c1b9-0d50-4f44-966f-fda39c75f0ab"><span style="font-weight: 400;">I downloaded the OTA and Vector rebooted</span></h2> 
+ <h3><span style="font-weight: 400;">Issue</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">I get a "Vector and device need to be on same WiFI" message.</span></li> 
+ </ul> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Move Vector closer and further away from the router and try again to “join network”</span></li> 
+  <li> <span style="font-weight: 400;">Verify that your WiFi network supports and has activated 802.11n 2.4GHz or split the network name if you have a dual band router to ensure that Vector and the device are looking for each other on the same 2.4GHz band. Learn more in </span><strong><a href="//support.digitaldreamlabs.com/article/103-why-does-vector-need-a-24-ghz-network">this FAQ</a></strong> </li> 
+  <li><span style="font-weight: 400;">Reboot your router</span></li> 
+  <li> <span style="font-weight: 400;">If on your WiFi access point, you have any privacy separator enabled, please disable since it prevents your device communicating with Vector</span> 
+   <ul> 
+    <li><span style="font-weight: 400;">this may be named "AP isolation" on an Asus router</span></li> 
+    <li><span style="font-weight: 400;">if you have a NetGear router, access control should be enabled if "neither net genie" is installed</span></li> 
+    <li><span style="font-weight: 400;">other routers may have similar settings</span></li> 
+   </ul> </li> 
+  <li><span style="font-weight: 400;">If this does not solve the issue, please contact Customer Care with a picture of your router’s label showing make and model</span></li> 
+ </ul> 
+ <hr> 
+ <h2 id="h_10f213f2-bb34-4f20-b1cf-e49f3436be1e"><span style="font-weight: 400;">Vector connected fine but now disconnects</span></h2> 
+ <h3><span style="font-weight: 400;">Issue</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector disconnects and I see one of these icons:</span></li> 
+ </ul> 
+ <p class="wysiwyg-text-align-center"> <span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76dd04286364bc975c13/img-3359-1585280565-2072840055.png" alt="Picture2.png" width="160" height="87">&nbsp;&nbsp;<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76dd2c7d3a7e9ae9e325/img-3359-1585280565-539858544.png" alt="Picture1.png" width="161" height="88"></span> </p> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Check for interference, or move Vector away, from other devices using BLE or WiFi such as microwaves, baby monitors, digital cordless telephones</span></li> 
+  <li> <strong><a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank">Powercycle Vector and Clear User Data</a></strong><span style="font-weight: 400;"> to force Vector to reconnect</span> </li> 
+  <li><span style="font-weight: 400;">If you see the Cloud Issue icon please follow <a href="#h_ea2de543-3c31-452a-9d2f-25870fdf7454" target="_self"><strong>these steps </strong></a></span></li> 
+  <li><span style="font-weight: 400;">If this does not solve the issue, please contact Customer Care</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_69a9f6d3-1510-4679-956b-e1f0100bdb23" class="sections">4. Checking Digital Dream Labs Cloud Availability</h1> Check if DDL’s Cloud is available and accessible from your device’s location: 
+ <ul> 
+  <li> <span style="font-weight: 400;">Enter “</span><strong><a href="https://ota-cdn.anki.com/ok">https://ota-cdn.anki.com/ok</a></strong><span style="font-weight: 400;">” into a browser on the same WiFi network as Vector</span> </li> 
+  <li><span style="font-weight: 400;">If a file containing “OK” downloads, the Cloud is available and accessible from your device’s WiFi network</span></li> 
+ </ul> 
+ <p> <br> Check that your network can access the DDL cloud services from the device you use with Vector: </p> 
+ <ul dir="auto"> 
+  <li>Some DNS (Domain Name System) and parental control services may block certain services so we need to make sure your device can access: 
+   <ul dir="auto"> 
+    <li>accounts.api.anki.com</li> 
+    <li>session-certs.token.global.anki-services.com</li> 
+   </ul> </li> 
+  <li>Depending on your device, please pick one of below options to check this: 
+   <ul dir="auto"> 
+    <li> <strong>iOS</strong>: use a free app like&nbsp;<strong><a href="https://itunes.apple.com/app/inettools-ping-dns-port-scan/id561659975?mt=8" rel="noreferrer">iNetTools - Ping,DNS,Port Scan</a></strong>&nbsp;&gt; DNS</li> 
+    <li> <strong>Android</strong>: use a free app like&nbsp;<strong><a href="https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an" rel="noreferrer">Whois &amp; DNS Lookup - Domain/IP</a></strong>&nbsp;by entering each of these addresses and then clicking the DNS tab</li> 
+   </ul> </li> 
+ </ul> 
+ <ul> 
+  <li>If these DNS lookups do not work, consider configuring your router to use a Public DNS Service like: 
+   <ul> 
+    <li>Google 8.8.8.8, 8.8.4.4</li> 
+    <li>CloudFlare&nbsp;1.1.1.1, 1.0.0.1</li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_adddf9ea-40b4-45ff-9ab4-834b6a5555f6">5.&nbsp;<span style="font-weight: 400;">Vector shows 3 teal lights when booting</span> </h1> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li> <span style="font-weight: 400;">If on your WiFi access point, you have any privacy separator enabled, please disable since it prevents your device communicating with Vector</span> 
+   <ul> 
+    <li><span style="font-weight: 400;">this may be named "AP isolation" on an Asus router</span></li> 
+    <li><span style="font-weight: 400;">if you have a Netgear router, access control should be enabled if "Netgear Net Genie" is installed</span></li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_307c1a0f-115a-495f-8c5d-656968304328">6.&nbsp;<span style="font-weight: 400;">Vector shows 3 blue lights when booting</span> </h1> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><span style="font-weight: 400;">Verify that your device’s software is up to date</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1>7.&nbsp;<span style="font-weight: 400;">Vector's Operating System takes more than 15 minutes to download</span> </h1> 
+ <h3>&nbsp;</h3> 
+ <h3><span style="font-weight: 400;">Troubleshooting</span></h3> 
+ <ul> 
+  <li><strong><a href="//support.digitaldreamlabs.com/article/383-performing-a-firmware-recovery-reset" target="_blank">Reboot Vector via Recovery Mode</a></strong></li>
+  <li><a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank"><strong>Clear User Data</strong></a></li> 
+  <li><span style="font-weight: 400;">Reboot your smart device</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h1 id="h_de9f3258-0e6f-4b5a-90d7-2b05724810c7">8.&nbsp;<span style="font-weight: 400;">Finding Vector’s MAC address</span> </h1> 
+ <p> <span style="font-weight: 400;">Use the Customer Care Info Screen (CCIS) to find Vector’s MAC address. &nbsp;</span> </p> 
+ <ul> 
+  <li><span style="font-weight: 400;">Place Vector on his charger and plug the charger in</span></li> 
+  <li><span style="font-weight: 400;">[If Vector is booting up, wait for the “V” to finish]</span></li> 
+  <li><span style="font-weight: 400;">Double click Vector’s Back Button</span></li> 
+  <li><span style="font-weight: 400;">Raise and lower Vector’s lift</span></li> 
+  <li><span style="font-weight: 400;">Lower and raise Vector’s head</span></li> 
+  <li><span style="font-weight: 400;">Press his Back Button twice</span></li> 
+ </ul> 
+ <p> <span style="font-weight: 400;">Vector will exit from the CCIS menu automatically after 3 minutes.</span> </p>
+ <p><span style="font-weight: 400;">Revised 5/5/2022<br>RLB</span></p> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/104-troubleshooting-vectore28099s-connection">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-05-05 >Last updated on May 5, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

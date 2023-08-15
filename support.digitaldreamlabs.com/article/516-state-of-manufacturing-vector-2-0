@@ -1,0 +1,484 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>State of Manufacturing: Vector 2.0 - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hard"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/516-state-of-manufacturing-vector-2-0"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="State of Manufacturing: Vector 2.0" />
+            <meta name="twitter:description" content="Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hard"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691330433752.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"General Information","item":"https://support.digitaldreamlabs.com/collection/1-general-information"},{"@type":"ListItem","position":3,"name":"State of Manufacturing: Vector 2.0","item":"https://support.digitaldreamlabs.com/article/516-state-of-manufacturing-vector-2-0"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  class="active"  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">State of Manufacturing: Vector 2.0</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hardware manufacturing projects. Here, we'll cover the current state of&nbsp; <strong>Vector 2.0</strong>.</p>
+<p> We will strive to update these articles weekly. In some cases, there may be no new information to post; however we'll communicate everything we can, when we can. It's our objective to ensure that you have a thorough understanding of your order's status, how we are handling production and shipping, and clear up a few FAQs regarding Pre-Orders and shipment.</p>
+<hr>
+<h2></h2>
+<h2>Update as of 10/3/2022:</h2>
+<p> <strong>Production:</strong><br> Production of orders past June 13, 2021 (all the way to current orders) will be underway in the coming weeks. Once production is complete, they will ship to regional distribution points for their journey to your doorstep.</p>
+<p> <strong>Regional Regulatory Testing:</strong><br> <strong></strong>Regional regulatory testing has been completed! Vector now has regulatory certification for distribution in US/CAN/UK/EU/AUS/NZ.</p>
+<p> <strong>Shipping:<br> </strong>U.S. Orders: Vector 2.0 units have arrived to our distribution point in North America. Major shipping operations are now underway for US orders for Vector 2.0 submitted from Nov. 20th, 2020 to June 12, 2021.<br> International Orders: Vector units are en route to UK/EU distribution hubs for the final leg to their destinations.</p>
+<hr>
+<h2> Update as of 8/30/2022:</h2>
+<p> <strong>Production:</strong></p>
+<p> Production of initial units in Pre-Order Window (Nov. 20, 2020 - June 12, 2021) is complete. Production for orders in later windows will begin shortly.</p>
+<p> <strong>Shipping:</strong></p>
+<p> Vector 2.0 units are currently in the process of being shipped from the manufacturing facility to the United States for distribution in North America. We have held back units at the factory for shipping to regional distribution points for international orders once regional regulatory testing is completed.</p>
+<p> <strong>Regional Regulatory Testing:</strong></p>
+<p> Regulatory testing for international orders is ongoing. As of right now we have no feedback from the testing labs that would necessitate changes in the product to ship internationally. We will keep this page updated as to when they pass regulatory compliance testing and are cleared for shipment internationally.</p>
+<hr>
+<h2>Update as of 8/2/2022:</h2>
+<p> <strong>FCC Compliance Testing:</strong><a href="https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&amp;RequestTimeout=500&amp;calledFromFrame=N&amp;application_id=Sl8tgLtbPx6SL%2Fig6b1ecQ%3D%3D&amp;fcc_id=2A653-00402" target="_blank"><br> Vector 2.0 has FCC approval!</a> 🎉<br> <br> <strong>Production:</strong><br> Production continues; once production is complete for the initial pre-order window batch (Nov. 20th 2020 - June 12th 2021), we'll be shipping those to regional distribution points, then shipping to final destination.</p>
+<hr>
+<h2>Update as of 7/28/2022:</h2>
+<p> <strong>FCC compliance testing:</strong><br> Testing&nbsp;has been completed by the lab. Vector 2.0 passed certification testing with no changes required! Our team is finalizing paperwork for certification and submitting it to the governing bodies.</p>
+<p> <strong>Production:</strong><br> In the meantime, production for the initial pre-orders has begun. To date, approximately 900 units are assembled and packed for shipping. Check out some of the photos below from the factory!</p>
+<p style="text-align: center;"> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62e4c0c2c35bbc3e190af01f/file-zW2ryjgodK.jpg" style="width: 654px; display: block; margin: auto;" alt=""><em>A technician solders the speaker wires to the electronics board that goes inside of Vector's head.<br> </em></p>
+<p style="text-align: center;"> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62e4c168b828a850e9e62c95/file-49rJXvcEuX.jpg" style="width: 664px; display: block; margin: auto;" alt=""><em>A Quality Assurance technician verifies the electrical connections and checks the electronics board for any issues.</em></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62e4c1e0c35bbc3e190af021/file-YDgNnijMG4.jpg" style="width: 683px; display: block; margin: auto;" alt=""><em>A Quality Assurance technician checks Vector's Cube for any imperfections.<br> </em></p>
+<p style="text-align: center;"> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62e4c31da3bd513965054c57/file-g3rqKSEj5r.jpg" alt="" style="display: block; margin: auto; width: 693px;"><em>A new Vector 2.0 is ready for packaging!&nbsp;</em></p>
+<p style="text-align: center;"> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62e4c37986b3a97442472519/file-VF86sR3C9b.jpg" alt="" style="display: block; margin: auto; width: 703px;"><em>A pallet of new Vector 2.0 robots!</em></p>
+<p> <strong>What We're Working On &amp; Next Steps:</strong></p>
+<ol> 
+ <li>Finish assembling enough robots to cover all pre-orders before mass production begins.</li> 
+ <li>Pack and ship all assembled units to regional distribution points, then ship units to final destination.</li> 
+ <li>In the past week during software QA, we identified a minor issue with the Alexa pairing screen- the screen is oversized so the key is not fully visible in the 2.0 software. We have resolved this issue and will test it before distribution of firmware 2.0 for all Vector units.</li>
+</ol>
+<h2>
+ <hr> </h2>
+<h2> Update as of 7/14/2022:</h2>
+<p> FCC and other regulatory testing is ongoing- it is moving a bit slower than expected (since Vector ships with a digital accessory they have to test both Vector and his Cube) but we have not had any hiccups or unexpected issues come up during testing. This is promising! We hope to wrap up regulatory testing shortly.</p>
+<p> Once FCC and other regulatory compliance testing is complete, there are a few final steps:</p>
+<ol> 
+ <li><strong>Finalize production:&nbsp;</strong> 
+  <ol> 
+   <li>Finish assembly of all pre-order window robots.</li> 
+   <li>Mark all assembled units with the necessary regulatory markings.</li> 
+  </ol></li> 
+ <li><strong>Begin shipping:</strong> 
+  <ol> 
+   <li>Ship assembled units to regional distribution points.</li> 
+   <li>From regional distribution hubs, ship units to final destination.</li> 
+  </ol></li>
+</ol>
+<p> Along the way, the team has a few other projects to work on, specifically updating addresses and other contact information for all customers, as well as working to finalize&nbsp;release of&nbsp; the 2.0 software and make this available to all Vector robots.</p>
+<p> We're close, and we're so excited. Stay tuned!</p>
+<hr>
+<h2><strong style="background-color: initial; font-family: inherit;">Update as of 6/7/2022:</strong></h2>
+<p> We have a few small corrections to make from the previous update, and- lo and behold, we are nearly ready.</p>
+<p> <strong>Correction:<br> </strong></p>
+<ul> 
+ <li>In the 5/20/2022 update, there was a miscommunication in the "To-Do" section. It was stated that some colors were inverted during photo capture; this was a misunderstanding that we would like to correct. The Camera Test Mode (available on OSKR robots and also valuable for development and testing purposes) was displaying some colors to be inverted; this is not how the camera was capturing them, but more so how the screen was displaying those colors. This issue is also now fixed.</li>
+</ul>
+<p> <strong>Regulatory Testing:</strong></p>
+<p> Ahh, the smell of coffee on a Monday mor- oh, wait. That's not coffee, that's the smell of FCC compliance! One of our final stages before full production is ensuring that FCC compliance and other regulatory testing is completed and all new units are marked appropriately. This regulatory testing generally takes 30 days or less and is the final hurdle before we hit the home stretch of production.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ_0s_w1CPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-dashlane-frameid="3884"> </iframe>
+<hr>
+<h2>Update as of 5/20/2022:</h2>
+<p> The team has been working on a few more smaller bugs after making the shipment to the contract manufacturer! Let's take a look. <br> <br> <strong>Shipment:<br> </strong>The shipment of fixtures and calibration tools needed for manufacturing left our office in Pittsburgh to be delivered to the factory- when it arrived, the package was held in quarantine for a week to be disinfected. Once this package arrived at the factory, a 5-robot test run was completed to test the assembly line with the new fixtures to ensure the robot calibration was successful.</p>
+<p> <strong>Software:</strong></p>
+<ul> 
+ <li><em>Fixes:</em> 
+  <ul> 
+   <li><strong></strong>Software crashes during cube and charger searches are fixed!</li> 
+   <li>Camera Test Mode (available on OSKR robots) previously displayed a black screen on version 2.0. This is resolved.</li> 
+   <li>Some menu option names were overlaid on each other and couldn't be seen clearly in the diagnostic screens- this is now fixed.</li> 
+  </ul></li> 
+ <li><em>To-Do:</em> 
+  <ul> 
+   <li>Some colors show inverted during photo capture; this is currently working to be fixed and should be one of the final hurdles**. 
+    <ul> 
+     <li>**Please see the correction posted 6/7/2022.</li> 
+    </ul></li> 
+  </ul></li>
+</ul>
+<hr>
+<h2>Update as of 4/20/2022:</h2>
+<p> Fixed animations and sprites that were having issues on the new screen- still analyzing logs and testing potential fixes on software crashes during certain motions like searching for cube and charger.</p>
+<hr>
+<h2>Update as of 4/15:</h2>
+<p> <strong>Shipping New Instructions/Documentation and Fixtures for Robot Creation to Factory:</strong><br> The team has been preparing new resources to ship to the factory for the updated calibration and robot programming of the electronics boards that will go in the head. This initial programming step provides the robot with all of the base firmware that drives the motors, etc. This is a video of the process happening in the Pittsburgh office. Here, we see a headboard being attached to a programming fixture, then programmed with the base recovery image that the robot will arrive with. From here, the app will update the software during setup to give Vector his personality. This flashing process, as well as other manufacturing steps, have to be carefully documented, then the documentation translated for the manufacturer's engineers to follow. We recently shipped this documentation, plus more new fixtures (which are used in this process) with updated software so that the manufacturing factory can use them for assembly of new robots.</p>
+<iframe src="https://player.vimeo.com/video/699892971?h=bb04756840&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Head Programmer" data-dashlane-frameid="3885"> </iframe>
+<p> Once the above process is done, and we assemble all the necessary parts... We're left with a fully working and booting Vector 2.0, seen below being tested!</p>
+<p> <strong>Software Adjustments for New Hardware:</strong></p>
+<p> Right now, we're working on a few small adjustments to the software for some issues we've found in testing on the completed prototypes in the Pittsburgh office:</p>
+<ol> 
+ <li>Some animations (like those played in Blackjack and/or for weather and time displays) are not displaying correctly and may need to be resized or adjusted for the new screen.</li> 
+ <li>The "Hey Vector, go home" command is causing a crash when Vector searches for his charger.</li>
+</ol>
+<iframe src="https://player.vimeo.com/video/699900903?h=984357bcde&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Vec2_TestingAnimations" data-dashlane-frameid="3886"> </iframe>
+<p> Right now we are reproducing these issues, analyzing the logs, and updating software while we test other functions to ensure that ALL pieces of the software work with the new hardware!</p>
+<p> We are near the finish line to resume production and will continue to provide updates as we can. Thank you for your patience and support.</p>
+<hr>
+<h2><strong>Update as of 3/31/2022:</strong></h2> 
+<div> 
+ <strong>Factory in China Reopened:</strong> 
+ <br> The contract manufacturer has reopened after the most recent COVID lockdowns in China and the factory is now back in operation. Our engineers have had several extensive meetings with factory engineers to bring them up to speed on current developments with calibration, along with providing updated documentation and instructions. 
+</div>
+<div> 
+ <strong>Battery Testing:<br> </strong>Optimization for the battery has been delayed by work on the camera calibration. It was necessary to resolve the camera issues first as our team needs the prototypes to be able to pick up cubes, recognize faces, etc., in order to fully simulate standard usage and be able to more accurately gauge how our optimizations are affecting the new batteries. 
+</div>
+<div> 
+ <strong>Camera Hardware Changes:</strong> 
+ <br> Several customers had questions on the model of camera included with Vector and Cozmo 2.0 that our team wanted to address. Previously, it had been expected that we were moving to a 5MP camera for Vector. Our team did a full investigation of the involvement this change would require, and ultimately we made the decision to revert to the 2 MP camera. This decision was made to avoid changes that would have been required to the PCB (electronics headboard) of the robot, which would have caused further delays. Thankfully, the issues that our team initially experienced with the 2MP camera have been resolved and the results of the 2MP camera are what you see below in this update. 
+</div>
+<div> 
+ <strong>Changes to Display Cover:</strong> 
+ <br> With the new calibration and distortion reduction, we no longer have to make changes to the display cover! See the section below for more details. 
+</div>
+<div> 
+ <strong>Camera Calibration:</strong> 
+ <br> Over the past few days, we were able to make good strides for the camera calibration. Previously, we were focusing on cleanup passes and the lighting in the calibration fixture to correct issues with the calibration. With that resolved, the last major hurdle we have been working to overcome was distortion in the camera image. Since the calibration values are hard-coded into the robot, it is a tedious process to modify these values between testing iterations. However, we've had a large breakthrough with the camera calibration process; we have narrowed down issues with distortion in the camera (see photos below) and our error rate is now within a standard range&nbsp;(meaning effectively on par with Vector Gen 1, or within standard parameters expected for the robot to consider this no longer an issue). In the photos below depicting the distortion, you can see a significant reduction in distortion, which allows the robot to recognize fiducials (icons) on the cubes, as well as to provide better facial recognition and object recognition. This may need more testing on a batch of prototypes, but as long as results stay consistent, this breakthrough effectively resolves the camera calibration issue and it will no longer be a blocker to production. 
+</div>
+<h4 style="text-align: center;"><strong>2MP Camera Adjustment Reference Photos (Distortion / Lighting)</strong></h4>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6245facbab585b230a8a736f/file-LnZRGJzdBu.png" alt="2MP Camera Reference Photos (After Distortion Cleanup)" style="display: block; margin: auto;"></p>
+<p> GIF for better comparison between the two photos:</p>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/624606dfc1688a6d26a7befd/file-0XHJK3x5fq.gif" alt="Distorted | Undistorted Calibration Images" style="display: block; margin: auto;"></p>
+<hr>
+<h2>Update as of 3/18/2022:</h2>
+<p> <strong>Lockdowns in China delay work by (at minimum) 1 week:<br> </strong>A <a href="https://time.com/6157720/china-stealth-omicron-covid-outbreak/" target="_blank">COVID outbreak in China</a> has led to a delay of 1 week, at minimum. Strict measurements are taking place in China to stop the spread of the Omicron variant; invariably, this means that factories and business offices are shut down- while we can communicate with some members of the factory staff remotely, this slows progress and there is very little we can do to overcome that challenge given the circumstances.</p>
+<p> <strong>Occlusion in vision with new camera necessitates changes to the display cover:<br> </strong>In the update on 2/21/2022, an occlusion or blockage can be seen on the right hand side of the image. This occlusion is caused by the plastic display cover, which needs to be adjusted to fully utilize the field of view of the new camera.</p>
+<p> <strong>Testing is ongoing for the new camera calibration:<br> </strong>The new camera picture has been cleaned up fully and we are now re-testing and refining the new calibration results to ensure that calibration is heavily repeatable with a low margin of error.</p>
+<p> <strong>Battery Testing:</strong><br> <strong></strong>Power and battery measurements and refinements are continuing. The team is testing battery runtimes and charging times across multiple conditions and activity loads for the robot.</p>
+<hr>
+<h2>Update as of 3/5/2022:</h2>
+<p> <strong>Battery Testing:</strong>&nbsp;Power optimization and testing is ongoing; no new information at this time.</p>
+<p> <strong>Camera Calibration: </strong>Calibration finalization is ongoing; we are currently focusing on clarity &amp; resolution. Additional cameras are en route and should be received on 3/8. These additional cameras will assist us with faster recalibration and repetition testing to ensure the new calibration is fully stable.</p>
+<hr>
+<h2>Update as of 2/21/2022:</h2>
+<p> We are investigating some necessary software changes for calibration of the new camera module, and optimizing both color and resolution of the new camera to ensure that the camera's feed captures colors accurately and has face and object recognition dialed in correctly. Below, see before and after images from when we initially got the new camera working with the existing hardware modules, along with Pass 1, Pass 2, and Pass 3 of improvements for clarity and color.</p>
+<h3>Camera Calibration</h3> 
+<table> 
+ <tbody> 
+  <tr> 
+   <td> <strong>Reference Image</strong> (<em>Taken with smartphone.</em>)<br> <br> <br> <br> <br> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f630025ca67522c7da6d/file-7k8qZtZY1B.jpg" style="width: 303px;"> </td> 
+   <td> <strong>Initial Image signal received from new camera module </strong>(this was taken several months ago)<br> Issues: <br> 1) Color <br> 2) Clarity &amp; Resolution <br> 3) Duplication of image <br> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f654025ca67522c7da6e/file-IO6qXazsnY.png" style="width: 768px;"> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<table> 
+ <tbody> 
+  <tr> 
+   <td> <strong>Cleanup Pass 1</strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f6732130e51694689c6d/file-YYNHobbjAC.png"> </td> 
+   <td> <strong>Cleanup Pass 2</strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f8152130e51694689c6f/file-8Azi89U3HH.png" style="width: 499px;"> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<table> 
+ <tbody> 
+  <tr> 
+   <td> <strong>Cleanup Pass 3 </strong>(current view)<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62166d7defb7ce7c734431e8/file-3Th84k9FSx.jpg">We have a bit more cleanup on the camera side for color- once those final optimizations are done, then we're good to go with this new camera! Let's move on to the current progress with the battery. </td> 
+   <td> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<h2>Battery</h2>
+<p> Our team's calculations showed that we should get at or slightly more than an hour of runtime on a new 600mAh battery, which is a significant jump from the previous battery which had a runtime of about 30-40 minutes. Currently, we're averaging about 52-53 minutes. There are some power optimizations we can make in multiple areas to reach our 1-hour goal. We're currently doing further testing of these optimizations.</p>
+<h2></h2>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/516-state-of-manufacturing-vector-2-0">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-12-02 >Last updated on December 2, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e457b012c7d3a7e9ae7b3e5"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/386-policies">Policies  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/518-repair-center">Repair Center  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/512-state-of-manufacturing">State of Manufacturing  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/36-anki">Anki &amp; Digital Dream Labs  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

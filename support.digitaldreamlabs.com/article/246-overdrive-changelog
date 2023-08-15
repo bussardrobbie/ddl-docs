@@ -1,0 +1,466 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>OVERDRIVE Changelog - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Here&#x27;s a brief summary of what&#x27;s changed, new, and improved in our OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition app updates.  2018-05-24 What&#x27;s new in Versio"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/246-overdrive-changelog"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="OVERDRIVE Changelog" />
+            <meta name="twitter:description" content="Here&#x27;s a brief summary of what&#x27;s changed, new, and improved in our OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition app updates.  2018-05-24 What&#x27;s new in Versio"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1689580883906.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"OverDrive","item":"https://support.digitaldreamlabs.com/collection/62-overdrive"},{"@type":"ListItem","position":3,"name":"OVERDRIVE Changelog","item":"https://support.digitaldreamlabs.com/article/246-overdrive-changelog"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">OVERDRIVE Changelog</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p>Here's a brief summary of what's changed, new, and improved in our OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition app updates.&nbsp;</p>
+<hr> 
+<div class="sections"> 
+ <h2 class="p1"> <span class="s1">2018-05-24&nbsp;</span><span class="s1"><strong>What's new in Version 3.4.0?</strong></span> </h2> 
+ <ul> 
+  <li>GDPR-related settings update.</li> 
+  <li>Updates to the application's acknowledgments.</li> 
+  <li>Fixes several crashes.</li> 
+  <li>Bug fixes and polish.</li> 
+ </ul> 
+ <h2 class="p1"> <span class="s1">2018-03-08&nbsp;</span><span class="s1"><strong>What's new in Version 3.3.1?</strong></span> </h2> 
+ <ul> 
+  <li>Fixes an issue where games hosted by an iOS 11.2.x device hold at the Gamepad and do not progress to the Results screen.</li> 
+ </ul> 
+ <h2 class="p1"> <span class="s1">2018-01-30&nbsp;</span><span class="s1"><strong>What's new in Version 3.3.0?</strong></span> </h2> 
+ <ul> 
+  <li>Your favorite weapon — the Golden Sniper — is back! Select 'One Shot' in Open Play and disable your opponent's Supercar with a single shot in this new Game Mode.</li> 
+  <li>Smoothly move between lanes by tilting your phone for the most dynamic driving experience. Simply disable the new 'racing lanes' option in Settings to access this feature.</li> 
+  <li>Bug fixes and polish.</li> 
+  <li>Players who were unable to complete the 2nd trophy against Fuzz in Battle-Race will now be able to complete this challenge.</li> 
+  <li>Made it clearer that Razorback can be used with all vehicles, just only one at a time.</li> 
+  <li>Changes to some potentially offensive language used by some commanders.</li> 
+ </ul> 
+ <h2 class="p1"> <span class="s1">2018-01-22&nbsp;</span><span class="s1"><strong>What's new in Version 3.2.1?</strong></span> </h2> 
+ <ul> 
+  <li>This is an iOS-only release.</li> 
+  <li>Fixes an issue where at the end of a multiplayer game, the app would get stuck if an iOS 11.2 device had been hosting the game.</li> 
+  <li>Eliminates a bug that would cause some vehicles to get lost on the track and start driving the wrong direction.</li> 
+ </ul> 
+ <h2 class="p1"> <span class="s1">2018-01-10&nbsp;</span><span class="s1"><strong>What's new in Version 3.2.0?</strong></span> </h2> 
+ <ul> 
+  <li>Introducing Razorback, a powerful shotgun that shreds though your enemy's armor. Start your engines and try out the new weapon! Available for all of your Supercars, but please, only one Supercar at a time.</li> 
+  <li>Performance and audio improvements.</li> 
+  <li>Bug fixes and polish.</li> 
+  <li>Eliminates some issues that could occur with using Coins, Coin Shop, and Upgrades</li> 
+  <li>Several German language mistranslations were fixed.</li> 
+  <li>Some issues involving newer iOS devices starting or joining Multiplayer Games have been improved.</li> 
+ </ul> 
+ <h2 class="p1">&nbsp;<span class="s1">2017-12-13&nbsp;</span><span class="s1"><strong>What's new in Version 3.1.1?</strong></span> </h2> 
+ <ul> 
+  <li>Resolves a potential syncing issue that affected a limited number of Anki Accounts.</li> 
+  <li>Also fixed a crashed that could occur involving notifications.</li> 
+ </ul> 
+ <h2 class="p1"> <span class="s1">2017-12-04&nbsp;</span><span class="s1"><strong>What's new in Version 3.1.0?</strong></span> </h2> 
+ <ul> 
+  <li>Play ahead of the curve. It's now easier than ever to change lanes with your car.</li> 
+  <li>Exciting new game balance improvements. Here's what's new: 
+   <ul> 
+    <li>Game mode 
+     <ul> 
+      <li>Weapon and Support Item now unlock earlier in the campaign.</li> 
+     </ul> </li> 
+   </ul> </li> 
+  <li>What makes OVERDRIVE the world's most intelligent battle racing system? Tech so advanced, it feels like the future.</li> 
+  <li>Rate the OVERDRIVE app now.</li> 
+  <li>Gamepad updates.</li> 
+  <li>Performance improvements.</li> 
+  <li>Bug fixes and polish, including the following: 
+   <ul> 
+    <li>Adds improvements to Anki's Account implementation that should help to improve the reliability of playing OVERDRIVE with the same Anki Account on multiple devices.</li> 
+    <li>Supertrucks are now excluded from the&nbsp;Campaign Matches 1, 3, 5. This is because these matches are designed to teach new players how to use Throttle, Steering, Weapons, and Support Items. Supertrucks use these items differently than Supercars, so these guides do not work well with Supertrucks.</li> 
+    <li>Improved Android vehicle discovery when a player selects a Vehicle or assigns one to a Commander.</li> 
+    <li>Starting iOS Multiplayer Games should now be more reliable. In general, how you set up Multiple Games has also been improved for Android and iOS devices.</li> 
+    <li>The “!” icon that appears on the&nbsp;Main screen's "hamburger" menu is now disappear after visiting the OVERDRIVE in-app store.</li> 
+    <li>Max Speed Boosts were originally removed from the Coin Shop, but the slots still existed in Vehicle Upgrades. They now have also been removed from the Garage. Sorry for any confusion this caused.</li> 
+    <li>It's now easier to tell the difference between enabled and disabled Upgrades in the vehicles' Upgrades tab.</li> 
+    <li>Supercars and Supertrucks should now more consistently line up at the Start/Finish line - not stop short or go past it.</li> 
+    <li>The daily Goal of defeating Vice is now possible to earn.</li> 
+    <li>Should no longer see duplicated Skull or Nuke upgrade items in the Coin Shop.</li> 
+   </ul> </li> 
+ </ul> 
+ <h2 class="p1"><span class="s1">2017-09-26<strong>&nbsp;What's new in Version 3.0.1?</strong></span></h2> 
+ <ul> 
+  <li>Some bug fixes and polish.</li> 
+ </ul> 
+ <h2 class="p1"><span class="s1">2017-09-21<strong>&nbsp;What's new in Version 3.0.0?</strong></span></h2> 
+ <ul> 
+  <li class="p1">OVERDRIVE 3.0 brings enhancements to driving and support for new hardware</li> 
+  <li class="p1">Enhanced Driving 
+   <ul> 
+    <li class="p1">Updates to the driving system increase the top speed as you challenge higher tier commanders in the Campaign.</li> 
+    <li class="p1">Changes to the throttle provide more control over speed, and lane changing has become more fluid.</li> 
+   </ul> </li> 
+  <li class="p1">Updated GamePad 
+   <ul> 
+    <li class="p1">Driving controls for Supercars and Supertrucks are now the same.</li> 
+   </ul> </li> 
+  <li class="p1">New Hardware Support 
+   <ul> 
+    <li class="p1">Nuke Phantom Supercar</li> 
+    <li class="p1">Fast &amp; Furious Power Zone track piece, found in the OVERDRIVE: Fast &amp; Furious Edition</li> 
+    <li class="p1">Bug fixes and polish. </li> 
+   </ul> </li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <p class="p1"><span class="s1">2017-08-21<strong>&nbsp;What's new in Version 2.9.2?</strong></span></p> 
+ <ul> 
+  <li class="p1">Adds a couple more very small and minor bug fixes. There are no visible changes to the app or game play.</li> 
+ </ul> 
+ <p class="p1"><span class="s1">2017-08-10<strong>&nbsp;What's new in Version 2.9.1?</strong></span></p> 
+ <ul> 
+  <li class="p1">Adds a couple of very small and minor bug fixes. There are no visible changes to the app or game play.</li> 
+ </ul> 
+ <p class="p1"><span class="s1">2017-08-01<strong>&nbsp;What's new in Version 2.9.0?</strong></span></p> 
+ <ul> 
+  <li class="p1">Your Supercars' health no longer powers your weapons - but that doesn't mean you can fire your weapons forever. Hold the trigger for too long and you'll need to cool down.</li> 
+  <li class="p1">An updated home screen helps you get into the action faster, and learn more about the features OVERDRIVE has to offer.</li> 
+  <li class="p1">An improved training system where you can hone your battle racing skills by competing against AI commanders.</li> 
+  <li class="p1">Fit, finish, polish and including a number of crash and localization fixes.</li> 
+  <li class="p1">Fixes a potential crash after a players logs in / signs up / or skips creating an account.</li> 
+  <li class="p1">A issue that prevented a player from inviting&nbsp;other players to help with a Campaign was fixed.</li> 
+  <li class="p1">Claiming a&nbsp;Virtual Reward from an email link now behaves as expected.</li> 
+  <li class="p1">Some situations where you would start a Track Scanning and it would never end have also been fixed.</li> 
+ </ul> 
+ <p class="p1"><span class="s1">2017-07-07<strong>&nbsp;What's new in Version 2.8.1?</strong></span></p> 
+ <ul> 
+  <li class="p1">Resolves an issue where players with a User Name that contained a space could no longer log in to their account.</li> 
+ </ul> 
+ <p class="p1"><span class="s1">2017-07-05<strong>&nbsp;What's new in Version 2.8.0?</strong></span></p> 
+ <ul> 
+  <li class="p1"> <strong>Exciting new updates to Campaign</strong>, steering and more. 
+   <ul> 
+    <li class="p1">In the revamped Campaign (previously Tournament), Commanders have three difficulty levels 
+     <ul> 
+      <li class="p1">Bronze, Silver, and Gold</li> 
+      <li class="p1">Defeat each Commander to unlock more challenging missions</li> 
+     </ul> </li> 
+    <li class="p1">Supertruck owners can put any Commander behind the wheel, adding a new dimension to Suptertruck battles.</li> 
+    <li class="p1">Steering has been tuned to help you change lanes, and a refreshed throttle system provides more control of your Supercar's speed as you race around the track.</li> 
+   </ul> </li> 
+  <li class="p1">Fixes some situations where Track Scanning would fail to complete and iOS Multiplayer games would fail to start.</li> 
+  <li class="p1">Several stability improvements, bug fixes, and polish.</li> 
+ </ul> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/246-overdrive-changelog">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-01-28 >Last updated on January 28, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e7d76232c7d3a7e9ae9e176"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/511-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/508-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/506-legacy-products">Legacy Products  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/505-overdrive-26-relaunched">OverDrive 2.6 Relaunched  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/507-track-car-maintenance">Track &amp; Car Maintenance  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/509-track-tips">Track Tips  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/328-technical-issues-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

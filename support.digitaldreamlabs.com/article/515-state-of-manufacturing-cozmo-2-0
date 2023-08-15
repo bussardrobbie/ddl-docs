@@ -1,0 +1,423 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>State of Manufacturing: Cozmo 2.0 - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hard"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/515-state-of-manufacturing-cozmo-2-0"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="State of Manufacturing: Cozmo 2.0" />
+            <meta name="twitter:description" content="Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hard"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691819252643.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"General Information","item":"https://support.digitaldreamlabs.com/collection/1-general-information"},{"@type":"ListItem","position":3,"name":"State of Manufacturing: Cozmo 2.0","item":"https://support.digitaldreamlabs.com/article/515-state-of-manufacturing-cozmo-2-0"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  class="active"  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">State of Manufacturing: Cozmo 2.0</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> Hello! Digital Dream Labs has taken feedback from customers and community members regarding the need for more consistent, open communication on its current hardware manufacturing projects. Here, we'll cover the current state of <strong>Cozmo 2.0. </strong>Since the hardware is somewhat similar, many of the updates here will be similar to the updates for Vector 2.0.</p>
+<p> We will strive to update these articles weekly. In some cases, there may be no new information to post; however we'll communicate everything we can, when we can. It's our objective to ensure that you have a thorough understanding of your order's status, how we are handling production and shipping, and clear up a few FAQs regarding Pre-Orders and shipment.</p>
+<hr>
+<h2>Update as of 11/2/2022:</h2>
+<h3><b style="background-color: initial; font-size: 14px;">Development Unit Production:</b></h3> 
+<div> 
+ <div>
+   We have completed and successfully tested the Over the Air (OTA) update system that will allow new software to go directly onto the robot. This allows us to produce units for internal development&nbsp;teams to use for the later stages of app and software development. Those units are now in production. 
+ </div>
+</div> 
+<div> 
+ <strong>Self Charging (Docking):</strong> 
+</div>
+<div>
+  We are also working to ensure that Cozmo will return to dock and charge when his battery is low! One thing we haven't been clear about previously is that Cozmo 2.0 will now be an always-on robot. This is a significant difference from the first generation of Cozmo (which was limited to only being powered on when attached to a mobile device). This also means that he will need software to find and dock with his charger that he did not have before, and is one of the current items we are working to tackle. 
+</div>
+<div> 
+ <strong>Cozmo's Cube (2.0):<br> </strong> 
+</div>
+<div>
+  Each of Cozmo's 3 cubes are programmed with unique software to help Cozmo identify and interact with them! In case you have an older Cozmo, these new cubes will not work with the current generation of robots; however we still do offer Gen1 Cozmo replacement cubes! One of our current challenges is that with the differences in hardware (and operation) between Cozmo 1.0 and Cozmo 2.0, we must design a new system of connecting to all of the Cubes at once, while being mindful of how much power each Cube is using when Cozmo is interacting with them. 
+</div>
+<h2>
+ <hr> </h2>
+<h2>Update as of 8/2/2022:</h2>
+<p> <strong>FCC Compliance Testing:</strong><br> <a href="https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&amp;RequestTimeout=500&amp;calledFromFrame=N&amp;application_id=Sl8tgLtbPx6SL%2Fig6b1ecQ%3D%3D&amp;fcc_id=2A653-00402" target="_blank">Cozmo 2.0 has FCC approval!</a> 🎉</p>
+<hr>
+<h2>Update as of 7/28/2022:</h2>
+<p> <strong>FCC compliance testing:</strong><br> FCC compliance testing on Cozmo 2.0 has been completed by an independent laboratory. Additional testing is required for Cozmo 2.0's Cube due to changes to the electronic board for the new Cubes. <br> <br> <strong>Software:<br> </strong>Software development also continues for Cozmo 2.0. Since much of the hardware has changed to streamline manufacturing, multiple changes are need to happen for the software to work correctly. However, having the hardware development completed makes this process significantly easier.<br> <strong></strong></p>
+<hr>
+<h2>Update as of 5/20/2022:</h2>
+<p> Recently, because much of the hardware is similar, a lot of the updates to Vector 2.0 also apply to Cozmo 2.0; please <a href="//support.digitaldreamlabs.com/article/516-state-of-manufacturing-vector-2-0">see this article</a> to see the majority of the recent updates for base firmware for the new hardware. We are currently working on adjusting Cozmo's software to get him ready for your home! As our efforts continue, we will have more news for Cozmo specifically.</p>
+<hr>
+<h2>Update as of 3/31/2022:</h2> 
+<div> 
+ <strong>Factory in China Reopened:</strong> 
+ <br> The contract manufacturer has reopened after the most recent COVID lockdowns in China and the factory is now back in operation. Our engineers have had several extensive meetings with factory engineers to bring them up to speed on current developments with calibration, along with providing updated documentation and instructions. 
+</div>
+<div> 
+ <strong>Battery Testing:<br> </strong>Optimization for the battery has been delayed by work on the camera calibration. It was necessary to resolve the camera issues first as our team needs the prototypes to be able to pick up cubes, recognize faces, etc., in order to fully simulate standard usage and be able to more accurately gauge how our optimizations are affecting the new batteries. 
+</div>
+<div> 
+ <strong>Camera Hardware Changes:</strong> 
+ <br> Several customers had questions on the model of camera included with Cozmo 2.0 that our team wanted to address. Previously, it had been expected that we were moving to a 5MP camera. Our team did a full investigation of the involvement this change would require, and ultimately we made the decision to revert to the 2 MP camera. This decision was made to avoid changes that would have been required to the PCB (electronics headboard) of the robot, which would have caused further delays. Thankfully, the issues that our team initially experienced with the 2MP camera have been resolved and the results of the 2MP camera are what you see below in this update. 
+</div>
+<div> 
+ <strong>Changes to Display Cover:</strong> 
+ <br> With the new calibration and distortion reduction, we no longer have to make changes to the display cover! See the section below for more details. 
+</div>
+<div> 
+ <strong>Camera Calibration:</strong> 
+ <br> Over the past few days, we were able to make good strides for the camera calibration. Previously, we were focusing on cleanup passes and the lighting in the calibration fixture to correct issues with the calibration. With that resolved, the last major hurdle we have been working to overcome was distortion in the camera image. Since the calibration values are hard-coded into the robot, it is a tedious process to modify these values between testing iterations. However, we've had a large breakthrough with the camera calibration process; we have narrowed down issues with distortion in the camera (see photos below) and our calibration error rate is now within a standard range (meaning effectively on par with Vector Gen 1, or within standard parameters expected for the robot to consider this no longer an issue). In the photos below depicting the distortion, you can see a significant reduction in distortion, which allows the robot to recognize fiducials (icons) on the cubes, as well as to provide better facial recognition and object recognition. This may need more testing on a batch of prototypes, but as long as results stay consistent, this breakthrough effectively resolves the camera calibration issue and it will no longer be a blocker to production. 
+</div>
+<h4 style="text-align: center;">2MP Camera Adjustment Reference Photos (Distortion / Lighting)</h4>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6245facbab585b230a8a736f/file-LnZRGJzdBu.png" alt="2MP Camera Reference Photos (After Distortion Cleanup)" style="margin: auto;"></p>
+<p> GIF for better comparison between the two photos:</p>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/624606dfc1688a6d26a7befd/file-0XHJK3x5fq.gif" alt="Distorted | Undistorted Calibration Images" style="margin: auto;"></p>
+<hr>
+<h2>Update as of 3/18/2022:</h2>
+<p> <strong>Lockdowns in China delay work by (at minimum) 1 week:<br> </strong>A <a href="https://time.com/6157720/china-stealth-omicron-covid-outbreak/">COVID outbreak in China</a> has led to a delay of 1 week, at minimum. Strict measurements are taking place in China to stop the spread of the Omicron variant; invariably, this means that factories and business offices are shut down- while we can communicate with some members of the factory staff remotely, this slows progress and there is very little we can do to overcome that challenge given the circumstances.</p>
+<p> <strong>Occlusion in vision with new camera necessitates changes to the display cover:</strong><br> In the update on 2/21/2022, an occlusion or blockage can be seen on the right hand side of the image. This occlusion is caused by the plastic display cover, which needs to be adjusted to fully utilize the field of view of the new camera.</p>
+<p> <strong>Testing is ongoing for the new camera calibration:</strong><br> The new camera picture has been cleaned up fully and we are now re-testing and refining the new calibration results to ensure that calibration is heavily repeatable with a low margin of error.</p>
+<p> <strong>Battery Testing:</strong><br> Power and battery measurements and refinements are continuing. The team is testing battery runtimes and charging times across multiple conditions and activity loads for the robot.</p>
+<hr>
+<h2>Update as of 3/5/2022:</h2>
+<p> <strong>Battery Testing</strong>:&nbsp;Power optimization and testing is ongoing; no new information at this time.</p>
+<p> <strong>Camera Calibration</strong>:&nbsp;Calibration finalization is ongoing; we are currently focusing on clarity &amp; resolution. Additional cameras are en route and should be received on 3/8.</p>
+<hr>
+<h2>Update as of 2/21/2022:</h2>
+<p> We are investigating some necessary software changes for calibration of the new camera module for Cozmo, and optimizing both color and resolution of the new camera to ensure that the camera's feed captures colors accurately and has face and object recognition dialed in correctly. Below, see before and after images from when we initially got the new camera working with the existing hardware modules, along with Pass 1, Pass 2, and Pass 3 of improvements for clarity and color.</p>
+<h3>Camera Calibration</h3> 
+<table> 
+ <tbody> 
+  <tr> 
+   <td> <strong>Reference Image</strong>&nbsp;(<em>Taken with smartphone.</em>)<br> <br> <br> <br> <br> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f630025ca67522c7da6d/file-7k8qZtZY1B.jpg" style="width: 303px;"> </td> 
+   <td> <strong>Initial Image signal received from new camera module</strong>&nbsp;(this was taken several months ago)<br> Issues: <br> 1) Color <br> 2) Clarity &amp; Resolution <br> 3) Duplication of image <br> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f654025ca67522c7da6e/file-IO6qXazsnY.png" style="width: 768px;"> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<table> 
+ <tbody> 
+  <tr> 
+   <td> <strong>Cleanup Pass 1</strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f6732130e51694689c6d/file-YYNHobbjAC.png"> </td> 
+   <td> <strong>Cleanup Pass 2</strong><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f8152130e51694689c6f/file-8Azi89U3HH.png" style="width: 499px;"> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<table> 
+ <tbody> 
+  <tr> 
+   <td> <strong>Cleanup Pass 3</strong>&nbsp;(current view)<img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6213f8dc68cd260cc2d3da57/file-Ps8sqotlDb.jpg" style="width: 641px;"><br> We have a bit more cleanup on the camera side for color- once those final optimizations are done, then we're good to go with this new camera! Let's move on to the current progress with the battery. </td> 
+   <td> &nbsp; </td> 
+  </tr> 
+ </tbody> 
+</table>
+<h2>Battery</h2>
+<p> Our team's calculations showed that we should get at or slightly more than an hour of runtime on a new 600mAh battery, which is a significant jump from the previous battery which had a runtime of about 30-40 minutes. Currently, we're averaging about 52-53 minutes. There are some power optimizations we can make in multiple areas to reach our 1-hour goal. We're currently doing further testing of these optimizations.</p>
+<h2>Software</h2>
+<p> Cozmo's software is currently being adjusted to work with some of the new hardware. We are finalizing the software additions for:</p>
+<ul> 
+ <li>Cliff sensors</li> 
+ <li>Display</li> 
+ <li>Camera</li>
+</ul>
+<p> Once the above software changes are finalized, we should be all set to ramp production up for more units.</p>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/515-state-of-manufacturing-cozmo-2-0">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-11-04 >Last updated on November 4, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e457b012c7d3a7e9ae7b3e5"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/386-policies">Policies  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/518-repair-center">Repair Center  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/512-state-of-manufacturing">State of Manufacturing  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/36-anki">Anki &amp; Digital Dream Labs  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

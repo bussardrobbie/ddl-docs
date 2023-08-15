@@ -1,0 +1,634 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Compatible Devices: further information - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="This article explains in greater detail information about the compatibility of devices with OVERDRIVE or OVERDRIVE: Fast &amp; Furious Edition. It is meant to suppl"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/253-compatible-devices-further-information"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Compatible Devices: further information" />
+            <meta name="twitter:description" content="This article explains in greater detail information about the compatibility of devices with OVERDRIVE or OVERDRIVE: Fast &amp; Furious Edition. It is meant to suppl"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1689580883906.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"OverDrive","item":"https://support.digitaldreamlabs.com/collection/62-overdrive"},{"@type":"ListItem","position":3,"name":"Compatible Devices: further information","item":"https://support.digitaldreamlabs.com/article/253-compatible-devices-further-information"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Compatible Devices: further information</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> <span class="wysiwyg-color-black">This article explains in greater detail information about the compatibility of devices with OVERDRIVE or OVERDRIVE: Fast &amp; Furious Edition. <strong>It is meant to supplement the list of <a href="//support.digitaldreamlabs.com/article/255-compatible-devices-overdrive-fast-furious-edition" target="_blank" rel="noopener noreferrer">Compatible Devices</a>.</strong></span></p>
+<hr> 
+<div class="sections"> 
+ <ul> 
+  <li><a href="#h_593998998331548413963761"><strong>Updates</strong></a></li> 
+  <li><a href="#h_928998309941548413969961"><strong>What is the general rule for device compatibility?</strong></a></li> 
+  <li><a href="#h_8590172361931548413988289"><strong>What if my device cannot find and download the App?</strong></a></li> 
+  <li><a href="#h_4260193082591548413995584"><strong>What devices do we know do not work?</strong></a></li> 
+  <li><a href="#h_825986613351548414002072"><strong>Devices that should be compatible</strong></a></li> 
+  <li><a href="#h_1318606683581548414007593"><strong>Devices that support fewer&nbsp;than 4 Supercars or Supertrucks</strong></a></li> 
+  <li><a href="#h_9897249143891548414013353"><strong>What are the Minimum Requirements?</strong></a></li> 
+  <li><a href="#h_7456430844401548414018568"><strong>Is there anything else to try?</strong></a></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_593998998331548413963761">Updates</h2> 
+ <ul> 
+  <li>iPhone 8 and iPhone 8 Plus</li> 
+  <li>We're actively investigating an issue with Apple iPhone 8 and iPhone 8 Plus phones that prevents Track Scanning from starting or causes connections to Supercars or Supertrucks to unexpectedly disconnect.&nbsp;We’re very sorry if this has caused any inconvenience.</li> 
+  <li>2017-10-20 - We now strongly believe that Apple has resolved these issues in iOS 11.1. Once iOS 11.1 is live and we're sure that this is accurate, we'll update this article.</li> 
+  <li>2017-10-31 - iOS 11.1 is now live. Please let us know if you cannot use your iPhone 8 and iPhone 8 Plus with OVERDRIVE.&nbsp;</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_928998309941548413969961">What is the general rule for device compatibility?</h2> 
+ <p> The vast majority devices that can download our App from their respective app store are&nbsp;likely to support all aspects of OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition. </p> 
+ <p> If you can use your device to search for, find, and download the App in the Apple App Store, the Google Play store, or the Amazon Appstore that device is very likely to be compatible with OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition. </p> 
+ <p> Please be aware that because of the significant number of different models, variants, and manufacturing standards of available devices, we can only assure the compatibility of devices that we actively test internally. <strong>A list of compatible devices can be found <a href="//support.digitaldreamlabs.com/article/255-compatible-devices-overdrive-fast-furious-edition">here</a>.</strong> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_8590172361931548413988289">What if my device cannot find and download the App?</h2> 
+ <p> You’ve used your device to search for, but cannot find and download the App from the Apple App Store, the Google Play store, or the Amazon Appstore locations. </p> 
+ <p> This means that your device is known to&nbsp;not support OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition. Either it does not meet a specific requirement, or we’ve&nbsp;specifically disabled it because there were&nbsp;problems that we could not fix or workaround. </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_4260193082591548413995584">What devices do we know do not work?</h2> 
+ <p> All of the following devices are known to have failed compatibility testing with the OVERDRIVE and OVERDRIVE: Fast &amp; Furious Edition apps. They are fundamentally incompatible&nbsp;with our products. We strongly recommend that you do not attempt to use these products with ours. </p> 
+ <p> <strong>Note:</strong>&nbsp;By its nature, this list is incomplete and subject to change at any time and without notice. </p> 
+ <table style="width: 627px; height: 1880px;"> 
+  <tbody> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Acer Iconia One 7 </p> </td> 
+    <td style="width: 318.021px;"> <p> Acer Iconia One 10 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Acer Iconia Tab 7 </p> </td> 
+    <td style="width: 318.021px;"> <p> Acer Iconia Tab A210 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Acer Iconia One 8 </p> </td> 
+    <td style="width: 318.021px;"> <p> Acer Iconia Tab A200 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Acer Iconia Tab 8 </p> </td> 
+    <td style="width: 318.021px;"> <p> Acer Iconia Tab A501 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Acer Iconia TalkTab 7 </p> </td> 
+    <td style="width: 318.021px;"> <p> Acer Iconia Tab A511 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> Acer Iconia Tab A700 </td> 
+    <td style="width: 318.021px;"> <p> Acer Iconia B B3-A20B&nbsp; </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> Acer Iconia B B3-A20 </td> 
+    <td style="width: 318.021px;"> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> Motorola Moto X Pure Edition&nbsp; </td> 
+    <td style="width: 318.021px;"> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> Motorola Moto X Style </td> 
+    <td style="width: 318.021px;"> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Foxconn Kurio Tab – Extreme </p> </td> 
+    <td style="width: 318.021px;"> <p> NVIDIA TegraNote </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Google Nexus 7 </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy Ace 4 Neo </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Google Nexus 4 </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy Ace Style&nbsp; </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Huawei P8 Lite </p> </td> 
+    <td style="width: 318.021px;"> <p> &nbsp;Samsung Galaxy Ace 3 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Huawei P9 Lite </p> </td> 
+    <td style="width: 318.021px;"> &nbsp;Samsung Galaxy Ace 4 </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Huawei P10 Lite </p> </td> 
+    <td style="width: 318.021px;"> &nbsp;Samsung Galaxy Ace 4 Lite </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Huawei Honor 5X </p> </td> 
+    <td style="width: 318.021px;"> &nbsp; </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Huawei Honor 6A </p> </td> 
+    <td style="width: 318.021px;"> &nbsp; </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Huawei Mate 10 Lite </p> </td> 
+    <td style="width: 318.021px;"> &nbsp;Samsung Galaxy Tab E 8.0" </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> HUAWEI MediaPad M3 Lite </p> </td> 
+    <td style="width: 318.021px;"> &nbsp;Samsung Galaxy Tab4 7.0" </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> HTC One Max </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy Alpha </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> HTC One Mini </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy Note 3 Neo </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> HTC One Mini 2 </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy J1 Ace </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Lenovo Mobile Lifetab P733X </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy Pocket Neo </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Lenovo Mobile Lifetab P891X </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy S3 Mini </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Lenovo Mobile Lifetab S1034X </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy S4 Mini </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> LG Volt </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy S5 mini </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Droid Mini </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy S3 Neo </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Droid Razr i </p> </td> 
+    <td style="width: 318.021px;"> <p> Samsung Galaxy S5 Neo </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Droid Razr HD </p> </td> 
+    <td style="width: 318.021px;"> <p> Sony / Sony Ericsson Xperia Z1 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Droid Razr M </p> </td> 
+    <td style="width: 318.021px;"> <p> Sony / Sony Ericsson Xperia Z1f </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Droid MAXX </p> </td> 
+    <td style="width: 318.021px;"> <p> Sony / Sony Ericsson Xperia Z1 Compact </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Moto E </p> </td> 
+    <td style="width: 318.021px;"> <p> Sony / Sony Ericsson Xperia Z1 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Moto G (2013 and 2014) </p> </td> 
+    <td style="width: 318.021px;"> <p> Symphony Teleca Hudl 2 </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Moto X </p> </td> 
+    <td style="width: 318.021px;"> <p> Unknown Lifetab P831X </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Moto X Force </p> </td> 
+    <td style="width: 318.021px;"> <p> Unknown Lifetab E733X </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 301.354px;"> <p> Motorola Moto X Play </p> </td> 
+    <td style="width: 318.021px;"> &nbsp; </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 622.465px;" colspan="2"> <p> <span class="wysiwyg-color-red90"><strong>Any Tablet or Device with any x86, x86-64, Intel, AMD, or Atom-based Processor</strong></span> </p> </td> 
+   </tr> 
+  </tbody> 
+ </table>
+</div>
+<hr> 
+<div class="sections"> 
+ <h2>What GPUs (Graphics Processing Units) do we know do not work?</h2> 
+ <table style="height: 41px;" width="687"> 
+  <tbody> 
+   <tr> 
+    <td style="width: 340px;"> GPU </td> 
+    <td style="width: 340px;"> Example Devices </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 340px;"> ARM Mali 400 (614 Mhz) </td> 
+    <td style="width: 340px;"> &nbsp;Samsung Galaxy J3 (2016) (j3xnlte) </td> 
+   </tr> 
+  </tbody> 
+ </table>
+</div>
+<hr> 
+<div class="sections"> 
+ <h2>Our apps are not supported running on devices that are:</h2> 
+ <ul> 
+  <li>Jailbroken, rooted, or running custom ROMs</li> 
+  <li>Running a Beta operating system</li> 
+  <li>Installed on external memory (SD Cards, USB, etc.)</li> 
+ </ul> 
+ <p> <strong>Our apps are only supported on devices running officially released builds provided by their manufacturer and installed on internal memory.</strong> </p> 
+ <h2>&nbsp;</h2> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_825986613351548414002072"><span class="wysiwyg-font-size-large">Other devices that should be compatible</span></h2> 
+ <p> While we do not actively test&nbsp;the following devices, if you own one and it is running at least iOS 9.3.5, Android 5 (Lollipop), or Fire OS 5.3.1.0, it will likely work as expected with OVERDRIVE or OVERDRIVE: Fast &amp; Furious Edition. </p> 
+ <p> These devices are not being actively tested, but we are confident that they should work well with OVERDRIVE or OVERDRIVE: Fast &amp; Furious Edition and should be able to Host games. </p> 
+ <p class="wysiwyg-indent1"> &nbsp; </p> 
+ <table class="wysiwyg-indent1" style="width: 645px;"> 
+  <tbody class="wysiwyg-indent1"> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 246.5px;"> <p class="wysiwyg-indent1"> Apple iPhone 7 Plus </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 394.5px;"> <p class="wysiwyg-indent1"> Samsung Galaxy S5 ( <span class="wysiwyg-color-red">excluding Mini / Neo range</span>) </p> </td> 
+   </tr> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 246.5px;"> <p class="wysiwyg-indent1"> Apple iPad Air 2 </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 394.5px;"> <p class="wysiwyg-indent1"> Samsung Galaxy S4 ( <span class="wysiwyg-color-red">excluding Mini range</span>) </p> </td> 
+   </tr> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 246.5px;"> <p class="wysiwyg-indent1"> Apple iPad Air </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 394.5px;"> <p class="wysiwyg-indent1"> Samsung Galaxy Note Edge </p> </td> 
+   </tr> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 246.5px;"> <p class="wysiwyg-indent1"> Apple iPad 3 </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 394.5px;"> <p class="wysiwyg-indent1"> Galaxy Note 3 ( <span class="wysiwyg-color-red90">excluding Neo range</span>) </p> </td> 
+   </tr> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 246.5px;"> <p class="wysiwyg-indent1"> OnePlus OnePlus One </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 394.5px;"> <p class="wysiwyg-indent1"> Sony Xperia Z3 </p> </td> 
+   </tr> 
+  </tbody> 
+ </table>
+ <p class="wysiwyg-indent1"> &nbsp; </p>
+ <p class="wysiwyg-indent1"> Below&nbsp;devices can only <strong>Join</strong>&nbsp;a game hosted by another device. They <span class="wysiwyg-underline">cannot be a Host</span> that allows other devices to Join a Game. </p>
+ <p class="wysiwyg-indent1"> &nbsp; </p> 
+ <table class="wysiwyg-indent1" style="width: 641px;"> 
+  <tbody class="wysiwyg-indent1"> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 244.5px;"> <p class="wysiwyg-indent1"> Kindle Fire (5th Generation) </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 391.5px;"> <p class="wysiwyg-indent1"> Kindle Fire HDX 8.9 (4th Generation) </p> </td> 
+   </tr> 
+   <tr class="wysiwyg-indent1"> 
+    <td class="wysiwyg-indent1" style="width: 244.5px;"> <p class="wysiwyg-indent1"> Kindle Fire Kid’s Edition </p> </td> 
+    <td class="wysiwyg-indent1" style="width: 391.5px;"> <p class="wysiwyg-indent1"> Kindle Fire HD 7 (4th Generation) </p> </td> 
+   </tr> 
+  </tbody> 
+ </table>
+ <p class="wysiwyg-indent1"> &nbsp; </p>
+</div>
+<hr> 
+<div class="sections"> 
+ <h2 id="h_1318606683581548414007593">Devices that support fewer&nbsp;than 4 Supercars or Supertrucks</h2> 
+ <p> These devices are known to not support connecting the maximum number of Supercars and Supertrucks during a game. </p> 
+ <table style="width: 635.5px;"> 
+  <tbody> 
+   <tr> 
+    <td style="width: 239px;"> <p> Huawei Honor 5C </p> </td> 
+    <td style="width: 390.5px;"> <p> Huawei Honor 6x </p> </td> 
+   </tr> 
+   <tr> 
+    <td style="width: 239px;"> <p> Lenovo Tab 2A7-20F </p> </td> 
+    <td style="width: 390.5px;"> &nbsp; </td> 
+   </tr> 
+  </tbody> 
+ </table>
+</div>
+<hr> 
+<div class="sections"> 
+ <h2 id="h_9897249143891548414013353">What are the Minimum Requirements?</h2> 
+ <p> In general, for a device to potentially work, it needs to meet or exceed both of these Software and Hardware Requirements. </p> 
+ <h3>&nbsp;</h3> 
+ <h3>Software</h3> 
+ <ul> 
+  <li>iOS&nbsp;9</li> 
+  <li>Android 4.4 (Kit Kat)</li> 
+  <li>Fire OS 4 (Android 4.4.2)</li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_7456430844401548414018568">Is there anything else to try if a device cannot find the App in any app store?</h2> 
+ <p> If you are using an Android device or an Amazon Kindle Fire OS device and they are not listed anywhere on this page and your unable to download the OVERDRIVE app from the App Store, you can try using the&nbsp; <strong><a href="//support.digitaldreamlabs.com/article/244-download-the-android-apk" target="_blank" rel="noopener noreferrer">Android app (apk) for unsupported devices</a></strong>. We currently are planning on making a similar option available for OVERDRIVE: Fast &amp; Furious Edition. </p> 
+ <p> <strong>This .apk file will install on&nbsp;both Android and Fire OS devices.</strong> </p> 
+ <p> Please note that we try to update and revise this article as often as possible, given the significant number of shipping and new devices, Android operating system versions with&nbsp;manufacturer customizations, the specifics in this article may become out of date. </p> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/253-compatible-devices-further-information">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-01-28 >Last updated on January 28, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e7d76232c7d3a7e9ae9e176"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/511-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/508-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/506-legacy-products">Legacy Products  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/505-overdrive-26-relaunched">OverDrive 2.6 Relaunched  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/507-track-car-maintenance">Track &amp; Car Maintenance  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/509-track-tips">Track Tips  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/328-technical-issues-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

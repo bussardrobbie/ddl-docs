@@ -1,0 +1,482 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Vector’s Cube - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Learn below everything you need to know about Vector’s cube. Sections: What battery does the cube use? How long does the battery last? How do I change the batte"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/115-vectore28099s-cube"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Vector’s Cube" />
+            <meta name="twitter:description" content="Learn below everything you need to know about Vector’s cube. Sections: What battery does the cube use? How long does the battery last? How do I change the batte"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691863952832.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Vector’s Cube","item":"https://support.digitaldreamlabs.com/article/115-vectore28099s-cube"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Vector’s Cube</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> <span style="font-weight: 400;">Learn below everything you need to know about Vector’s cube.</span></p>
+<hr> 
+<div class="sections"> 
+ <h2>Sections:</h2> 
+ <ul> 
+  <li><a href="#h_916401561331539002421350"><strong>What battery does the cube use?</strong></a></li> 
+  <li><a href="#h_904779067551539002425973"><strong>How long does the battery last?</strong></a></li> 
+  <li><a href="#h_704656899181539002339381"><strong>How do I change the battery?</strong></a></li> 
+  <li><a href="#h_883607770741539002434452"><strong>How does Vector interact with the cube?</strong></a></li> 
+  <li><a href="#h_193239252811539002440687"><strong>Why does Vector ignore his cube?</strong></a></li> 
+  <li><strong>Troubleshooting</strong></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_916401561331539002421350"><span style="font-weight: 400;">What battery does the cube use?</span></h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Alkaline N / E90 / LR1 1.5 Volt batteries</span></li> 
+  <li><span style="font-weight: 400;">Do not use A23 batteries - these will damage the Cube</span></li> 
+  <li><span style="font-weight: 400;">Do not use rechargeable batteries - these will damage the Cube</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_904779067551539002425973"><span style="font-weight: 400;">How long does the battery last?</span></h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Batteries come pre-installed in Vector’s Cube</span></li> 
+  <li><span style="font-weight: 400;">Once the pull-tab is removed, the battery will start to lose charge</span></li> 
+  <li><span style="font-weight: 400;">The battery will last 20-40 hours of gameplay depending on how much Vector interacts with the Cube</span></li> 
+  <li><span style="font-weight: 400;">To test if the battery is working, reset the cube:</span></li> 
+  <ul> 
+   <li><span style="font-weight: 400;">unscrew the lid from the cube</span></li> 
+   <li><span style="font-weight: 400;">wait for 10 seconds</span></li> 
+   <li><span style="font-weight: 400;">screw the lid back on</span></li> 
+   <li><span style="font-weight: 400;">the cube should flash red&gt;green&gt;blue if the battery is fine</span></li> 
+  </ul> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_704656899181539002339381"><span style="font-weight: 400;">How do I change the battery?</span></h2> 
+ <ol> 
+  <li><span style="font-weight: 400;">Remove the cube’s screw using a cross head screwdriver and open the cube’s cover</span></li> 
+  <li> <span style="font-weight: 400;">Remove and </span><a href="//support.digitaldreamlabs.com/article/88-product-disposal-information">safely dispose</a><span style="font-weight: 400;"> of the old battery</span> </li> 
+  <li><span style="font-weight: 400;">Insert a new battery, with the positive end toward the Cube Door that you removed.</span></li> 
+  <li><span style="font-weight: 400;">Replace the cover and screw the cover back down (not too tightly which can damage the cube)</span></li> 
+ </ol> 
+ <p> <span style="font-weight: 400;"><img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/5e7d76ee2c7d3a7e9ae9e341/img-25345-1585280584-1033400553.png" alt="Battery_Diagram.png"></span> </p> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_193239252811539002440687"><span style="font-weight: 400;">How does Vector interact with the cube?</span></h2> 
+ <ul> 
+  <li><span class="wysiwyg-color-black" style="font-weight: 400;">Vector's cube is like a pet's favorite toy, his possession, and from a technical standpoint, it's a landmark for him as he navigates and explores the area</span></li> 
+  <li><span class="wysiwyg-color-black" style="font-weight: 400;">Vector interacts with his cube on two levels:</span></li> 
+  <ul> 
+   <li><span class="wysiwyg-color-black" style="font-weight: 400;">Visually: He recognizes the cube by its marking (even without a battery) </span></li> 
+   <li><span class="wysiwyg-color-black" style="font-weight: 400;">Wirelessly (the cube will show in your device's Bluetooth settings, while Vector will not): He connects wirelessly to the cube if it is nearby. If a cube is too far away or the battery is low or dead, Vector may not be able to sync with it</span></li> 
+  </ul> 
+  <li><span class="wysiwyg-color-black" style="font-weight: 400;">Vector will tap the cube if he’s so inclined</span></li> 
+  <li><span style="font-weight: 400;">You can ask Vector to do a trick such as Roll the cube, Pounce or Pop a Wheelie</span></li> 
+  <li><span style="font-weight: 400;">You can ask Vector, “Hey Vector [wait] where is your cube?”</span></li> 
+ </ul> 
+</div> 
+<hr> 
+<div class="sections"> 
+ <h2 id="h_193239252811539002440687"><span style="font-weight: 400;">Why does Vector ignore his cube?</span></h2> 
+ <ul> 
+  <li><span style="font-weight: 400;">Vector will not connect to his cube if he is sleeping. Wake him up by getting his attention with “Hey Vector!”</span></li> 
+  <li><span style="font-weight: 400;">If Vector’s cube is in the Vector Space, he will ignore it</span></li> 
+  <li><span style="font-weight: 400;">If the cube has a low battery or the battery is dead, he will not be able to connect to it</span></li> 
+  <ul> 
+   <li><span style="font-weight: 400;">You may try to force-sync the cube by opening the Vector app &gt; Settings &gt; going to Cube Status &gt; tap “Refresh Cube” &gt; once connected, tap “Ping Cube” to light the Cube up</span></li> 
+   <li> <span style="font-weight: 400;">Alternatively, </span><a href="#h_704656899181539002339381"><strong>change the battery</strong></a></li> 
+  </ul> 
+  <hr> 
+  <h2>Issues &amp; Troubleshooting</h2> 
+  <table> 
+   <tbody> 
+    <tr> 
+     <td><strong>Issue</strong></td> 
+     <td><strong>Cause</strong></td> 
+     <td><strong>Resolution</strong></td> 
+    </tr> 
+    <tr> 
+     <td>The Cube does not light up.</td> 
+     <td>-Vector is not connected to the Cube.<br>-Battery is discharged<br>-Poor connection between battery and terminals<br>-Corrosion inside battery compartment</td> 
+     <td>-Ping the Cube in the Vector Robot app under Settings &gt; Cube Status<br>-Replace Battery (Alkaline N / E90 / LR1 1.5 Volt batteries- <strong>do</strong>&nbsp;<strong>NOT use</strong>&nbsp;rechargeable batteries or size A23 batteries)<br>-Using needlenose pliers, <u><strong>gently</strong></u> stretch the spring on the negative terminal.<br>-For light corrosion, clean terminals gently with a brush. For severe corrosion, Cube replacement may be required.</td> 
+    </tr> 
+    <tr> 
+     <td>The cube flashes red.</td> 
+     <td>-Battery is nearly depleted</td> 
+     <td>-Unscrew the battery door and replace the Battery (Alkaline N / E90 / LR1 1.5 Volt batteries-&nbsp;<strong>do&nbsp;NOT use</strong>&nbsp;rechargeable batteries or size A23 batteries)</td> 
+    </tr> 
+    <tr> 
+     <td>The cube lights are always on.</td> 
+     <td>The Cube has frozen or encountered an error.</td> 
+     <td>-Unscrew the battery door and remove the battery. Wait for at least 60 seconds. Reinsert battery and reattach battery door.</td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+     <td></td> 
+     <td></td> 
+    </tr> 
+   </tbody> 
+  </table>
+ </ul>
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/115-vectore28099s-cube">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2021-12-29 >Last updated on December 29, 2021</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

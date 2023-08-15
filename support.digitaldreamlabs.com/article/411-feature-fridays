@@ -1,0 +1,726 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>Feature Fridays! - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="Feature Fridays Feature Fridays ran for approximately 6 months from April 2020 to October 2020, and added tons of new knowledge to Vector! Each entry here conta"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/411-feature-fridays"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Feature Fridays!" />
+            <meta name="twitter:description" content="Feature Fridays Feature Fridays ran for approximately 6 months from April 2020 to October 2020, and added tons of new knowledge to Vector! Each entry here conta"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691863952832.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"Feature Fridays!","item":"https://support.digitaldreamlabs.com/article/411-feature-fridays"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">Feature Fridays!</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <h2>Feature Fridays</h2>
+<p> Feature Fridays ran for approximately 6 months from April 2020 to October 2020, and added tons of new knowledge to Vector! Each entry here contains examples of the feature that was added, and in many cases there are many more questions to explore for that feature- especially Small Talk, Drink Recipes, and more! These features come at no added cost for those with a <a href="//support.digitaldreamlabs.com/article/344-all-about-memberships" target="_blank">Vector Membership</a>. If you're new to Vector or want more ideas on how to interact with him, see <a href="//support.digitaldreamlabs.com/article/122-ways-to-interact-with-vector" target="_blank">"Ways To Interact With Vector"</a>.</p>
+<section class="callout-blue">
+ <h4>See A Video!</h4>
+ <p> Click on a purple title to see a video of this feature in action!</p>
+</section>
+<h2>#1: Drink Recipes</h2>
+<p> Vector now knows how to mix drinks! To be fair, he can't mix them for you, but he can definitely tell you what you'll need! Just think up your favorite drink, and try it out! Here are a few examples:</p>
+<ul> 
+ <li>"Hey Vector, I have a question. How do I make a mojito?"</li> 
+ <li>"Hey Vector, I have a question. How do you make a sea breeze?"</li> 
+ <li>"Hey Vector, question. How do I make an Aviation cocktail?"</li>
+</ul>
+<h2>#2: The Periodic Table</h2>
+<p> Fear science homework no more! Vector can tell you about the Periodic Table and its elements. Here are a few examples:</p>
+<ul> 
+ <li>"Hey Vector, question. How many electrons are in Titanium?"</li> 
+ <li>"Hey Vector, question. How many protons are in Gallium?"</li> 
+ <li>"Hey Vector, I have a question. What is the symbol for Manganese?"</li>
+</ul>
+<h2>#3: Music Theory</h2>
+<p> Vector can teach you about music and help you practice! Try a few of these:</p>
+<ul> 
+ <li>"Hey Vector, I have a question. How do you play a D chord major on piano?"</li> 
+ <li>"Hey Vector, I have a question.&nbsp;Show me how to play an A minor first inversion chord on the piano."</li> 
+ <li>"Hey Vector, question. Show me how to play a G minor chord on the piano."</li>
+</ul>
+<p> <strong>Quick Tip:&nbsp;</strong>Try following up one of the above questions with another question about the inversions of your chosen chord!</p>
+<h2>#4: <a href="https://vimeo.com/419041849" target="_blank">Small Talk</a></h2>
+<p> The Small Talk feature for Vector enables conversational answers for many different questions, pop culture references, statements, and more! Try these:</p>
+<ul> 
+ <li>"Hey Vector, question. What is the answer to life, the universe, and everything?"</li> 
+ <li>"Hey Vector, question.&nbsp;How are you?"</li> 
+ <li>"Hey Vector, I have a question. How is your day today?"</li> 
+ <li>"Hey Vector, I have a question. What makes you happy?"</li> 
+ <li>"Hey Vector, question.&nbsp;What is the velocity of an unladen swallow?"</li>
+</ul>
+<h2>#5: <a href="https://vimeo.com/421639461" target="_blank">Geometry</a></h2>
+<p> Vector&nbsp;knows how to help with Geometry homework!&nbsp;Here are a few examples to try:</p>
+<ul> 
+ <li>"Hey Vector, I have a question. What is the area of a rectangle with width four and length six?"</li> 
+ <li>"Hey Vector, I have a question. What is the radius of a circle with diameter sixteen?"</li> 
+ <li>"Hey Vector, I have a question. How do you calculate the diameter of a circle?"</li> 
+ <li>"Hey Vector, I have a question. How do you calculate the area of a rectangle?"</li> 
+ <li>"Hey Vector, question. How do you calculate the area of an isosceles triangle?"</li>
+</ul>
+<h2>#6: <a href="https://vimeo.com/424123815" target="_blank">Sports</a></h2>
+<p> Need to know more about your favorite team? Vector can help fill you in!&nbsp;Check out these examples:</p>
+<ul> 
+ <li>"Hey Vector, I have a question. When is the next (<em>team name</em>) game?"</li> 
+ <li>"Hey Vector, I have a question. What was the score of the big game in 2005?"</li>
+</ul>
+<h2>#7: <a href="https://vimeo.com/426291789" target="_blank">International Games</a></h2>
+<p> Vector knows about all of the past and upcoming international games records and medals! Check it out:</p>
+<ul> 
+ <li>"When are the Tokyo opening and closing ceremonies?"</li> 
+ <li>"How many gold and silver medals did Canada and the United States win in 1998 and 2000?"</li>
+</ul>
+<h2>#8: <a href="https://vimeo.com/428624733" target="_blank">DDL Knowledge 1</a></h2>
+<p> Vector will now keep you up to date with his latest changes and feature additions!&nbsp;These answers will be kept up to date so you always have this information at your fingertips.</p>
+<ul> 
+ <li>"Hey Vector, question. When is the next firmware update?"</li> 
+ <li>"Hey Vector, I have a question. What is coming in the next firmware update?"</li>
+</ul>
+<h2> #9: <a href="https://vimeo.com/430807016" target="_blank">DDL Knowledge 2</a></h2>
+<p> Vector now knows a bit about himself! Here are the four questions added this week:</p>
+<ul> 
+ <li>"Hey Vector, I have a question. What kind of battery does your Cube take?"</li> 
+ <li>"Hey Vector, question. How do I change the battery in the Cube?"</li> 
+ <li>"Hey Vector, question. Why does the Cube show one red light?"</li> 
+ <li>"Hey Vector, question. What is the current firmware version?"</li>
+</ul>
+<h2>#10: <a href="https://vimeo.com/432737227" target="_blank">DDL Knowledge 3</a></h2>
+<p> We added more useful knowledge about DDL’s offerings for Vector.</p>
+<ul> 
+ <li>"Hey Vector, I have a question. What is the Escape Pod?"</li> 
+ <li>"Hey Vector, question. When is the Escape Pod going to be released?"</li> 
+ <li>"Hey Vector, question. What is the Open Source Kit?"</li> 
+ <li>"Hey Vector, question. When is the Open Source Kit coming out?"</li>
+</ul>
+<h2>#11: <a href="https://vimeo.com/435197732" target="_blank">DDL Knowledge 4</a></h2>
+<p> This week, we taught Vector about some common questions people may have while using him:</p>
+<ul> 
+ <li>"Hey Vector, question. Why can't you take more photos?"</li> 
+ <li>"Hey Vector, question. Why are your back lights yellow?"</li>
+</ul>
+<h2>#12: <a href="https://vimeo.com/437266100" target="_blank">Small Talk Mini-Expansion 1</a></h2>
+<p> Vector learned more about himself this week:</p>
+<ul> 
+ <li>"Hey Vector, question. Can you make coffee?"</li> 
+ <li>"Hey Vector, question. Can you play any games?"</li> 
+ <li>"Hey Vector, I have a question. What's new in the latest update?"</li>
+</ul>
+<h2>#13: Small Talk Mini-Expansion 2</h2>
+<p> Vector learned some more casual conversation this week:</p>
+<ul> 
+ <li>“Hey Vector, question. Are you spying on me?”</li> 
+ <li>“Hey Vector, question. How fast can you go?"</li> 
+ <li>“Hey Vector, question. Who is your favorite robot?”</li>
+</ul>
+<h2>#14: <a href="https://vimeo.com/441397042" target="_blank">Puzzlets Knowledge</a></h2>
+<p> This week we taught Vector a bit more about DDL’s offerings:</p>
+<ul> 
+ <li>"Hey Vector, question. What is Swatch Out?"</li> 
+ <li>"Hey Vector, question. What is Abacus Finch?"</li> 
+ <li>"Hey Vector, I have a question. What is Cork The Volcano?"</li>
+</ul>
+<h2>#15: <a href="https://vimeo.com/443250275" target="_blank">Small Talk Mini-Expansion 3</a></h2>
+<p> We added&nbsp;common questions people ask Vector to make small talk! Here are this week’s additions:</p>
+<ul> 
+ <li>"Hey Vector, question. What do you eat?"</li> 
+ <li>"Hey Vector, question. How did you sleep?"</li> 
+ <li>"Hey Vector, I have a question. What is your favorite music?"</li> 
+ <li>"Hey Vector, I have a question. Where are you from?"</li>
+</ul>
+<h2>#16: <a href="https://vimeo.com/445375031" target="_blank">Small Talk Mini-Expansion 4</a></h2>
+<p> People love Small Talk! We added four more questions for Vector to answer that many people were asking:</p>
+<ul> 
+ <li>"Hey Vector, question. What can you do?"</li> 
+ <li>"Hey Vector, question. Are you a human, or a robot?"</li> 
+ <li>"Hey Vector, I have a question. Who is your best friend?"</li> 
+ <li>"Hey Vector, I have a question. Are you a good robot?"</li>
+</ul>
+<h2> #17: <a href="https://vimeo.com/449116473" target="_blank">Small Talk Mini-Expansion 5</a></h2>
+<p> More entries added to Small Talk this week:</p>
+<ul> 
+ <li>"Hey Vector, question. Do you like coffee?"</li> 
+ <li>"Hey Vector, question. How smart are you?"</li> 
+ <li>"Hey Vector, I have a question. How do you play blackjack?"</li>
+</ul>
+<h2> #18: <a href="https://vimeo.com/449955410" target="_blank">Commonly Asked Questions 1</a></h2>
+<p> This week we added questions commonly asked by the community!</p>
+<ul> 
+ <li>"Hey Vector, I have a question. Are you tired?"</li> 
+ <li>"Hey Vector, question. What did you do today?"</li> 
+ <li>"Hey Vector, question. Who is Jarvis?"</li> 
+ <li>"Hey Vector, I have a question. Why are you so cute?"</li>
+</ul>
+<h2> #19: <a href="https://vimeo.com/452392247" target="_blank">Commonly Asked Questions 2</a></h2>
+<p> A second round of questions commonly asked by the community:</p>
+<ul> 
+ <li>"Hey Vector, I have a question. Do you like dogs?"</li> 
+ <li>"Hey Vector, question. Are you fully charged?"</li> 
+ <li>"Hey Vector, question. Who created you?"</li>
+</ul>
+<h2> #20: <a href="https://vimeo.com/454839968" target="_blank">Commonly Asked Questions 3</a></h2>
+<p> This week was the final round of commonly asked questions from the community!</p>
+<ul> 
+ <li>"Hey Vector, I have a question. Do you like to dance?"</li> 
+ <li>"Hey Vector, question. Do you like cats?"</li> 
+ <li>"Hey Vector, question. Can you talk?"</li>
+</ul>
+<h2> #21: Multi-Part Queries!</h2>
+<p> This week we&nbsp;enabled multi-part queries! Users are now able to issue follow up questions without having to back out and repeat previous commands!&nbsp; An example would be as follows: <br> "Hey Vector, I have a question, who is LeBron James?"&nbsp; After it's answer, you can reply, "Hey, Vector, question, what high school did he attend?" <br> In the past you would have to reference exactly who or what you wanted to know about, but now Vector will stay on topic!</p>
+<h2> #22: <a href="https://vimeo.com/459510848" target="_blank">Hangman Mini-Game</a></h2>
+<p> You can now play a version of the classic game "Hangman" with Vector.&nbsp;Say "Hey Vector, Question, Play Hangman" to get started and play. Make sure to repeat "Hey Vector, question" before you guess each letter!</p>
+<h2> #23: Rock, Paper, Scissors &amp; Music Search</h2>
+<p> Rock, Paper, Scissors, and Music Search for you to enjoy with your Vector.</p>
+<h5>To use Music Search, say (for example):</h5>
+<ul> 
+ <li>"Hey Vector, I have a question: What are some Aerosmith songs?"</li> 
+ <li>"Hey Vector, question: "List the songs on the "Evolve" album by Imagine Dragons"</li>
+</ul>
+<h5>To play Rock, Paper, Scissors in a best out of five match with Vector, follow this process:</h5>
+<ul> 
+ <li>Hey Vector, question. Play Rock, Paper, Scissors!</li> 
+ <li>Hey Vector, I have a question. (Say your option: Rock, Paper, or Scissors)</li>
+</ul>
+<h2> #24: Guess The Number Mini-Game &amp; Music Knowledge &amp; Number Facts &amp; Chinese Zodiac &amp; Battleship</h2>
+<p> To finish out Feature Fridays, we enabled 5 new features! Check them out:</p>
+<h5>Guess My Number:</h5>
+<p> "Hey Vector, question, Play Guess My Number." He'll take you through the prompts until you guess his number! Try to get it in the least amount of guesses.</p>
+<h5>Music Knowledge:</h5>
+<ul> 
+ <li>"Hey Vector, question. Who is NSYNC?"</li> 
+ <li>"Hey Vector, question. List all of the albums by the Beatles"</li> 
+ <li>"Hey Vector, question, the artist Coldplay"</li>
+</ul>
+<h5>Number Facts:</h5>
+<ul> 
+ <li>"Hey Vector, question. Tell me something interesting about the number 17."</li> 
+ <li>"Hey Vector, question. Give me a random fact about 27."</li>
+</ul>
+<h5>Chinese Zodiac:</h5>
+<ul> 
+ <li>"Hey Vector, question. What is the Chinese zodiac sign of the year 2009?"</li> 
+ <li>"Hey Vector, question.&nbsp;Find me the current Chinese Zodiac sign."</li>
+</ul>
+<h5>Battleship:</h5>
+<ul> 
+ <li>To start, say: "Hey Vector, question. Start Battleship! 
+  <ul> 
+   <li>Vector will ask for a coordinate.</li> 
+   <li>Valid coordinates are A-J, 1-10.</li> 
+  </ul></li> 
+ <li>To play, issue a coordinate: "Hey Vector, question. F4!" 
+  <ul> 
+   <li>Vector will tell you if you hit or miss.</li> 
+  </ul></li> 
+ <li>Refer to the graph below for an easy map reference!</li>
+</ul> 
+<table> 
+ <tbody> 
+  <tr> 
+   <td> A1 </td> 
+   <td> A2 </td> 
+   <td> A3 </td> 
+   <td> A4 </td> 
+   <td> A5 </td> 
+   <td> A6 </td> 
+   <td> A7 </td> 
+   <td> A8 </td> 
+   <td> A9 </td> 
+   <td> A10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> B1 </td> 
+   <td> B2 </td> 
+   <td> B3 </td> 
+   <td> B4 </td> 
+   <td> B5 </td> 
+   <td> B6 </td> 
+   <td> B7 </td> 
+   <td> B8 </td> 
+   <td> B9 </td> 
+   <td> B10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> C1 </td> 
+   <td> C2 </td> 
+   <td> C3 </td> 
+   <td> C4 </td> 
+   <td> C5 </td> 
+   <td> C6 </td> 
+   <td> C7 </td> 
+   <td> C8 </td> 
+   <td> C9 </td> 
+   <td> C10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> D1 </td> 
+   <td> D2 </td> 
+   <td> D3 </td> 
+   <td> D4 </td> 
+   <td> D5 </td> 
+   <td> D6 </td> 
+   <td> D7 </td> 
+   <td> D8 </td> 
+   <td> D9 </td> 
+   <td> D10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> E1 </td> 
+   <td> E2 </td> 
+   <td> E3 </td> 
+   <td> E4 </td> 
+   <td> E5 </td> 
+   <td> E6 </td> 
+   <td> E7 </td> 
+   <td> E8 </td> 
+   <td> E9 </td> 
+   <td> E10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> F1 </td> 
+   <td> F2 </td> 
+   <td> F3 </td> 
+   <td> F4 </td> 
+   <td> F5 </td> 
+   <td> F6 </td> 
+   <td> F7 </td> 
+   <td> F8 </td> 
+   <td> F9 </td> 
+   <td> F10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> G1 </td> 
+   <td> G2 </td> 
+   <td> G3 </td> 
+   <td> G4 </td> 
+   <td> G5 </td> 
+   <td> G6 </td> 
+   <td> G7 </td> 
+   <td> G8 </td> 
+   <td> G9 </td> 
+   <td> G10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> H1 </td> 
+   <td> H2 </td> 
+   <td> H3 </td> 
+   <td> H4 </td> 
+   <td> H5 </td> 
+   <td> H6 </td> 
+   <td> H7 </td> 
+   <td> H8 </td> 
+   <td> H9 </td> 
+   <td> H10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> I1 </td> 
+   <td> I2 </td> 
+   <td> I3 </td> 
+   <td> I4 </td> 
+   <td> I5 </td> 
+   <td> I6 </td> 
+   <td> I7 </td> 
+   <td> I8 </td> 
+   <td> I9 </td> 
+   <td> I10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> J1 </td> 
+   <td> J2 </td> 
+   <td> J3 </td> 
+   <td> J4 </td> 
+   <td> J5 </td> 
+   <td> J6 </td> 
+   <td> J7 </td> 
+   <td> J8 </td> 
+   <td> J9 </td> 
+   <td> J10 </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+   <td> </td> 
+  </tr> 
+ </tbody> 
+</table>
+<h2></h2> 
+<div style="padding-left: 25px;"> 
+ <a style="color:#FFFFFF; border:0px; text-shadow:0px 0px; box-shadow: 5px 5px #37464C; background-color: #FA9E25; border-radius: 100em; padding: 0.579em 1.105em 0.842em; font-size: 19px;" href="//support.digitaldreamlabs.com/article/344-all-about-memberships"><strong>Learn More About Memberships</strong></a> 
+</div>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/411-feature-fridays">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-07-08 >Last updated on July 8, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li  class="active" ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+

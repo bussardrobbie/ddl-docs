@@ -1,0 +1,590 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8"/>
+    <title>The Customer Care Information Screen - Digital Dream Labs Knowledge Base</title>
+    <meta name="viewport" content="width=device-width, maximum-scale=1"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="description" content="The Customer Care Information Screens (CCIS) help Vector owners and DDL staff to identify issues with Vector&#x27;s hardware or software in a relatively easy, intuit"/>
+    <meta name="author" content="Digital Dream Labs"/>
+    <link rel="canonical" href="https://support.digitaldreamlabs.com/article/531-vector-ccis"/>
+    
+        
+   
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="The Customer Care Information Screen" />
+            <meta name="twitter:description" content="The Customer Care Information Screens (CCIS) help Vector owners and DDL staff to identify issues with Vector&#x27;s hardware or software in a relatively easy, intuit"/>
+
+
+    
+
+    
+        <link rel="stylesheet" href="//d3eto7onm69fcz.cloudfront.net/assets/stylesheets/launch-1691819252643.css">
+    
+    <style>
+        body { background: #1e90ff; }
+        .navbar .navbar-inner { background: #1e90ff; }
+        .navbar .nav li a, 
+        .navbar .icon-private-w  { color: #2f2f2f; }
+        .navbar .brand, 
+        .navbar .nav li a:hover, 
+        .navbar .nav li a:focus, 
+        .navbar .nav .active a, 
+        .navbar .nav .active a:hover, 
+        .navbar .nav .active a:focus  { color: #ffffff; }
+        .navbar a:hover .icon-private-w, 
+        .navbar a:focus .icon-private-w, 
+        .navbar .active a .icon-private-w, 
+        .navbar .active a:hover .icon-private-w, 
+        .navbar .active a:focus .icon-private-w { color: #ffffff; }
+        #serp-dd .result a:hover,
+        #serp-dd .result > li.active,
+        #fullArticle strong a,
+        #fullArticle a strong,
+        .collection a,
+        .contentWrapper a,
+        .most-pop-articles .popArticles a,
+        .most-pop-articles .popArticles a:hover span,
+        .category-list .category .article-count,
+        .category-list .category:hover .article-count { color: #fa9e25; }
+        #fullArticle, 
+        #fullArticle p, 
+        #fullArticle ul, 
+        #fullArticle ol, 
+        #fullArticle li, 
+        #fullArticle div, 
+        #fullArticle blockquote, 
+        #fullArticle dd, 
+        #fullArticle table { color:#000000; }
+    </style>
+    
+        <link rel="stylesheet" href="//s3.amazonaws.com/helpscout.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/attachments/63222faf037bc877147b8ec8/ddl_support_styles.css">
+    
+    <link rel="apple-touch-icon-precomposed" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225c9c713d51da3ede852/apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/png" href="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/632225a8037bc877147b8e98/favicon-32x32.png">
+    <!--[if lt IE 9]>
+    
+        <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/html5shiv.min.js"></script>
+    
+    <![endif]-->
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","url":"https://support.digitaldreamlabs.com","potentialAction":{"@type":"SearchAction","target":"https://support.digitaldreamlabs.com/search?query={query}","query-input":"required name=query"}}
+        </script>
+    
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Digital Dream Labs Knowledge Base","item":"https://support.digitaldreamlabs.com"},{"@type":"ListItem","position":2,"name":"Vector","item":"https://support.digitaldreamlabs.com/collection/6-vector"},{"@type":"ListItem","position":3,"name":"The Customer Care Information Screen","item":"https://support.digitaldreamlabs.com/article/531-vector-ccis"}]}
+        </script>
+    
+    
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G2E7H8VNSE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G2E7H8VNSE');
+</script>
+    
+</head>
+    
+    <body>
+        
+<header id="mainNav" class="navbar">
+    <div class="navbar-inner">
+        <div class="container-fluid">
+            <a class="brand" href="https://support.digitaldreamlabs.com/">
+            
+                
+                    <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/63222136c713d51da3ede832/logo-75h.png" alt="Digital Dream Labs Knowledge Base" width="195" height="75">
+                
+
+            
+            </a>
+            
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            
+            <div class="nav-collapse collapse">
+                <nav role="navigation"><!-- added for accessibility -->
+                <ul class="nav">
+                    
+                        <li id="home"><a href="/">Home <b class="caret"></b></a></li>
+                    
+                    
+                        
+                            <li  id="general-information"><a href="/collection/1-general-information">General Information  <b class="caret"></b></a></li>
+                        
+                            <li  class="active"  id="vector"><a href="/collection/6-vector">Vector  <b class="caret"></b></a></li>
+                        
+                            <li  id="cozmo"><a href="/collection/9-cozmo">Cozmo  <b class="caret"></b></a></li>
+                        
+                            <li  id="overdrive"><a href="/collection/62-overdrive">OverDrive  <b class="caret"></b></a></li>
+                        
+                            <li  id="escape-pod"><a href="/collection/364-escape-pod">Escape Pod  <b class="caret"></b></a></li>
+                        
+                            <li  id="puzzlets"><a href="/collection/325-puzzlets">Puzzlets  <b class="caret"></b></a></li>
+                        
+                    
+                    
+                        <li id="contact"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                        <li id="contactMobile"><a href="#" class="contactUs" onclick="window.Beacon('open')">Contact</a></li>
+                    
+                </ul>
+                </nav>
+            </div><!--/.nav-collapse -->
+        </div><!--/container-->
+    </div><!--/navbar-inner-->
+</header>
+        <section id="contentArea" class="container-fluid">
+            <div class="row-fluid">
+                <section id="main-content" class="span9">
+                    <div class="contentWrapper withRelated">
+                        
+    
+    <article id="fullArticle">
+        <h1 class="title">The Customer Care Information Screen</h1>
+    
+        <a href="javascript:window.print()" class="printArticle" title="Print this article" aria-label="Print this Article"><i class="icon-print"></i></a>
+        <p> The Customer Care Information Screens (CCIS) help Vector owners and DDL staff to identify issues with Vector's hardware or software in a relatively easy, intuitive way. First, let's examine how to enter CCIS. Then we'll take a look at the various CCIS screens and what they offer.</p>
+<hr>
+<h3>Accessing the Customer Care Information Screens:</h3>
+<ol> 
+ <li><strong>Enter Pairing Mode:</strong> 
+  <ol> 
+   <li>Make sure the Charger is plugged in to the wall with a wall plug.</li> 
+   <li>Place Vector on his charger.</li> 
+   <li>[If Vector is booting up, wait for the clouds to finish displaying]</li> 
+   <li>Double click Vector’s Back Button</li> 
+  </ol></li> 
+ <li><strong>Enter CCIS:</strong> 
+  <ol> 
+   <li><strong>Gently</strong> lift Vector's lift/arm assembly all the way up, then lower it all the way back down.</li> 
+   <li>CCIS Screen 1 will appear.</li> 
+  </ol></li> 
+ <li><strong>Enable Additional Screens:</strong> 
+  <ol> 
+   <li>Start from CCIS Screen 1, which we entered above.</li> 
+   <li><strong>Gently </strong>rotate Vector's head all the way down, then all the way back up.</li> 
+  </ol></li> 
+ <li>Tap the back button (the LED strip in the middle of the gold touch panel on Vector's Back) to cycle through screens. 
+  <ol> 
+   <li>Additional screens will NOT be available if Step 3 was not performed - you must perform Step 3 every time you enter CCIS to enable the additional screens.</li> 
+  </ol></li>
+</ol>
+<hr>
+<h3>Manipulating the robot in CCIS Mode:</h3>
+<ul> 
+ <li>To scroll through options in a Menu: 
+  <ul> 
+   <li><strong>Gently and slowly</strong> rotate either the left tread track or the right tread track to scroll through menu options if presented with a menu on the CCIS screen you are on.</li> 
+  </ul></li> 
+ <li>To activate / select an option in a Menu: 
+  <ul> 
+   <li><strong>Gently and slowly </strong>lift Vector's lift and arm assembly all the way up, then rotate it back all the way down.</li> 
+  </ul></li>
+</ul>
+<hr>
+<h3> Screen 1: Software</h3>
+<ul> 
+ <li><strong>ESN:</strong> The programmed serial number of the robot. 
+  <ul> 
+   <li>Eight characters long</li> 
+   <li>On Anki models, the serial number starts with "00"</li> 
+   <li>On DDL models, the serial number starts with "0dd"</li> 
+  </ul></li> 
+ <li><strong>OS:</strong>&nbsp;The version of the software currently running on the robot.</li> 
+ <li><strong>SSID:</strong>&nbsp;The name of the wireless network that Vector is currently connected to.</li> 
+ <li><strong>IP:</strong>&nbsp;The internal address that Vector is located at on your network.</li> 
+ <li><strong>SHA:</strong>&nbsp;Secure Hashing Algorithm signature.</li> 
+ <li><strong>Menu:</strong> 
+  <ul> 
+   <li>Clear User Data (See <a href="//support.digitaldreamlabs.com/article/384-performing-a-clear-user-data-reset" target="_blank">Performing a Clear User Data Reset</a> for more information)</li> 
+   <li>Exit</li> 
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/62697075a535c33d541a28a1/file-GznCG0Myni.jpg"></p>
+<hr>
+<h3> Screen 2: Networking</h3>
+<ul> 
+ <li><strong>BLE ID:</strong> The name that Vector broadcasts over Bluetooth. Usually in the format "Vector" followed by a 4-digit identifier, e.g. "Vector N4Y6".</li> 
+ <li><strong>MAC:</strong> The Media Access Control address that is tied to Vector's network interface.</li> 
+ <li><strong>SSID:</strong>&nbsp;The name of the wireless network that Vector is currently connected to.</li> 
+ <li><strong>IP:</strong>&nbsp;The internal address that Vector is located at on your network.</li> 
+ <li><strong>Timestamp:</strong> The time that Vector has determined via a connection to a network. If this is blank or out of date, Vector may have connection issues.</li> 
+ <li><strong>NETWORK:</strong> Displays the results of a pass/fail check for network conditions. Possible codes are: 
+  <ul> 
+   <li>AVAILABLE</li> 
+   <li>CONNECTIVITY</li> 
+   <li>TLS</li> 
+   <li>AUTH</li> 
+   <li>BANDWIDTH</li> 
+   <li>CHECKING...</li> 
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/626970f3a535c33d541a28a4/file-244q5pqs2C.jpg"></p>
+<hr>
+<h3> Screen 3: Battery, Temperature, and Navigation</h3>
+<ul> 
+ <li><strong>SYS:</strong> SysCon version.</li> 
+ <li><strong>CLF:</strong> The values of each of the four cliff sensors on the bottom of the robot. From left to right, the order is: 
+  <ul> 
+   <li>Front Left</li> 
+   <li>Front Right</li> 
+   <li>Rear Left</li> 
+   <li>Rear Right</li> 
+  </ul></li> 
+ <li><strong>DIST:</strong> The measurement of distance that the robot can "see" in front of him that is clear of obstacles. The lower the number, the closer an obstacle is detected in front of the robot.</li> 
+ <li><strong>TOUCH:</strong> The value of the detected input from the touch sensor on the back of the robot, in between each of the four microphones (outlined in gold). 
+  <ul> 
+   <li>This value should fluctuate if the gold sensor is touched by a human hand, and may also fluctuate near sources of electricity such as power cables to appliances, etc.</li> 
+  </ul></li> 
+ <li><strong>BATT:</strong> The current voltage of the battery.</li> 
+ <li><strong>CHGR:</strong> The voltage that the charger is providing to the robot. 
+  <ul> 
+   <li>This will (or should) always measure 0 when the robot is OFF the charger.</li> 
+   <li>The expected range is 4.8-5.0V when the robot is on the charger and the charger is powered with a proper wall plug (DC 5V/1A minimum)</li> 
+  </ul></li> 
+ <li><strong>TEMP:</strong> The measured temperature of the headboard and bodyboard of the robot. These may fluctuate based upon ambient temperature, activity level of the robot, and other factors. 
+  <ul> 
+   <li>Expected range during normal operation, depending upon ambient temperature (headboard, "(H)"): 52C - 80C</li> 
+   <li>Expected range during normal operation,&nbsp;depending upon ambient temperature (bodyboard, "(B)"): 34C - 54C</li> 
+   <li>Beyond these ranges, the robot will not function normally and the following overheat symptoms may be noted: </li> 
+   <ul> 
+    <li>Motor usage may be stopped.</li> 
+    <li>House icon with a thermometer may be displayed.</li> 
+    <li>In severe cases of overheat, the robot may shut down to protect against damage.</li> 
+   </ul>
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/6269710993a48c4448335e48/file-TlNHrgk9ch.jpg"></p>
+<hr>
+<h3> Screen 4: Movement</h3>
+<ul> 
+ <li><strong>ACC:</strong> Displays the measured values of each axis monitored by the accelerometer in the robot. The values, respectively, are:<br> 
+  <ul> 
+   <li>Z Axis</li> 
+   <li>Y Axis</li> 
+   <li>X Axis</li> 
+  </ul></li> 
+ <li><strong>GYRO:</strong> Displays the measured rate of change of the ACC (accelerometer) values, respective to each axis (first value is Z Axis, second value is Y Axis, third value is X Axis).</li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/626971167488cf771e51d408/file-SMySpVeMQw.jpg"></p>
+<hr>
+<h3> Screen 5: Positioning</h3>
+<ul> 
+ <li><strong>HEAD:</strong> The angle of the head with respect to the surface the robot is resting on (and the body). 
+  <ul> 
+   <li>The standard range is -21 degrees up to 46 degrees.</li> 
+   <li>Anything egregiously outside this expected range may result in an error.</li> 
+  </ul></li> 
+ <li><strong>LIFT:</strong> The angle of the lift / arm assembly with respect to the surface the robot is resting on (and the body). 
+  <ul> 
+   <li> The standard range is -15 degrees up to 45 degrees.</li> 
+   <li>Anything egregiously outside this expected range may result in an error.</li> 
+  </ul></li> 
+ <li><strong>LSPEED:</strong> Displays the rate of travel of the left tread.&nbsp; 
+  <ul> 
+   <li>Should always stay at 0.00mm/s unless the robot is moving and/or the tread is being manually moved by the user.</li> 
+  </ul></li> 
+ <li><strong>RSPEED:</strong>&nbsp;Displays the rate of travel of the left tread.&nbsp; 
+  <ul> 
+   <li>Should always stay at 0.00mm/s unless the robot is moving and/or the tread is being manually moved by the user.</li> 
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/626971247488cf771e51d409/file-lhfoeQWB9C.jpg"></p>
+<hr>
+<h3> Screen 6: Microphones</h3>
+<ul> 
+ <li><strong>MICS:</strong> Shows the values of the microphones and their detection of ambient or directed noise, e.g. nearby conversation or commands given to the robot. 
+  <ul> 
+   <li>The microphones are highly sensitive. These values should always fluctuate, even in near-silence. 
+    <ul> 
+     <li>Lack of fluctuation in any microphone reading is likely to indicate hardware failure, and may result in decreased voice command recognition and/or beat and noise detection.</li> 
+    </ul></li> 
+   <li>Shown in the following order: 
+    <ul> 
+     <li>Rear Left</li> 
+     <li>Front Left</li> 
+     <li>Rear Right</li> 
+     <li>Front Right</li> 
+    </ul></li> 
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/626971a893a48c4448335e4c/file-92XnAxZylW.jpg"></p>
+<hr>
+<h3>Screen 7: Sound Analysis</h3>
+<p> <strong>This screen is available on OSKR / developer robots only.</strong></p>
+<ul> 
+ <li><strong>3D Directional Microphone Visualization:</strong> Displays the robot's interpretation of where sound is originating. 
+  <ul> 
+   <li>Sound that is currently being heard is displayed as as "spike" or a bar in the directional circle.</li> 
+   <li>The direction of the last sound that was heard is noted at the edge of the circle in a red square.</li> 
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/626971b46c886c75aabeabce/file-eMEseeoujx.jpg"></p>
+<hr>
+<h3> Screen 8: Camera Test Mode</h3>
+<p> <strong>This screen is available on OSKR / developer robots only.</strong></p>
+<ul> 
+ <li><strong>Camera Test Mode:</strong> Shows the camera feed from the robot. 
+  <ul> 
+   <li>Lifting the lift and setting it back down enables standard robot behavior while showing the camera feed on the screen. This is useful for testing object recognition models and the behavior the robot will display when objects are identified.</li> 
+  </ul></li>
+</ul>
+<p> <img src="//d33v4339jhl8k0.cloudfront.net/docs/assets/5e3f0b1e2c7d3a7e9ae777f5/images/626971c7b065ad1af4f81612/file-hLCKThtIGi.jpg"></p>
+<hr>
+<p> <em>Revised 4/27/2022<br> RLB</em></p>
+    </article>
+    
+        <div class="articleRatings" data-article-url="https://support.digitaldreamlabs.com/article/531-vector-ccis">
+            <span class="articleRatings-question">Did this answer your question?</span>
+            <span class="articleRatings-feedback">
+                <span class="articleRatings-feedback-tick">
+                    <svg height="20" viewBox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+                        <path d="m8 14a.997.997 0 0 1 -.707-.293l-2-2a.999.999 0 1 1 1.414-1.414l1.293 1.293 4.293-4.293a.999.999 0 1 1 1.414 1.414l-5 5a.997.997 0 0 1 -.707.293" fill="#2CC683" fill-rule="evenodd"/>
+                    </svg>
+                </span>
+                <span class="articleRatings-feedback-message">Thanks for the feedback</span>
+            </span>
+            <span class="articleRatings-failure">There was a problem submitting your feedback. Please try again later.</span>
+            <div class="articleRatings-actions">
+                <button class="rateAction rateAction--positive" data-rating="positive">
+                    <span class="sr-only">Yes</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M5.538 14.026A19.392 19.392 0 0 1 12 12.923c2.26 0 4.432.388 6.462 1.103-1.087 2.61-3.571 4.436-6.462 4.436-2.891 0-5.375-1.825-6.462-4.436zm1.847-3.872a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692z"/>
+                        </svg>
+                    </span>
+                </button>
+                <button class="rateAction rateAction--negative" data-rating="negative">
+                    <span class="sr-only">No</span>
+                    <span class="rating-face">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+                            <path fill-rule="evenodd" d="M7.385 13.846a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm9.23 0a1.846 1.846 0 1 1 0-3.692 1.846 1.846 0 0 1 0 3.692zm-.967 4.95a.992.992 0 0 1-.615-.212c-1.701-1.349-4.364-1.349-6.065 0a.998.998 0 0 1-1.36-.123.895.895 0 0 1 .127-1.3A6.897 6.897 0 0 1 12 15.692c1.555 0 3.069.521 4.266 1.467.41.326.467.909.127 1.3a.982.982 0 0 1-.745.335z"/>
+                        </svg>
+                    </span>
+                </button>
+            </div>
+        </div>
+     
+
+    <section class="articleFoot">
+    
+        <i class="icon-contact"></i>
+        <p class="help">Still need help?
+            <a id="sbContact" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+            <a id="sbContactMobile" href="#" class="contactUs" onclick="window.Beacon('open')">Contact Us</a>
+        </p>
+    
+
+    <time class="lu" datetime=2022-08-25 >Last updated on August 25, 2022</time>
+    </section>
+
+                    </div><!--/contentWrapper-->
+                    
+                        <section class="related">
+                            <h3>Related Articles</h3>
+                            <ul>
+                                
+                                    <li><a href="/article/104-troubleshooting-vectore28099s-connection"><i class="icon-article-doc"></i><span>Troubleshooting Vector&#x27;s Connection</span></a></li>
+                                
+                                    <li><a href="/article/54-vector-software-update"><i class="icon-article-doc"></i><span>How do I update Vector&#x27;s software?</span></a></li>
+                                
+                                    <li><a href="/article/338-how-do-i-find-vectors-serial-number"><i class="icon-article-doc"></i><span>How Do I Find Vector&#x27;s Serial Number?</span></a></li>
+                                
+                                    <li><a href="/article/384-performing-a-clear-user-data-reset"><i class="icon-article-doc"></i><span>Performing a Clear User Data Reset</span></a></li>
+                                
+                                    <li><a href="/article/383-performing-a-firmware-recovery-reset"><i class="icon-article-doc"></i><span>Performing a Firmware Recovery Reset</span></a></li>
+                                
+                                    <li><a href="/article/101-why-does-vector-show-an-error"><i class="icon-article-doc"></i><span>Why does Vector show an error?</span></a></li>
+                                
+                                    <li><a href="/article/96-vector-status-codes"><i class="icon-article-doc"></i><span>Vector Error &amp; Status Codes</span></a></li>
+                                
+                                    <li><a href="/article/100-troubleshooting-charging-issues"><i class="icon-article-doc"></i><span>Troubleshooting Charging Issues</span></a></li>
+                                
+                                    <li><a href="/article/361-vector-developer-tools"><i class="icon-article-doc"></i><span>Vector Developer Tools</span></a></li>
+                                
+                                    <li><a href="/article/102-why-is-there-no-sound"><i class="icon-article-doc"></i><span>Why is there no sound?</span></a></li>
+                                
+                            </ul>
+                        </section>
+                    
+                </section><!--/content-->
+                <aside id="sidebar" class="span3">
+                 
+
+<form action="/search" method="GET" id="searchBar" class="sm" autocomplete="off">
+    
+                    <input type="hidden" name="collectionId" value="5e759bbd04286364bc970a3f"/>
+                    <input type="text" name="query" title="search-query" class="search-query" placeholder="Search" value="" aria-label="Search" />
+                    <button type="submit">
+                        <span class="sr-only">Toggle Search</span>
+                        <i class="icon-search"></i>
+                    </button>
+                    <div id="serp-dd" style="display: none;" class="sb">
+                        <ul class="result">
+                        </ul>
+                    </div>
+                
+</form>
+
+                
+                    <h3>Categories</h3>
+                    <ul class="nav nav-list">
+                    
+                        
+                            <li  class="active" ><a href="/category/524-customer-care-information-screen">Customer Care Information Screen  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/15-frequently-asked-questions">Frequently Asked Questions  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/486-vector-membership">Vector Membership  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/491-setting-vector-up">Setting Vector Up  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/483-software-updates">Software Updates  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/74-living-with-vector">Interacting with Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/489-charging-power">Charging &amp; Power  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/482-vectors-cube">Vector&#x27;s Cube  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/484-documents-manuals">Documents &amp; Manuals  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/487-reset-vector">Reset Vector  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/343-oskr">Open Source Kit for Robotics  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/67-product-information">Product Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/34-sdk-information">SDK Information  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/481-connection-troubleshooting">Connection Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/488-error-troubleshooting">Error Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/490-speech-recognition-troubleshooting">Speech Recognition Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/485-sound-troubleshooting">Sound Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                        
+                            <li ><a href="/category/16-troubleshooting">Technical Troubleshooting  <i class="icon-arrow"></i></a></li>
+                        
+                    
+                    </ul>
+                
+                </aside><!--/span-->
+            </div><!--/row-->
+            <div id="noResults" style="display:none;">No results found</div>
+            <footer>
+                
+
+<p>&copy;
+    
+        <a href="https://support.digitaldreamlabs.com/">Digital Dream Labs</a>
+    
+    2023. <span>Powered by <a rel="nofollow noopener noreferrer" href="https://www.helpscout.com/knowledge-base/?utm_source=docs&utm_medium=footerlink&utm_campaign=Docs+Branding" target="_blank">Help Scout</a></span>
+    
+        
+    
+</p>
+
+            </footer>
+        </section><!--/.fluid-container-->
+        
+            
+
+<script id="beaconLoader" type="text/javascript">!function(e,t,n){function a(){var e=t.getElementsByTagName("script")[0],n=t.createElement("script");n.type="text/javascript",n.async=!0,n.src="https://beacon-v2.helpscout.net",e.parentNode.insertBefore(n,e)}if(e.Beacon=n=function(t,n,a){e.Beacon.readyQueue.push({method:t,options:n,data:a})},n.readyQueue=[],"complete"===t.readyState)return a();e.attachEvent?e.attachEvent("onload",a):e.addEventListener("load",a,!1)}(window,document,window.Beacon||function(){});</script>
+<script type="text/javascript">window.Beacon('init', '2a265896-3681-4ee3-9c57-1bd1967f8697')</script>
+
+<script type="text/javascript">
+    function hashChanged() {
+        var hash = window.location.hash.substring(1); 
+        if (hash === 'contact') {
+            window.Beacon('open')
+        }
+    }
+
+    if (window.location.hash) {
+        hashChanged()
+    }
+
+    window.onhashchange = function () {
+        hashChanged()
+    }
+
+    window.addEventListener('hashchange', hashChanged, false);
+
+</script>
+
+        
+        
+    <script src="//d3eto7onm69fcz.cloudfront.net/assets/javascripts/app3.min.js"></script>
+
+<script>
+// keep iOS links from opening safari
+if(("standalone" in window.navigator) && window.navigator.standalone){
+// If you want to prevent remote links in standalone web apps opening Mobile Safari, change 'remotes' to true
+var noddy, remotes = false;
+document.addEventListener('click', function(event) {
+noddy = event.target;
+while(noddy.nodeName !== "A" && noddy.nodeName !== "HTML") {
+noddy = noddy.parentNode;
+}
+
+if('href' in noddy && noddy.href.indexOf('http') !== -1 && (noddy.href.indexOf(document.location.host) !== -1 || remotes)){
+event.preventDefault();
+document.location.href = noddy.href;
+}
+
+},false);
+}
+</script>
+        
+    </body>
+</html>
+
+
