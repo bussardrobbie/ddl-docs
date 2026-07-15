@@ -11,4 +11,4 @@ TODO:
 5. Mirror each article on the wiki.
 6. Close this repository as it will be redundant once the wiki is stood up.
 
-The [OSKR Support Knowledge Base](https://oskr.ddl.io) is likely down and unrecoverable, so no further work will continue on the OSKR-specific docum
+The [OSKR Support Knowledge Base](https://oskr.ddl.io) is likely down and unrecoverable, so no further work will continue on the OSKR-specific documentation from that site. However, other GitHub repositories have documentation that may be reliably accessible, and will eventually be worked into this repository.
